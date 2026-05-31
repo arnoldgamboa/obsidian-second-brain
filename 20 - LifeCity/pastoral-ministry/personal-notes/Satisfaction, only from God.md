@@ -1,0 +1,4 @@
+<span style="font-size:11.142857551574707pt;">" I had to learn to stop chasing the perishable prizes of this earth, I had to stop chasing personal glory, I had to learn how to give my best effort to God and trust him with the results. I have to learn to have enough faith to trust in his grace and to trust in his sovereign and perfect plan. I had to submit my will, my desires, my dreams — give it all up to God and say, "Look, I am going to give my best effort, go on the court and play every day for you, and I'm going to let you take care of the rest." This is something I struggle with every day. . . . Playing for great stats is nice, but that satisfaction — that happiness — is only from game to game. It's temporary."</span>
+
+
+<span style="font-size:11.142857551574707pt;">-Jeremy Lin</span>

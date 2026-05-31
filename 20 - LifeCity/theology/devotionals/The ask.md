@@ -1,0 +1,7 @@
+““Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened. Or which one of you, if his son asks him for bread, will give him a stone? Or if he asks for a fish, will give him a serpent? If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!”
+‭‭Matthew‬ ‭7:7-11‬ ‭ESV‬‬
+http://bible.com/59/mat.7.7-11.esv
+
+Ask and it will be given. Why is something good sometimes are not given? Because we do not ask (Literally ask God for blessings). Knock and it will be opened. Good opportunities do not open at times? Because we do not knock. (Take risks, pray for opportunities). The tension happens when we make God a genie or a vending machine. He is still God and he makes the decision what's best for us.
+
+This is evident for me as a father. I love giving stuff and opportunities to my kids. But sometimes I give it to them only when they ask. There's something joyful to see my kids dependent on me. So, when it comes to my relationship with God, I just have to ask and knock. He is still sovereign and I accept his will. But I wouldn't know if it is God's will or not if I don't ask.

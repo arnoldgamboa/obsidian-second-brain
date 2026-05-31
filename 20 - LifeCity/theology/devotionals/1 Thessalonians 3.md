@@ -1,0 +1,1 @@
+One of the most encouraging result of a pastor's job is to see the faith of his people grow.

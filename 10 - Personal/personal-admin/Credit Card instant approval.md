@@ -1,0 +1,1 @@
+https://www.reddit.com/r/PHCreditCards/comments/163eglj/which_secured_credit_card_in_the_philippines_is/#:~:text=RCBC%20Bankard%20Instacard&text=Open%20a%20savings%20account%20and,at%20least%2021%20years%20old.

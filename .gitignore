@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Secrets / local environment files
+.env
+.env.*
+*.env
+*.env.*
+
+# Local Obsidian app settings/plugins are not part of the portable Markdown repo
+.obsidian/
+
+# Local migration backups
+.migration-backups/
+
+# Binary attachments are hosted in Cloudflare R2
+Assets/
+*.pdf
+*.mp3
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.svg
+# Sensitive notes/files kept local only
+/10 - Personal/personal-admin/Government Id nos.md
+/20 - LifeCity/pastoral-ministry/lifecity-knowledge-base/Important Info.md
+/40 - ArwenDigital/client-work/teamsparrow/Clipboard.md
+/40 - ArwenDigital/client-work/teamsparrow/Idealab - server credentials.md
+/40 - ArwenDigital/client-work/teamsparrow/Work related - important info.md
+/40 - ArwenDigital/content-engine/bear-blog-mcp-setup.md
+/40 - ArwenDigital/projects/ArwenHQ/Env file.md
+/40 - ArwenDigital/projects/Bukidtek/Bukidtek.md
+/40 - ArwenDigital/projects/YouPastor/env.local.md

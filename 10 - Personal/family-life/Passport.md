@@ -1,0 +1,1 @@
+[Scan Page 8.jpg](https://obsidian-assets.arnold.gamboa.ph/Assets/Scan%20Page%208.jpg)

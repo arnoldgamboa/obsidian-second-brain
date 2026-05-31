@@ -1,0 +1,1 @@
+Paul’s rebukes to the Corinthian church led to repentance. And with that, he is not sorry for offending them.

@@ -1,0 +1,1 @@
+God's wrath against his enemies is real and He judges rightly.

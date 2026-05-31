@@ -1,0 +1,1 @@
+[Sermon_Series_Ideas_Guide.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Sermon_Series_Ideas_Guide.pdf)

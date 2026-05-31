@@ -1,0 +1,5 @@
+- praying for Matthew Callahan, seizure
+- couple, baby pre-mature, Ezekiel Tacket
+- worship leader search
+- busy 2 weeks, good ministry, give emotional and spiritual strength
+- pray for the Summit

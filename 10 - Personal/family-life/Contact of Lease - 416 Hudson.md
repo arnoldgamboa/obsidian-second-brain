@@ -1,0 +1,5 @@
+[Scan Page 31.jpg](https://obsidian-assets.arnold.gamboa.ph/Assets/Scan%20Page%2031.jpg)
+[Scan Page 32.jpg](https://obsidian-assets.arnold.gamboa.ph/Assets/Scan%20Page%2032.jpg)
+[Scan Page 33.jpg](https://obsidian-assets.arnold.gamboa.ph/Assets/Scan%20Page%2033.jpg)
+[Scan Page 34.jpg](https://obsidian-assets.arnold.gamboa.ph/Assets/Scan%20Page%2034.jpg)
+[Scan Page 35.jpg](https://obsidian-assets.arnold.gamboa.ph/Assets/Scan%20Page%2035.jpg)

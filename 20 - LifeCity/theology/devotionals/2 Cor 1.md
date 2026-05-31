@@ -1,0 +1,1 @@
+God comforts us when we are in trouble so that we can also comfort those who are in trouble.

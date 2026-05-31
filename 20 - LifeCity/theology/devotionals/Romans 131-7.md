@@ -1,0 +1,1 @@
+Be a good citizen of the country. Fulfill your duties. That's how a follower of Jesus should act.

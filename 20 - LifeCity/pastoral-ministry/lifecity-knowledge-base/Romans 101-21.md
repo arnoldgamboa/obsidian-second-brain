@@ -1,0 +1,1 @@
+Believing in Jesus needs a change of heart. Only God can do that. Even Israel who has heard of him for centuries but did not believe.

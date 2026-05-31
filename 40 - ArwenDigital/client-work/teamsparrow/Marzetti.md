@@ -1,0 +1,20 @@
+<span style="font-size:11.142857551574707pt;">cardini</span>
+<span style="font-size:11.142857551574707pt;">304931</span>
+<span style="font-size:11.142857551574707pt;">304882</span>
+<span style="font-size:11.142857551574707pt;">11364691</span>
+<span style="font-size:11.142857551574707pt;">304922</span>
+<span style="font-size:11.142857551574707pt;">10643640</span>
+<span style="font-size:11.142857551574707pt;">10643646</span>
+<span style="font-size:11.142857551574707pt;">37117106</span>
+<span style="font-size:11.142857551574707pt;">10643645</span>
+<span style="font-size:11.142857551574707pt;">10643643</span>
+<span style="font-size:11.142857551574707pt;">37117104</span>
+<span style="font-size:11.142857551574707pt;">304912</span>
+<span style="font-size:11.142857551574707pt;">10643655</span>
+<span style="font-size:11.142857551574707pt;">21230546</span>
+<span style="font-size:11.142857551574707pt;">10643656</span>
+
+<span style="font-size:11.142857551574707pt;">580</span>
+<span style="font-size:11.142857551574707pt;">300</span>
+<span style="font-size:11.142857551574707pt;">100</span>
+<span style="font-size:11.142857551574707pt;">50</span>

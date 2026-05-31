@@ -1,0 +1,1 @@
+Wives, be subject to your husbands. Husbands, honor your wives. Everyone, respect and love one another.

@@ -1,0 +1,7 @@
+- [ ] Iced barista drink, venti
+- [ ] Iced white mocha w/ whipped cream DECAF, grande
+- [ ] Vanilla sweet cream cold brew venti
+- [ ] Spam classic egg cheese
+- [ ] 2x Blueberry Cheesecake (or any cheesecake)
+- [ ] Hot Cappuccino Grande
+- [ ] Spanish Chorizo

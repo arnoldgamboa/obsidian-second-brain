@@ -1,0 +1,1 @@
+We are in the same team. God uses different teachers in different stages in our spiritual life. No one can claim credit because God is the one who grows.

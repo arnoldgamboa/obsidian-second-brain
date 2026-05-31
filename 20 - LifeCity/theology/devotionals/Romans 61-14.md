@@ -1,0 +1,1 @@
+Being under grace doesn't mean a license to sin. In fact, grace means we're dead in sin and alive in Christ. Sin has no dominion over me.

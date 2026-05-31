@@ -1,0 +1,1 @@
+We all are in a spiritual journey. There are others who are still weak in faith.  Patience is the key. Accept them and let them grow on faith.

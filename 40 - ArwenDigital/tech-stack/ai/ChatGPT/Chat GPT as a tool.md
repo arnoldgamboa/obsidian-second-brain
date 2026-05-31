@@ -1,0 +1,2 @@
+https://twitter.com/ihteshamit/status/1697230265159204872
+<a href="https://twitter.com/ihteshamit/status/1697230265159204872" rel="noopener" class="external-link" target="_blank"><u>Ihtesham Haider on X: "Hate Your 9-5? Quit It. ChatGPT and GPT-4 Can Help You Make $1,000/Week. Here's how: https://t.co/wTFMk7PtJJ" / X (twitter.com)</u></a>

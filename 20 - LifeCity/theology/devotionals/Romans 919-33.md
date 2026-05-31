@@ -1,0 +1,1 @@
+God is sovereign. He knows what he's doing. I don't have the capacity to question his decisions.

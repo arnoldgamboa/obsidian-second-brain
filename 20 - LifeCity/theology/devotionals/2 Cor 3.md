@@ -1,0 +1,1 @@
+We just would not be able understand because of the veil covering our eyes. But when we turn to Jesus that's the time we'll see ththe beauty of Gods promises.

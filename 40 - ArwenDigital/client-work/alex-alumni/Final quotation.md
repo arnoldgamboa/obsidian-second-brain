@@ -1,0 +1,1 @@
+[AIMS quotation (1).pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/AIMS%20quotation%20%281%29.pdf)

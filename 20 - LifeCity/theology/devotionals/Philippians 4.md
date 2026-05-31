@@ -1,0 +1,1 @@
+I can do all things through Christ who strengthens me. Why? Because in lack and in riches, in victory and in defeat, he is always there. He can let me go through life in the midst of anything and everything.

@@ -1,0 +1,1 @@
+Heavenly father, forgive me of my sin. Make me brand new. I believe Christ died for me and rose again, so I can live for you. Fill me with your  Spirit, so I can serve you for the rest of my life. Thank you for new life. Today I give you mine. In Jesus name I pray.

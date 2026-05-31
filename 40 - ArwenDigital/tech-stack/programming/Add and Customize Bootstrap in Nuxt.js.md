@@ -1,0 +1,4 @@
+Configuring a framework is always tricky especially when you are just starting. Today, you’ll learn to add and customize Bootstrap in your Nuxt.js project. Once you have gone through this guide, you’ll get an overall idea of how to make things work in Nuxt.js. By learning how to set up Bootstrap, you can install *Popper.js* and *JQuery* as well which are peer dependencies for Bootstrap.
+
+https://www.ravsam.in/blog/how-to-add-customize-bootstrap-in-nuxtjs/
+## <a href="https://www.ravsam.in/blog/how-to-add-customize-bootstrap-in-nuxtjs/" rel="noopener" class="external-link" target="_blank"><b><u>How to Add and Customize Bootstrap in Nuxt.js (ravsam.in)</u></b></a>

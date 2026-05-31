@@ -1,0 +1,1 @@
+<span style="color:#1d2129ff;">“To fear the Lord is to be overwhelmed with wonder before the greatness of God and his love.” -Tim Keller</span>

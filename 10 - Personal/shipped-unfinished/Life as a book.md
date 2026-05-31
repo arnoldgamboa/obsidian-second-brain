@@ -1,0 +1,5 @@
+- I take notes
+- Notes can be about work, leadership at church or business, life’s learnings, devotionals, prayers, anything in between
+- I now have about 1730 entries on my Apple Notes
+- As I scan through it, I realized that if I only organize these information, this can be a whole library of books
+- Idea — your life is actually a library of books ready to be shared and people learning from your successes and failures

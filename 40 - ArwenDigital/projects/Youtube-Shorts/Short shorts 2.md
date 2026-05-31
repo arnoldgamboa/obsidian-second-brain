@@ -1,0 +1,10 @@
+1. Feeling overwhelmed with life? Remember that every challenge is an opportunity to grow and learn. Trust in God's love and presence to carry you through even the toughest times, and know that He is always with you.
+2. Struggling to find hope in a difficult situation? Hold on to your faith in God and know that He is working all things for your good. Believe that His plans for your life are good and full of hope.
+3. Dealing with fear and uncertainty? Trust in God's perfect love, which casts out all fear. Know that He has a plan and purpose for your life, and that He is always with you, providing strength and courage.
+4. Feeling discouraged or defeated? Lean on God's strength and power to lift you up and help you overcome any obstacle that comes your way. Believe that with His help, you can do all things.
+5. Facing a difficult decision? Seek God's wisdom and guidance through prayer. Trust that He will lead you down the right path, and that He has a plan for your life that is good and pleasing to Him.
+6. Struggling with forgiveness? Draw on God's grace and forgiveness to help you extend the same to others. Remember that He has forgiven us first, and that His love covers all our sins.
+7. Feeling alone and isolated? Remember that God is always with you, even in the darkest of times. Trust in His promise to never leave or forsake you, and know that He is a faithful and loving friend.
+8. Dealing with grief or loss? Lean on God's comfort and peace, knowing that He is near to the brokenhearted. Trust in His promise to heal the brokenhearted and bind up their wounds.
+9. Feeling like you're not enough? Know that God's love and acceptance for you is not based on what you do or accomplish, but on who you are as His beloved child. Believe that you are fearfully and wonderfully made in His image.
+10. Struggling to find purpose or meaning in life? Trust in God's plan and purpose for your life, and know that He has created you for a specific reason and with unique gifts and talents. Seek His will for your life and trust that He will guide you to the path He has planned for you.

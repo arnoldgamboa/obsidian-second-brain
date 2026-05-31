@@ -1,0 +1,1 @@
+Live by the gospel, fight for the gospel, die with the gospel. Because the gospel is the product of Jesus’ love for me.

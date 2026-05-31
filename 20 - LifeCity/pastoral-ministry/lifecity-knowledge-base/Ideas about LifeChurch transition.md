@@ -1,0 +1,5 @@
+- 3 weeks “Relationship with God"
+-4 weeks LifeChurch Messages
+-1 week Vision messages - **message about Paul in Mars Hill**
+- 4 week “What Makes You Happy"
+- Start of Book of John

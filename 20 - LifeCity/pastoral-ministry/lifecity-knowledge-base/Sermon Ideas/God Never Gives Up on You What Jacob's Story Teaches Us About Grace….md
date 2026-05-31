@@ -1,0 +1,2 @@
+https://www.amazon.com/God-Never-Gives-You-Relentless/dp/B0BTMY42M8/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=
+## <a href="https://www.amazon.com/God-Never-Gives-You-Relentless/dp/B0BTMY42M8/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=" rel="noopener" class="external-link" target="_blank"><u>Amazon.com: God Never Gives Up on You: What Jacob's Story Teaches Us About Grace, Mercy, and God's Relentless Love (Audible Audio Edition): Max Lucado, Max Lucado, Thomas Nelson: Audible Books & Originals</u></a>

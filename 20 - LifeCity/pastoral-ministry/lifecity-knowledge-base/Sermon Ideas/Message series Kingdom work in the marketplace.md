@@ -1,0 +1,2 @@
+https://erlc.com/resource-library/articles/5-reasons-why-our-work-matters-to-god/?fbclid=IwAR0M_NJUckB8bfrxQdjHRo-1CRuZ-oZ8Y8DTLaJtJSm_7yhoq2uOLyxqbDI
+## <a href="https://erlc.com/resource-library/articles/5-reasons-why-our-work-matters-to-god/?fbclid=IwAR0M_NJUckB8bfrxQdjHRo-1CRuZ-oZ8Y8DTLaJtJSm_7yhoq2uOLyxqbDI" rel="noopener" class="external-link" target="_blank"><b><u>5 reasons why our work matters to God - ERLC</u></b></a>

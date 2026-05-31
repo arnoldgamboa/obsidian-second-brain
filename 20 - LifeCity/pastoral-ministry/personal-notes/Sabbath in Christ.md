@@ -1,0 +1,1 @@
+[Sabbath-in-Christ_Dale-Ratzlaff.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Sabbath-in-Christ_Dale-Ratzlaff.pdf)

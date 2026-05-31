@@ -1,0 +1,47 @@
+1. <span style="font-size:19.66666603088379pt;">The idea behind the 2 services</span>
+	1. <span style="font-size:19.66666603088379pt;">9 am, those who will serve at 11 am</span>
+		1. <span style="font-size:19.66666603088379pt;">Should be more because more volunteers needed for 11 am</span>
+			1. <span style="font-size:19.66666603088379pt;">LifeKids and Host Team</span>
+			2. <span style="font-size:19.66666603088379pt;">Tech team should have at least 2 on each services, 4 all in all</span>
+			3. <span style="font-size:19.66666603088379pt;">Music team serves in both services. They should attend the first service. Option to go out on the second, but discreetly.</span> 
+			4. <span style="font-size:19.66666603088379pt;">LifeKids should have 1 on 9 am, 2 on 11 am</span>
+	1. <span style="font-size:19.66666603088379pt;">Option for the community</span>
+		1. <span style="font-size:19.66666603088379pt;">Others want to attend early morning (checklist Christians?)</span>
+1. <span style="font-size:19.66666603088379pt;">LifeKids - K Prudy, will train</span>
+	1. <span style="font-size:19.66666603088379pt;">Whole service, with praise and worship</span>
+	2. <span style="font-size:19.66666603088379pt;">K Prudy will train the team</span>
+	3. <span style="font-size:19.66666603088379pt;">Software for checkin</span> 
+		1. <span style="font-size:19.66666603088379pt;">I will need to train at least 2</span>
+1. <span style="font-size:19.66666603088379pt;">Host team, Joy will train</span>
+	1. <span style="font-size:19.66666603088379pt;">Tasks</span>
+		1. <span style="font-size:19.66666603088379pt;">9 am set up the tools, 11 am tear down</span>
+			1. <span style="font-size:19.66666603088379pt;">Tools</span>
+				1. <span style="font-size:19.66666603088379pt;">Banners down stairs</span>
+				2. <span style="font-size:19.66666603088379pt;">Signages</span>
+				3. <span style="font-size:19.66666603088379pt;">Program guide</span>
+				4. <span style="font-size:19.66666603088379pt;">Ball pens envelops, back of the seats</span>
+		1. <span style="font-size:19.66666603088379pt;">Greeters</span>
+			1. <span style="font-size:19.66666603088379pt;">Downstairs</span>
+			2. <span style="font-size:19.66666603088379pt;">Front door</span>
+			3. <span style="font-size:19.66666603088379pt;">Usher</span>
+				1. <span style="font-size:19.66666603088379pt;">Hands out the program guide</span>
+				2. <span style="font-size:19.66666603088379pt;">Guides the person to the seat</span>
+1. <span style="font-size:19.66666603088379pt;">Music team</span> 
+	1. <span style="font-size:19.66666603088379pt;">Will need to have schedule of musicians</span> 
+		1. <span style="font-size:19.66666603088379pt;">New volunteers</span>
+		2. <span style="font-size:19.66666603088379pt;">Implement the sound we’re envisioning</span>
+		3. <span style="font-size:19.66666603088379pt;">Recruit new members</span>
+			1. <span style="font-size:19.66666603088379pt;">Lady singer</span>
+1. <span style="font-size:19.66666603088379pt;">Tech team</span>
+	1. <span style="font-size:19.66666603088379pt;">Train volunteers</span>
+		1. <span style="font-size:19.66666603088379pt;">Recuit more</span>
+	1. <span style="font-size:19.66666603088379pt;">Should have at least 2 on each services, 4 all in all</span>
+	2. <span style="font-size:19.66666603088379pt;">Focus on the job/serve and then attend/worship on the other service</span>
+	3. <span style="font-size:19.66666603088379pt;">Implement schedule on songs encode, etc.</span>
+1. <span style="font-size:19.66666603088379pt;">Present the spreadsheet of schedule</span>
+2. <span style="font-size:19.66666603088379pt;">Start recruiting volunteers</span>
+	1. <span style="font-size:19.66666603088379pt;">Air support - announcements, ground assault — manually inviting them</span>
+	2. <span style="font-size:19.66666603088379pt;">Needed and Known</span>
+
+#volunteers 
+#leaders

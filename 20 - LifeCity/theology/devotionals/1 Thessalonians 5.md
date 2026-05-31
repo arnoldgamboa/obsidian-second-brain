@@ -1,0 +1,1 @@
+Jesus will come like a thief in the night. So we should be expectant, doing what a follower of Jesus should be doing.

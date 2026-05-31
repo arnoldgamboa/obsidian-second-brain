@@ -1,0 +1,1 @@
+Church discipline: purge those that are obviously not followers of Jesus -- the willfully sinners.

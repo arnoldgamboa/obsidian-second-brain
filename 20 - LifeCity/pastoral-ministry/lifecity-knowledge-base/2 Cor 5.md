@@ -1,0 +1,1 @@
+Christ reconciled himself with the world. We are now partners of God as his ambassadors in this ministry of reconciliation.

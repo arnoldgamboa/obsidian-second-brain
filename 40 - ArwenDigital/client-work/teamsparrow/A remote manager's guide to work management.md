@@ -1,0 +1,1 @@
+[A_Remote_Manager’s_Guide_to_Work_Management.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/A_Remote_Manager%E2%80%99s_Guide_to_Work_Management.pdf)

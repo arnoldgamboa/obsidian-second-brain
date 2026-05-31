@@ -1,0 +1,1 @@
+[2025 Philippines Salary Guide Michael Page Philippines.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/2025%20Philippines%20Salary%20Guide%20Michael%20Page%20Philippines.pdf)

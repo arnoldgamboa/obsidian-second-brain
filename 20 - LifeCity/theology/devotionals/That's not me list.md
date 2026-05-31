@@ -1,0 +1,5 @@
+- looking for recognition from other pastors. nope,  that's not me.
+- getting my worth from the praises of church members. nope, that's not me.
+- Pursuing success while sacrificing God and the family. nope, that's not me.
+- leading to draw attention to me, nope, that's not me.
+- soliciting approval from others to feel good about yourself. nope, that's not me.

@@ -1,0 +1,1 @@
+[bukidtek-contract.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/bukidtek-contract.pdf)

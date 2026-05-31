@@ -1,0 +1,91 @@
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Contrast the modern hustle and bustle of Tsim Sha Tsui with past treasures that bring its heritage to life.</span>
+<span style="font-family:Arial-BoldMT;font-size:10.285714149475098pt;"><b>Cornucopia of Delights (Tsim Sha Tsui)</b></span> 
+ **(unknown attachment: public.jpeg)** 
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Tsim Sha Tsui (known locally as ‘TST’) is literally a visitor’s dream come true, offering everything one person typically needs from Hong Kong rolled into one. It’s home to a variety of chic local and international restaurants, plenty of large modern shopping malls, beautiful historic buildings, fascinating museums, and the</span> <a href="http://www.discoverhongkong.com/eng/see-do/arts-performance/arts-venues/hong-kong-cultural-centre.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#e4afaff;">Hong Kong Cultural Centre</a><span style="font-family:ArialMT;font-size:10.285714149475098pt;">. Last but certainly not least, its scenic waterfront</span> <a href="http://www.discoverhongkong.com/eng/see-do/highlight-attractions/top-10/tsim-sha-tsui-promenade.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#e4afaff;">promenade</a> <span style="font-family:ArialMT;font-size:10.285714149475098pt;">offers some of the best views of</span> <a href="http://www.discoverhongkong.com/eng/see-do/highlight-attractions/harbour-view/index.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#e4afaff;">Victoria Harbour</a> <span style="font-family:ArialMT;font-size:10.285714149475098pt;">and the mesmerising Hong Kong skyline.</span>
+<span style="font-family:Arial-BoldMT;font-size:10.285714149475098pt;"><b>Start point:</b></span> <span style="font-family:ArialMT;font-size:10.285714149475098pt;">MTR Jordan Station, Exit D. Turn left and walk along Nathan Road, and then turn left again onto Hillwood Road.</span>
+<span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>1. Hillwood Soho</b></span> 
+ **(unknown attachment: public.jpeg)** 
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Hillwood Soho in Tsim Sha Tsui is a hangout favoured by locals, with a fun collection of bars and a selection of restaurants serving up delicious Asian cuisine.</span>
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Walk down the steps at the end of Hillwood Road, then turn right and walk along Austin Avenue and then Kimberley Road. Stay on the right and then turn right onto Observatory Road. Turn left when you reach Knutsford Terrace.</span>
+
+<span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>2.</b></span> <a href="http://www.discoverhongkong.com/eng/dine-drink/where-to-go/dine-and-drink-districts/knutsford-terrace-observatory.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;color:#e4afaff;"><b>Knutsford Terrace and Knutsford Steps</b></a> 
+ **(unknown attachment: public.jpeg)** 
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Befitting of the famous food mecca that is Hong Kong, this district is packed with people savouring some of the many culinary delights and flavours that Asia’s world city has in its repertoire.</span>
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Walk along Knutsford Terrace and turn left and then right along Kimberley Road. Walk to the end of Kimberley Road and turn right until you reach the Antiquities and Monuments Office.</span>
+
+
+
+| <span style="font-family:ArialMT;font-size:12pt;">3.</span> | <a href="http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/colonial/antiquities-ad-monuments-office.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:12pt;color:#e4afaff;">Former Kowloon British School</a>
+<a href="http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/colonial/antiquities-ad-monuments-office.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:12pt;color:#e4afaff;">(Antiquities and Monuments Office)</a> |
+| -- | -- |
+
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">This architectural gem opened in 1902 and is the oldest surviving school building constructed for the children of Hong Kong’s foreign residents. The building has put a unique spin on typical Victorian-style design, adapting to local climate conditions with wide verandas, high ceilings and a pitched roof. It now houses Hong Kong’s Antiquities and Monuments Office.</span>
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">St Andrew’s Church stands next to the Antiquities and Monuments Office.</span>
+
+<span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>4.</b></span> <a href="http://www.discoverhongkong.com/eng/see-do/culture-heritage/other-places-of-worship/st-andrew-church.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;color:#e4afaff;"><b>St Andrew’s Church</b></a> 
+ **(unknown attachment: public.jpeg)** 
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">This Anglican church has held a strong evangelical tradition for the past 100 years. Some of its early worshippers would arrive by rickshaws, cabs and sedan chairs! An account of that time reported that, “It was a great occasion for many Christians in Kowloon and their friends in Hong Kong.”</span>
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Cross Nathan Road and head to Park Lane Shopper’s Boulevard.</span>
+
+<span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>5. Park Lane Shopper’s Boulevard</b></span> 
+ **(unknown attachment: public.jpeg)** 
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Bustling with shoppers day and night, this distinctive mall offers a variety of local and international brand-name stores.</span>
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Head inside Kowloon Park from the entrance next to the mosque. Follow the signs to the Hong Kong Heritage Discovery Centre.</span>
+
+<span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>6. Hong Kong Heritage Discovery Centre</b></span> 
+ **(unknown attachment: public.jpeg)** 
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Built around 1910, the Hong Kong Heritage Discovery Centre once served as barracks for the British Army and the temporary home of the Hong Kong Museum of History. Its two blocks now house a thematic exhibition gallery, a lecture hall, a reference library and an activity room.</span>
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Leave Kowloon Park by the same way that you entered and walk along Nathan Road towards the waterfront. Although you won’t be hopping on the subway, enter the MTR East Tsim Sha Tsui Station at Exit L3. Then walk through the pedestrian tunnel to Exit J and follow the signs to Avenue of Stars.</span>
+
+<span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>7.</b></span> <a href="http://www.discoverhongkong.com/eng/see-do/highlight-attractions/themed-attractions/avenue-of-stars.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;color:#e4afaff;"><b>Avenue of Stars</b></a> 
+ **(unknown attachment: public.jpeg)** 
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">At</span> <a href="http://www.discoverhongkong.com/eng/see-do/highlight-attractions/top-10/avenue-of-stars.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#e4afaff;">Avenue of Stars</a> <span style="font-family:ArialMT;font-size:10.285714149475098pt;">you can find plaques, hand prints and statues honouring the who’s who of Hong Kong’s silver screen. There is also a bronze statue of the legendary</span> <span style="font-family:Arial-ItalicMT;font-size:10.285714149475098pt;"><i>kung fu</i></span> <span style="font-family:ArialMT;font-size:10.285714149475098pt;">action hero Bruce Lee who stands proudly in front of Hong Kong’s beautiful harbour that’s a star in its own right.</span>
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Walk back along the promenade to the</span> <a href="http://www.discoverhongkong.com/eng/see-do/arts-performance/arts-museums/hong-kong-cultural-centre.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#e4afaff;">Hong Kong Cultural Centre</a><span style="font-family:ArialMT;font-size:10.285714149475098pt;">, the</span> <a href="http://www.discoverhongkong.com/eng/see-do/culture-heritage/museums/science/space-museum.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#e4afaff;">Hong Kong Space Museum</a> <span style="font-family:ArialMT;font-size:10.285714149475098pt;">and</span> <a href="http://www.discoverhongkong.com/eng/see-do/arts-performance/arts-museums/hong-kong-museum-of-art.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#e4afaff;">the Hong Kong Museum of Art</a><span style="font-family:ArialMT;font-size:10.285714149475098pt;">.</span>
+<span style="font-family:Arial-BoldMT;font-size:12pt;"><b>Did you Know</b></span>
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">If you’re anywhere near the vicinity of the Tsim Sha Tsui boardwalk close to 8pm, make sure you stick around for</span> <a href="http://www.discoverhongkong.com/eng/see-do/highlight-attractions/harbour-view/a-symphony-of-lights.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:Arial-ItalicMT;font-size:10.285714149475098pt;color:#e4afaff;"><i>A Symphony of Lights</i></a><span style="font-family:ArialMT;font-size:10.285714149475098pt;">. Hailed the world’s largest permanent light and sound show by Guinness World Records, this multimedia spectacular combines lights, music and narration, incorporating more than 40 buildings on both sides of Victoria Harbour.</span>
+
+<span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>8.</b></span> <a href="http://www.discoverhongkong.com/eng/see-do/arts-performance/arts-museums/hong-kong-cultural-centre.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;color:#e4afaff;"><b>Hong Kong Cultural Centre</b></a><span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>,</b></span> <a href="http://www.discoverhongkong.com/eng/see-do/culture-heritage/museums/science/space-museum.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;color:#e4afaff;"><b>Hong Kong Space Museum</b></a> <span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>and</b></span> <a href="http://www.discoverhongkong.com/eng/see-do/arts-performance/arts-museums/hong-kong-museum-of-art.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;color:#e4afaff;"><b>Hong Kong Museum of Art</b></a> 
+
+| <span style="font-family:ArialMT;font-size:12pt;">The Hong Kong Cultural Centre is one of the city’s most prestigious performing arts venues and it’s well worth checking out what’s on while you’re in town. Nearby is the</span> <a href="http://www.discoverhongkong.com/eng/see-do/culture-heritage/museums/science/space-museum.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:12pt;color:#e4afaff;">Hong Kong Space Museum</a><span style="font-family:ArialMT;font-size:12pt;">, which is filled with astronomy exhibits for armchair stargazers as well as the Stanley Ho Space Theatre, capable of projecting fulldome animation and movies with ultra–high definition images. The adjacent Hong Kong Museum of Art has a large and beautiful collection of Chinese antiquities, fine art, calligraphy and special exhibitions.</span> |
+| -- |
+
+
+ **(unknown attachment: public.jpeg)** 
+
+|  |
+| -- |
+
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Head to the old Clock Tower located near the end of the Tsim Sha Tsui Promenade.</span>
+<span style="font-family:Arial-BoldMT;font-size:12pt;"><b>Did you Know</b></span>
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">At the nearby</span> <a href="http://www.discoverhongkong.com/eng/see-do/highlight-attractions/harbour-view/star-ferries.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#e4afaff;">Star Ferry pier</a> <span style="font-family:ArialMT;font-size:10.285714149475098pt;">you can find the Hong Kong Tourism Board Visitor Centre where you can get the answer to any question you might have about Hong Kong.</span>
+
+<span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>9.</b></span> <a href="http://www.discoverhongkong.com/eng/see-do/highlight-attractions/top-10/clock-tower.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;color:#e4afaff;"><b>Clock Tower</b></a> 
+ **(unknown attachment: public.jpeg)** 
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">As a romantic landmark echoing the Age of Steam, the Clock Tower was completed in 1921 as part of the original Kowloon–Canton Railway terminus.</span>
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Cross Salisbury Road to Star House and 1881 Heritage will be on your right.</span>
+
+<span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>10.</b></span> <a href="http://www.discoverhongkong.com/eng/see-do/culture-heritage/historical-sites/colonial/1881-heritage.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;color:#e4afaff;"><b>1881 Heritage</b></a> 
+ **(unknown attachment: public.jpeg)** 
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Located on Canton Road, Tsim Sha Tsui, 1881 Heritage boasts an area of 130,000 square feet. It features a shopping mall, a heritage hotel and an exhibition hall. The original site of 1881 Heritage was occupied by the Hong Kong Marine Police as their headquarters from the 1880s to 1996. The building’s unique Victorian architecture epitomises its rich colonial background. Most of the Victorian-style buildings on the site, including the Former Marine Police Headquarters Main Building, the Former Stable Block and the Former Time Ball Tower, epitomise the city‘s rich colonial history and were preserved as Declared Monuments in 1994 as proof of their historical significance.</span>
+<a href="http://www.discoverhongkong.com/eng/shop/where-to-shop/malls-and-department-stores/harbour-city.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#00eeff;">Harbour City</a> <span style="font-family:ArialMT;font-size:10.285714149475098pt;">is on the other side of Canton Road.</span>
+<a href="http://www.discoverhongkong.com/eng/shop/where-to-shop/malls-and-department-stores/harbour-city.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#00eeff;">Harbour City</a> <span style="font-family:ArialMT;font-size:10.285714149475098pt;">is on the other side of Canton Road.</span>
+<span style="font-family:Arial-BoldMT;font-size:12pt;"><b>Did you Know</b></span>
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">The iconic</span> <a href="http://www.discoverhongkong.com/eng/see-do/highlight-attractions/harbour-view/star-ferries.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#e4afaff;">Star Ferry</a> <span style="font-family:ArialMT;font-size:10.285714149475098pt;">that has been operating between Hong Kong Island and Kowloon since 1898 is a delight for both children and adults, offering stunning panoramic views of the surrounding harbour.</span>
+
+<span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>11.</b></span> <a href="http://www.discoverhongkong.com/eng/shop/where-to-shop/malls-and-department-stores/harbour-city.jsp" rel="noopener" class="external-link" target="_blank" style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;color:#e4afaff;"><b>Harbour City</b></a><span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>, Canton Road and Peking Road(Luxury Brand Streets)</b></span> 
+ **(unknown attachment: public.jpeg)** 
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Harbour City is one of the largest shopping and entertainment centres in Hong Kong with more than 700 shops and restaurants offering local and international brands. And if that’s not enough, adjacent to Harbour City you’ll find many leading international brand stores dotted along Canton Road and Peking Road.</span>
+
+
+<span style="font-family:ArialMT;font-size:10.285714149475098pt;">Source:</span> <a href="http://www.discoverhongkong.com/eng/see-do/tours-walks/self-guided-walks/hong-kong-walks/tst.jsp#ixzz2UqjdLWJr" rel="noopener" class="external-link" target="_blank" style="font-family:ArialMT;font-size:10.285714149475098pt;color:#e4afaff;">http://www.discoverhongkong.com/eng/see-do/tours-walks/self-guided-walks/hong-kong-walks/tst.jsp#ixzz2UqjdLWJr</a>
