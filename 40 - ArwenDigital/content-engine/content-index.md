@@ -573,10 +573,10 @@ social_derivatives:
     - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-20-social-pack.md#LI-2026-05-20-01
   threads:
 date_created: 2026-05-18
-planned_publish_at: 2026-06-02 09:20
+planned_publish_at: 2026-06-04 09:10
 date_published:
 last_refreshed:
-next_action: scheduled to publish on Bear Blog at 2026-06-02 09:20 Manila time
+next_action: scheduled to publish on Bear Blog at 2026-06-04 09:10 Manila time
 notes: Approved by Arnold on 2026-06-01. Bear draft post ID vncrgRZrKTXtVZXHCTJr. Local draft updated with live YouPastor email capture CTA and scheduled for deterministic publish.
 ```
 

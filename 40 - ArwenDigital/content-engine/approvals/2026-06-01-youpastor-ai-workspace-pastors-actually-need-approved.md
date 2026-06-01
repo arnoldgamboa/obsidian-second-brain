@@ -4,7 +4,7 @@ date: 2026-06-01
 status: approved-for-scheduled-publish
 post_id: vncrgRZrKTXtVZXHCTJr
 slug: ai-workspace-pastors-actually-need
-planned_publish_at: 2026-06-02 09:20
+planned_publish_at: 2026-06-04 09:10
 ---
 
 # Approved: The AI Workspace Pastors Actually Need
@@ -13,7 +13,7 @@ planned_publish_at: 2026-06-02 09:20
 - Approval date: 2026-06-01
 - Bear post ID: `vncrgRZrKTXtVZXHCTJr`
 - Planned URL: https://arnold.gamboa.ph/ai-workspace-pastors-actually-need/
-- Scheduled publish: 2026-06-02 09:20 Manila time
+- Scheduled publish: 2026-06-04 09:10 Manila time
 - Local draft: `/Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/drafts/2026-05-18-youpastor-ai-workspace-pastors-actually-need.md`
 - CTA: Join early access for YouPastor at [youpastor.com](https://youpastor.com).
 
