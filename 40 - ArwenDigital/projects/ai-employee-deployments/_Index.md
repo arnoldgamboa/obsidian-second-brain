@@ -13,6 +13,7 @@ A done-for-you service that installs and manages AI agents (OpenClaw / Hermes) f
 - [[landing-page-copy]] — Full landing page copy (headline, sections, CTAs)
 - [[15-minute-pitch-script]] — Minute-by-minute consultation call script + questions + close
 - [[seo-ads-game-plan]] — SEO keyword strategy + LinkedIn/Facebook Ads plan
+- [[hermes-dokploy-instance-setup]] — Deployment checklist for standing up new Hermes instances on Dokploy
 
 ## Quick Notes
 
