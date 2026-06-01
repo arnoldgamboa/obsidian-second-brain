@@ -1,12 +1,12 @@
 ---
 title: "The AI Workspace Pastors Actually Need"
 slug: ai-workspace-pastors-actually-need
-status: needs-approval
+status: approved-for-scheduled-publish
 cluster: YouPastor
 primary_keyword: AI workspace for pastors
 meta_description: Pastors do not need another chatbot tab. They need an AI workspace that remembers sermon context, protects theological judgment, and keeps humans in the loop.
 tags: [YouPastor, AI for pastors, sermon prep AI, pastoral workflow, theological guardrails]
-cta_type: YouPastor email capture placeholder
+cta_type: YouPastor email capture
 created: 2026-05-18
 bear_post_id: vncrgRZrKTXtVZXHCTJr
 url: https://arnold.gamboa.ph/ai-workspace-pastors-actually-need/
@@ -21,7 +21,7 @@ url: https://arnold.gamboa.ph/ai-workspace-pastors-actually-need/
 - **Search intent:** thought-leadership / category definition
 - **Working title:** The AI Workspace Pastors Actually Need
 - **Angle:** Pastors do not primarily need a smarter chatbot. They need a guided, context-aware workspace that supports the weekly rhythm of ministry without asking the pastor to become a prompt engineer.
-- **CTA:** YouPastor email capture placeholder — invite pastors to message Arnold or join the list when it opens.
+- **CTA:** Join early access for YouPastor at [youpastor.com](https://youpastor.com).
 - **Internal link candidates:** Generic chatbots sermon preparation post once published; Prompt Fatigue Is Why Pastors Stop Using AI once published.
 
 # The AI Workspace Pastors Actually Need
@@ -232,4 +232,4 @@ And they should not have to.
 
 ## CTA
 
-I’m building YouPastor for pastors who want AI help without outsourcing their calling. Join the email list when it opens, or message me if you want to be part of early feedback.
+I’m building YouPastor for pastors who want AI help without outsourcing their calling. If you want early access, join the list at [youpastor.com](https://youpastor.com).

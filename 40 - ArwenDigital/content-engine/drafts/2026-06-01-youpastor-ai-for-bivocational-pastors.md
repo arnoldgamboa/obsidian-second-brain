@@ -1,12 +1,12 @@
 ---
 title: Bivocational Pastors Need More Than Sermon Prep AI
 slug: ai-for-bivocational-pastors
-status: draft
+status: approved-for-scheduled-publish
 cluster: YouPastor
 primary_keyword: AI for bivocational pastors
 meta_description: Bivocational pastors do not need AI hype. They need practical help carrying sermon prep, communication, care, and Sunday deadlines.
 tags: [YouPastor, AI for pastors, bivocational pastors, pastoral workflow]
-cta_type: YouPastor email capture placeholder
+cta_type: YouPastor email capture
 created: 2026-06-01
 ---
 
@@ -24,7 +24,7 @@ created: 2026-06-01
   - https://arnold.gamboa.ph/sermon-is-not-the-whole-pastoral-workflow/
   - https://arnold.gamboa.ph/prompt-fatigue-is-why-pastors-stop-using-ai/
   - https://arnold.gamboa.ph/ai-workspace-pastors-actually-need/
-- **CTA:** YouPastor email capture placeholder until Arnold provides URL.
+- **CTA:** Join early access for YouPastor at [youpastor.com](https://youpastor.com).
 
 Most conversations about AI for pastors start with the sermon.
 
@@ -118,4 +118,4 @@ Because Sunday still comes. Work still starts Monday. Family still needs presenc
 
 If AI can help carry the administrative and communication weight around the sermon, without replacing pastoral judgment, that is worth building.
 
-I’m building YouPastor for pastors who want AI help without outsourcing their calling. Join the email list when it opens, or message me if you want to be part of early feedback.
+I’m building YouPastor for pastors who want AI help without outsourcing their calling. If you want early access, join the list at [youpastor.com](https://youpastor.com).

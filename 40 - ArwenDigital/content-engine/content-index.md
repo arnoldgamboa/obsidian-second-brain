@@ -26,7 +26,7 @@ This is the canonical content index for Hermes. Update this file whenever a post
 
 ```yaml
 id: 2026-06-01-ai-for-bivocational-pastors
-status: needs-approval
+status: approved-for-scheduled-publish
 type: blog
 primary_cluster: YouPastor
 secondary_cluster: Pastoral Leadership
@@ -36,7 +36,7 @@ secondary_keywords: [AI for pastors, bivocational pastor, sermon prep AI, pastor
 search_intent: thought-leadership
 title: Bivocational Pastors Need More Than Sermon Prep AI
 slug: ai-for-bivocational-pastors
-url:
+url: https://arnold.gamboa.ph/ai-for-bivocational-pastors/
 bear_post_id: FzkKhKzpnpFqIEvSnroj
 meta_description: Bivocational pastors do not need AI hype. They need practical help carrying sermon prep, communication, care, and Sunday deadlines.
 tags: [YouPastor, AI for pastors, bivocational pastors, pastoral workflow]
@@ -53,10 +53,11 @@ social_derivatives:
   linkedin:
   threads:
 date_created: 2026-06-01
+planned_publish_at: 2026-06-02 09:10
 date_published:
 last_refreshed:
-next_action: Arnold should approve, edit, or reject the Bear Blog draft before the normal Tuesday publishing slot.
-notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/drafts/2026-06-01-youpastor-ai-for-bivocational-pastors.md. Bear draft created unpublished on arnold-gamboa-dev.bearblog.dev with post ID FzkKhKzpnpFqIEvSnroj. Angle avoids duplicating the published pastoral workflow post by focusing specifically on bivocational pastors and the weekly ministry load around sermon prep.
+next_action: scheduled to publish on Bear Blog at 2026-06-02 09:10 Manila time
+notes: Approved by Arnold on 2026-06-01. Bear draft post ID FzkKhKzpnpFqIEvSnroj. Local draft updated with live YouPastor email capture CTA and scheduled for deterministic publish.
 ```
 
 ### YouPastor social pack: bivocational and small-church pastors X research pack — 2026-05-29
@@ -546,7 +547,7 @@ notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/conte
 
 ```yaml
 id: 2026-05-18-youpastor-ai-workspace-pastors-actually-need
-status: needs-approval
+status: approved-for-scheduled-publish
 type: blog
 primary_cluster: YouPastor
 secondary_cluster: Build in Public
@@ -572,10 +573,11 @@ social_derivatives:
     - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-20-social-pack.md#LI-2026-05-20-01
   threads:
 date_created: 2026-05-18
-date_published: 2026-05-22
+planned_publish_at: 2026-06-02 09:20
+date_published:
 last_refreshed:
-next_action: Arnold review/approve Bear Blog draft for scheduled publishing
-notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/drafts/2026-05-18-youpastor-ai-workspace-pastors-actually-need.md. Bear draft created via MCP; post_id vncrgRZrKTXtVZXHCTJr. Awaiting Arnold approval before publishing.
+next_action: scheduled to publish on Bear Blog at 2026-06-02 09:20 Manila time
+notes: Approved by Arnold on 2026-06-01. Bear draft post ID vncrgRZrKTXtVZXHCTJr. Local draft updated with live YouPastor email capture CTA and scheduled for deterministic publish.
 ```
 
 ### YouPastor draft: generic chatbots sermon preparation
