@@ -1,7 +1,7 @@
 ---
 tags: [content-engine, social-drafts, youpastor, x, bivocational-pastors]
 date: 2026-05-29
-status: approved-unscheduled
+status: partial-buffer-scheduled
 platforms: [X]
 source: weekly research pack for YouPastor bivocational and small-church pastors
 approval: approved by Arnold on 2026-05-29; Monday job handles Buffer scheduling
@@ -289,14 +289,32 @@ Just this: you need encouragement and practical help.
 
 ## Buffer scheduling section
 
-Status: **approved-unscheduled**
+Status: **partial-buffer-scheduled**
 
 - [x] Arnold approved all edited posts on 2026-05-29
 - [x] Do not queue from Friday job
-- [ ] Monday Buffer job should review latest weekly YouPastor X pack
-- [ ] Queue selected X posts only
-- [ ] No LinkedIn/Threads scheduling from this pack
-- [ ] Do not publish or modify Bear Blog posts from this pack
+- [x] Monday Buffer job reviewed latest weekly YouPastor X pack on 2026-06-01
+- [x] Queue selected X posts only
+- [x] No LinkedIn/Threads scheduling from this pack
+- [x] Do not publish or modify Bear Blog posts from this pack
+- [ ] Minimum target of 8 X posts reached — blocked by Buffer scheduled-post limit before 8 could be confirmed
+
+### Buffer results — 2026-06-01
+
+Verified on Buffer X channel `6796e4ffa31978b79c7a0a9c` (`@arnoldgamboa`):
+
+| Item | Buffer post ID | Status | dueAt | Notes |
+|---|---|---|---|---|
+| X-YOUPASTOR-2026-05-29-01 | — | not scheduled by this job | — | Buffer rejected create attempt: `Invalid post: Whoops, it looks like you've posted that one recently. Unfortunately, we're not able to post the same thing again so soon!` |
+| X-YOUPASTOR-2026-05-29-02 | — | not scheduled | — | Not attempted after Buffer scheduled-post limit was confirmed. |
+| X-YOUPASTOR-2026-05-29-03 | `6a1cd9c9cf41ba28523a9d0d` | scheduled | `2026-06-02T17:30:00.000Z` | Verified existing scheduled Buffer post. |
+| X-YOUPASTOR-2026-05-29-04 | `6a1cd9c9efeb482ae344ce2a` | scheduled | `2026-06-02T19:00:00.000Z` | Verified existing scheduled Buffer post. |
+| X-YOUPASTOR-2026-05-29-05 | `6a1cd9caf47c8b09310edbe8` | scheduled | `2026-06-03T17:30:00.000Z` | Verified existing scheduled Buffer post. |
+| X-YOUPASTOR-2026-05-29-06 | `6a1cd9caf47c8b09310edc21` | scheduled | `2026-06-03T19:00:00.000Z` | Verified existing scheduled Buffer post. |
+| X-YOUPASTOR-2026-05-29-07 | `6a1cd9ca57233bc2952d9547` | scheduled | `2026-06-04T17:30:00.000Z` | Verified existing scheduled Buffer post. |
+| X-YOUPASTOR-2026-05-29-08 | `6a1cd9cbcf41ba28523a9d3b` | scheduled | `2026-06-04T19:00:00.000Z` | Verified existing scheduled Buffer post. |
+| X-YOUPASTOR-2026-05-29-09 | — | blocked | — | Buffer rejected create attempt: `Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed.` |
+| X-YOUPASTOR-2026-05-29-10 | — | blocked | — | Buffer rejected create attempt: `Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed.` |
 
 ## Notes for Monday queue job
 

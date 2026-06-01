@@ -22,11 +22,48 @@ This is the canonical content index for Hermes. Update this file whenever a post
 
 <!-- Hermes: append new records below. Keep newest first. -->
 
+### YouPastor draft: bivocational pastors need more than sermon prep AI
+
+```yaml
+id: 2026-06-01-ai-for-bivocational-pastors
+status: needs-approval
+type: blog
+primary_cluster: YouPastor
+secondary_cluster: Pastoral Leadership
+target_audience: bivocational pastors, small-church pastors, and ministry leaders carrying sermon prep, communication, care, and administration with limited time
+primary_keyword: AI for bivocational pastors
+secondary_keywords: [AI for pastors, bivocational pastor, sermon prep AI, pastoral workflow, small church pastors]
+search_intent: thought-leadership
+title: Bivocational Pastors Need More Than Sermon Prep AI
+slug: ai-for-bivocational-pastors
+url:
+bear_post_id: FzkKhKzpnpFqIEvSnroj
+meta_description: Bivocational pastors do not need AI hype. They need practical help carrying sermon prep, communication, care, and Sunday deadlines.
+tags: [YouPastor, AI for pastors, bivocational pastors, pastoral workflow]
+source_notes:
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/projects/YouPastor/YouPastor-PRD.md
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/topic-clusters.md
+internal_links_out:
+  - https://arnold.gamboa.ph/sermon-is-not-the-whole-pastoral-workflow/
+  - https://arnold.gamboa.ph/prompt-fatigue-is-why-pastors-stop-using-ai/
+  - https://arnold.gamboa.ph/ai-workspace-pastors-actually-need/
+internal_links_in: []
+social_derivatives:
+  x:
+  linkedin:
+  threads:
+date_created: 2026-06-01
+date_published:
+last_refreshed:
+next_action: Arnold should approve, edit, or reject the Bear Blog draft before the normal Tuesday publishing slot.
+notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/drafts/2026-06-01-youpastor-ai-for-bivocational-pastors.md. Bear draft created unpublished on arnold-gamboa-dev.bearblog.dev with post ID FzkKhKzpnpFqIEvSnroj. Angle avoids duplicating the published pastoral workflow post by focusing specifically on bivocational pastors and the weekly ministry load around sermon prep.
+```
+
 ### YouPastor social pack: bivocational and small-church pastors X research pack — 2026-05-29
 
 ```yaml
 id: 2026-05-29-youpastor-bivocational-pastors-x-pack
-status: approved-unscheduled
+status: partial-buffer-scheduled
 type: x-social-pack
 primary_cluster: YouPastor
 secondary_cluster: Pastoral Leadership
@@ -68,8 +105,8 @@ social_derivatives:
 date_created: 2026-05-29
 date_published:
 last_refreshed:
-next_action: Monday Buffer job should queue Arnold-approved X posts; Friday job intentionally left Buffer status unscheduled
-notes: Weekly researched YouPastor X pack created with 10 posts focused on bivocational and small-church pastors. Arnold edited and approved all posts on 2026-05-29. Preserve Arnold's edited post text when scheduling. References were used for content generation and are not required in every post unless a specific statistic or research claim remains in the post.
+next_action: Re-run Monday Buffer queue after scheduled-post capacity frees up, or upgrade Buffer scheduled-post limit; minimum target of 8 was blocked on 2026-06-01 after 6 X posts were verified scheduled.
+notes: Weekly researched YouPastor X pack created with 10 posts focused on bivocational and small-church pastors. Arnold edited and approved all posts on 2026-05-29. Preserve Arnold's edited post text when scheduling. References were used for content generation and are not required in every post unless a specific statistic or research claim remains in the post. Buffer queue attempt on 2026-06-01 verified 6 scheduled X posts from this pack: X-YOUPASTOR-2026-05-29-03 `6a1cd9c9cf41ba28523a9d0d` due `2026-06-02T17:30:00.000Z`; X-YOUPASTOR-2026-05-29-04 `6a1cd9c9efeb482ae344ce2a` due `2026-06-02T19:00:00.000Z`; X-YOUPASTOR-2026-05-29-05 `6a1cd9caf47c8b09310edbe8` due `2026-06-03T17:30:00.000Z`; X-YOUPASTOR-2026-05-29-06 `6a1cd9caf47c8b09310edc21` due `2026-06-03T19:00:00.000Z`; X-YOUPASTOR-2026-05-29-07 `6a1cd9ca57233bc2952d9547` due `2026-06-04T17:30:00.000Z`; X-YOUPASTOR-2026-05-29-08 `6a1cd9cbcf41ba28523a9d3b` due `2026-06-04T19:00:00.000Z`. X-YOUPASTOR-2026-05-29-01 create attempt was rejected by Buffer as a recent duplicate; X-YOUPASTOR-2026-05-29-09 and -10 were rejected because Buffer had 10 scheduled posts out of 10 allowed. Pack file updated with Buffer results: /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md
 ```
 
 
