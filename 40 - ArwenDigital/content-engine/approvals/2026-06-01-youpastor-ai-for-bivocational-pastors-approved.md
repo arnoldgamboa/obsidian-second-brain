@@ -1,10 +1,11 @@
 ---
 tags: [content-engine, approval, YouPastor, BearBlog]
 date: 2026-06-01
-status: approved-for-scheduled-publish
+status: published
 post_id: FzkKhKzpnpFqIEvSnroj
 slug: ai-for-bivocational-pastors
 planned_publish_at: 2026-06-02 09:10
+published_at: 2026-06-02
 ---
 
 # Approved: Bivocational Pastors Need More Than Sermon Prep AI
@@ -17,4 +18,6 @@ planned_publish_at: 2026-06-02 09:10
 - Local draft: `/Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/drafts/2026-06-01-youpastor-ai-for-bivocational-pastors.md`
 - CTA: Join early access for YouPastor at [youpastor.com](https://youpastor.com).
 
-Next action: deterministic publish script should publish the Bear post, verify it is published, then update this approval record, the local draft, and the content index to `published`.
+Published and verified on 2026-06-02: Bear reports `published: true`; public URL returned HTTP 200; page title and YouPastor CTA href were present.
+
+Next action: monitor Search Console after indexing; create Wednesday social derivatives from the published post.

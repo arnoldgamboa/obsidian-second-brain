@@ -59,11 +59,11 @@ next_action: Arnold approval needed; if approved, publish Bear draft or revise b
 notes: Created by scheduled Hermes content manager as an AI Employee / AI Agent consultancy draft for operators and business owners. Bear draft is unpublished.
 ```
 
-### YouPastor draft: bivocational pastors need more than sermon prep AI
+### YouPastor published: bivocational pastors need more than sermon prep AI
 
 ```yaml
 id: 2026-06-01-ai-for-bivocational-pastors
-status: approved-for-scheduled-publish
+status: published
 type: blog
 primary_cluster: YouPastor
 secondary_cluster: Pastoral Leadership
@@ -90,11 +90,11 @@ social_derivatives:
   linkedin:
   threads:
 date_created: 2026-06-01
-planned_publish_at: 2026-06-02 09:10
-date_published:
+planned_publish_at:
+date_published: 2026-06-02
 last_refreshed:
-next_action: scheduled to publish on Bear Blog at 2026-06-02 09:10 Manila time
-notes: Approved by Arnold on 2026-06-01. Bear draft post ID FzkKhKzpnpFqIEvSnroj. Local draft updated with live YouPastor email capture CTA and scheduled for deterministic publish.
+next_action: monitor Search Console after indexing; create Wednesday social derivatives from published post.
+notes: Approved by Arnold on 2026-06-01. Bear post ID FzkKhKzpnpFqIEvSnroj. Published and verified on 2026-06-02: Bear reports published=true; public URL returned HTTP 200 with title and YouPastor CTA href present.
 ```
 
 ### YouPastor social pack: bivocational and small-church pastors X research pack — 2026-05-29
