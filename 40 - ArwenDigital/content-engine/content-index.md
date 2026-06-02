@@ -22,6 +22,43 @@ This is the canonical content index for Hermes. Update this file whenever a post
 
 <!-- Hermes: append new records below. Keep newest first. -->
 
+### AI Employee draft: AI agent deployment is an operations project, not a software purchase
+
+```yaml
+id: 2026-06-02-ai-agent-deployment-is-operations-project
+status: draft
+type: blog
+primary_cluster: AI Employee
+secondary_cluster: Founder Build-in-Public Bridge
+target_audience: business owners, operators, agency owners, and service-business leaders evaluating managed AI agent deployments
+primary_keyword: AI agent deployment
+secondary_keywords: [managed AI agents, AI employee, AI agent setup, business automation, AI operations]
+search_intent: commercial-investigation
+title: AI Agent Deployment Is an Operations Project, Not a Software Purchase
+slug: ai-agent-deployment-is-operations-project
+url: https://arnold.gamboa.ph/ai-agent-deployment-is-operations-project/
+bear_post_id: JtqEcQIUpTFIWnXQprRj
+meta_description: AI agent deployment works when it is treated like operations: workflow mapping, approvals, monitoring, and iteration instead of another tool rollout.
+tags: [AI employee, AI agent deployment, managed AI agents, business automation, operations]
+source_notes:
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/topic-clusters.md
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/content-workflow.md
+  - AI Employee landing-page copy snapshot from scheduled cron pre-run
+internal_links_out:
+  - https://arnold.gamboa.ph/real-cost-of-ai-adoption-is-friction/
+  - https://arnold.gamboa.ph/what-ai-employee-can-do-small-business/
+internal_links_in: []
+social_derivatives:
+  x:
+  linkedin:
+  threads:
+date_created: 2026-06-02
+date_published:
+last_refreshed:
+next_action: Arnold approval needed; if approved, publish Bear draft or revise before publishing.
+notes: Created by scheduled Hermes content manager as an AI Employee / AI Agent consultancy draft for operators and business owners. Bear draft is unpublished.
+```
+
 ### YouPastor draft: bivocational pastors need more than sermon prep AI
 
 ```yaml
