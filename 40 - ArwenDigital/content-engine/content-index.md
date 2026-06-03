@@ -50,7 +50,11 @@ internal_links_out:
 internal_links_in: []
 social_derivatives:
   x:
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-06-03-01
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-06-03-02
   linkedin:
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-06-03-01
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-06-03-02
   threads:
 date_created: 2026-06-02
 date_published:
