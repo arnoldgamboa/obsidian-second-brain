@@ -1,7 +1,7 @@
 ---
 title: "The AI Workspace Pastors Actually Need"
 slug: ai-workspace-pastors-actually-need
-status: approved-for-scheduled-publish
+status: published
 cluster: YouPastor
 primary_keyword: AI workspace for pastors
 meta_description: Pastors do not need another chatbot tab. They need an AI workspace that remembers sermon context, protects theological judgment, and keeps humans in the loop.

@@ -1,10 +1,10 @@
 ---
-tags: [content-engine, social-drafts, ai-employee, linkedin, x, approval-needed]
+tags: [content-engine, social-drafts, ai-employee, linkedin, x, approved, scheduled]
 date: 2026-06-03
-status: approval-needed
+status: approved/scheduled
 platforms: [LinkedIn, X]
 cluster: AI Employee
-buffer_status: not-scheduled
+buffer_status: scheduled
 source: weekly AI Employee social proposal cron
 ---
 
@@ -28,9 +28,10 @@ Scope guardrails:
 - Suggested LinkedIn day/time: Tuesday, 2026-06-10, 9:10 AM Manila time
 - Suggested X day/time: Tuesday, 2026-06-10, 12:30 PM Manila time
 - CTA: If you are evaluating AI agents, start by naming one workflow and one approval gate.
-- Image status: `concept-only`
-- Approval status: `approval-needed`
-- Buffer status: `not-scheduled`
+- Image status: `generated/uploaded`
+- Public image URL: `https://files.catbox.moe/roube9.png`
+- Approval status: `approved`
+- Buffer status: `scheduled`
 
 ### LinkedIn post text
 
@@ -138,9 +139,10 @@ Create a polished 16:9 LinkedIn editorial illustration about AI agent deployment
 - Suggested LinkedIn day/time: Thursday, 2026-06-12, 9:10 AM Manila time
 - Suggested X day/time: Thursday, 2026-06-12, 12:30 PM Manila time
 - CTA: Send one workflow that currently needs too many manual check-ins.
-- Image status: `concept-only`
-- Approval status: `approval-needed`
-- Buffer status: `not-scheduled`
+- Image status: `generated/uploaded`
+- Public image URL: `https://files.catbox.moe/mehx3r.png`
+- Approval status: `approved`
+- Buffer status: `scheduled`
 
 ### LinkedIn post text
 
@@ -236,9 +238,10 @@ Create a modern 16:9 B2B SaaS editorial image showing an AI agent workflow with 
 - Suggested LinkedIn day/time: Friday, 2026-06-13, 9:10 AM Manila time
 - Suggested X day/time: Friday, 2026-06-13, 12:30 PM Manila time
 - CTA: Book a free 15-minute AI workflow audit if you want help finding the first managed agent workflow.
-- Image status: `concept-only`
-- Approval status: `approval-needed`
-- Buffer status: `not-scheduled`
+- Image status: `generated/uploaded`
+- Public image URL: `https://files.catbox.moe/swytpu.png`
+- Approval status: `approved`
+- Buffer status: `scheduled`
 
 ### LinkedIn post text
 
@@ -319,15 +322,27 @@ Create a polished 16:9 LinkedIn editorial illustration titled “AI Employee Ope
 
 ## Approval checklist
 
-- [ ] Approve `AIEMP-2026-06-03-01` copy
-- [ ] Approve `AIEMP-2026-06-03-01` image concept
-- [ ] Approve `AIEMP-2026-06-03-02` copy
-- [ ] Approve `AIEMP-2026-06-03-02` image concept
-- [ ] Approve `AIEMP-2026-06-03-03` copy
-- [ ] Approve `AIEMP-2026-06-03-03` image concept
-- [ ] Generate/upload approved images for Buffer
-- [ ] Schedule approved LinkedIn + X pairs via Buffer
+- [x] Approve `AIEMP-2026-06-03-01` copy
+- [x] Approve `AIEMP-2026-06-03-01` image concept
+- [x] Approve `AIEMP-2026-06-03-02` copy
+- [x] Approve `AIEMP-2026-06-03-02` image concept
+- [x] Approve `AIEMP-2026-06-03-03` copy
+- [x] Approve `AIEMP-2026-06-03-03` image concept
+- [x] Generate/upload approved images for Buffer
+- [x] Schedule approved LinkedIn + X pairs via Buffer
 
 ## Buffer draft status
 
-No Buffer drafts created. This Wednesday job is proposal-only. Buffer status remains `not-scheduled` until Arnold approves the pack.
+Approved by Arnold and scheduled via Buffer on 2026-06-04.
+
+- `AIEMP-2026-06-03-01`
+  - LinkedIn: scheduled — Buffer ID `6a20d0df65573e1c89bb0d00`, due `2026-06-10T01:10:00.000Z`, image `https://files.catbox.moe/roube9.png`
+  - X/Twitter: scheduled — Buffer ID `6a20d0e2bf1b946e62be36b5`, due `2026-06-10T04:30:00.000Z`, image `https://files.catbox.moe/roube9.png`
+- `AIEMP-2026-06-03-02`
+  - LinkedIn: scheduled — Buffer ID `6a20d0e300825890c74094f0`, due `2026-06-12T01:10:00.000Z`, image `https://files.catbox.moe/mehx3r.png`
+  - X/Twitter: scheduled — Buffer ID `6a20d0e6e39a388093adbb4c`, due `2026-06-12T04:30:00.000Z`, image `https://files.catbox.moe/mehx3r.png`
+- `AIEMP-2026-06-03-03`
+  - LinkedIn: scheduled — Buffer ID `6a20d0e861612d02b326cde3`, due `2026-06-13T01:10:00.000Z`, image `https://files.catbox.moe/swytpu.png`
+  - X/Twitter: scheduled — Buffer ID `6a20d0ea65573e1c89bb0d78`, due `2026-06-13T04:30:00.000Z`, image `https://files.catbox.moe/swytpu.png`
+
+Asset verification: each Catbox URL returned HTTP 200 and each Buffer post reports the expected asset source.

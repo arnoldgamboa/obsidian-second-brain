@@ -26,7 +26,7 @@ This is the canonical content index for Hermes. Update this file whenever a post
 
 ```yaml
 id: 2026-06-02-ai-agent-deployment-is-operations-project
-status: draft
+status: published
 type: blog
 primary_cluster: AI Employee
 secondary_cluster: Founder Build-in-Public Bridge
@@ -52,15 +52,17 @@ social_derivatives:
   x:
     - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-06-03-01
     - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-06-03-02
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-06-03-03
   linkedin:
     - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-06-03-01
     - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-06-03-02
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-06-03-03
   threads:
 date_created: 2026-06-02
-date_published:
+date_published: 2026-06-04
 last_refreshed:
-next_action: Arnold approval needed; if approved, publish Bear draft or revise before publishing.
-notes: Created by scheduled Hermes content manager as an AI Employee / AI Agent consultancy draft for operators and business owners. Bear draft is unpublished.
+next_action: Monitor indexing/performance and repurpose from the published post.
+notes: Approved by Arnold and published on 2026-06-04. Bear post ID JtqEcQIUpTFIWnXQprRj; public URL verified HTTP 200 with title and AI workflow audit CTA present. LinkedIn/X social pack approved and scheduled via Buffer on 2026-06-04.
 ```
 
 ### YouPastor published: bivocational pastors need more than sermon prep AI
@@ -588,7 +590,7 @@ notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/conte
 
 ```yaml
 id: 2026-05-18-youpastor-ai-workspace-pastors-actually-need
-status: approved-for-scheduled-publish
+status: published
 type: blog
 primary_cluster: YouPastor
 secondary_cluster: Build in Public
@@ -614,10 +616,9 @@ social_derivatives:
     - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-20-social-pack.md#LI-2026-05-20-01
   threads:
 date_created: 2026-05-18
-planned_publish_at: 2026-06-04 09:10
-date_published:
+date_published: 2026-06-04
 last_refreshed:
-next_action: scheduled to publish on Bear Blog at 2026-06-04 09:10 Manila time
+next_action: monitor Search Console after indexing
 notes: Approved by Arnold on 2026-06-01. Bear draft post ID vncrgRZrKTXtVZXHCTJr. Local draft updated with live YouPastor email capture CTA and scheduled for deterministic publish.
 ```
 

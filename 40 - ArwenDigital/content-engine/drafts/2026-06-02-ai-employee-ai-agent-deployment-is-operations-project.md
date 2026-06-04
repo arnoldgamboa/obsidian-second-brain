@@ -1,7 +1,7 @@
 ---
 title: "AI Agent Deployment Is an Operations Project, Not a Software Purchase"
 slug: ai-agent-deployment-is-operations-project
-status: draft
+status: published
 cluster: AI Employee
 primary_keyword: AI agent deployment
 meta_description: AI agent deployment works when it is treated like operations: workflow mapping, approvals, monitoring, and iteration instead of another tool rollout.
