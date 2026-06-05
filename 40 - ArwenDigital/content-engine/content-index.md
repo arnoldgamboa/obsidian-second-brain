@@ -22,6 +22,55 @@ This is the canonical content index for Hermes. Update this file whenever a post
 
 <!-- Hermes: append new records below. Keep newest first. -->
 
+### YouPastor social pack: bivocational and small-church pastors X research pack — 2026-06-08
+
+```yaml
+id: 2026-06-08-youpastor-bivocational-pastors-x-pack
+status: drafted-unscheduled
+type: x-social-pack
+primary_cluster: YouPastor
+secondary_cluster: Pastoral Leadership
+target_audience: bivocational pastors, small-church pastors, church planters, and ministry leaders carrying pastoral work with limited staff/time
+primary_keyword: bivocational pastors
+secondary_keywords: [small church pastors, pastoral burnout, pastor loneliness, ministry after work, AI for pastors, YouPastor]
+search_intent: thought-leadership
+title: YouPastor Bivocational Pastors X Research Pack
+slug: youpastor-bivocational-pastors-x-pack-2026-06-08
+url:
+bear_post_id:
+meta_description:
+tags: [YouPastor, bivocational pastors, small church ministry, pastoral burnout, X]
+source_notes:
+  - https://www.barna.com/research/pastors-quitting-ministry/
+  - https://www.barna.com/research/pastors-well-being/
+  - https://research.lifeway.com/wp-content/uploads/2022/01/The-Greatest-Needs-of-Pastors-Phase-2-Quantitative-Report-Release-1.pdf
+  - https://research.lifeway.com/2025/06/04/evangelical-pastors-more-likely-than-others-to-be-bivocational/
+  - https://goodfaithmedia.org/most-u-s-faith-communities-are-small-with-declining-attendance/
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/topic-clusters.md
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/drafts/2026-06-01-youpastor-ai-for-bivocational-pastors.md
+internal_links_out:
+  - https://arnold.gamboa.ph/ai-for-bivocational-pastors/
+  - https://arnold.gamboa.ph/sermon-is-not-the-whole-pastoral-workflow/
+internal_links_in: []
+social_derivatives:
+  x:
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-01
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-02
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-03
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-04
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-05
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-06
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-07
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-08
+  linkedin:
+  threads:
+date_created: 2026-06-05
+date_published:
+last_refreshed:
+next_action: Arnold review/edit/approve before the Monday Buffer queue job; Friday job must not queue or publish.
+notes: Weekly researched YouPastor X pack created for the 2026-06-08 Monday Buffer queue with 8 X drafts. Balance is 3 research-led/statistics-led posts and 5 personal, practical, or encouragement-led posts. Visible source links are included only in posts with specific research claims. No Buffer drafts, scheduling, Bear publishing, LinkedIn, or Threads actions were performed by the Friday job.
+```
+
 ### AI Employee draft: AI agent deployment is an operations project, not a software purchase
 
 ```yaml
