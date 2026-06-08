@@ -1,7 +1,7 @@
 ---
 tags: [content-engine, social-drafts, youpastor, x, bivocational-pastors, pastoral-burnout]
 date: 2026-06-08
-status: drafted-unscheduled
+status: partial-buffer-scheduled
 platform: X
 platforms: [X]
 source: weekly Friday research pack for YouPastor bivocational and small-church pastors
@@ -237,10 +237,23 @@ Sometimes it is sleep, prayer, a walk, dinner with your family, and trusting tha
 
 ## Buffer scheduling
 
-- Friday research pack status: **drafted-unscheduled**.
-- Friday job does **not** queue posts, create Buffer drafts, schedule, or publish.
-- Monday Buffer job should queue only after Arnold reviews/edits/approves this pack.
+- Monday Buffer queue attempt status: **partial-buffer-scheduled**.
+- Attempt date: 2026-06-08.
+- Buffer X channel: `6796e4ffa31978b79c7a0a9c` (@arnoldgamboa).
+- Verified scheduled via Buffer scheduled-post query: **6 of 8** posts.
+- Blocker: Buffer rejected `X-YOUPASTOR-2026-06-08-07` with `Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed.` `X-YOUPASTOR-2026-06-08-08` was not attempted after the capacity failure to avoid repeated errors.
 - Do not schedule LinkedIn, Threads, Bear Blog, or other channels from this pack.
+
+| Item | Buffer post ID | Status | Due at | Channel |
+|---|---|---|---|---|
+| X-YOUPASTOR-2026-06-08-01 | `6a26146b5205cc790d3644fe` | scheduled | `2026-06-08T17:30:00.000Z` | X / @arnoldgamboa |
+| X-YOUPASTOR-2026-06-08-02 | `6a26146c32bfe18df58e4b28` | scheduled | `2026-06-08T19:00:00.000Z` | X / @arnoldgamboa |
+| X-YOUPASTOR-2026-06-08-03 | `6a26146ed06e7c8e3b8f3d53` | scheduled | `2026-06-09T17:30:00.000Z` | X / @arnoldgamboa |
+| X-YOUPASTOR-2026-06-08-04 | `6a26146e5205cc790d36452f` | scheduled | `2026-06-09T19:00:00.000Z` | X / @arnoldgamboa |
+| X-YOUPASTOR-2026-06-08-05 | `6a26147032bfe18df58e4b73` | scheduled | `2026-06-10T17:30:00.000Z` | X / @arnoldgamboa |
+| X-YOUPASTOR-2026-06-08-06 | `6a26147152eb7fd342a7a2d2` | scheduled | `2026-06-10T19:00:00.000Z` | X / @arnoldgamboa |
+| X-YOUPASTOR-2026-06-08-07 | — | blocked-not-scheduled | — | Buffer scheduled-post limit reached |
+| X-YOUPASTOR-2026-06-08-08 | — | not-attempted-after-limit | — | Buffer scheduled-post limit reached |
 
 ## Notes for Monday queue job
 

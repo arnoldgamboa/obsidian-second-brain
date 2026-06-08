@@ -65,7 +65,7 @@ notes: Monday YouPastor blog draft created from the content engine snapshot. Foc
 
 ```yaml
 id: 2026-06-08-youpastor-bivocational-pastors-x-pack
-status: drafted-unscheduled
+status: partial-buffer-scheduled
 type: x-social-pack
 primary_cluster: YouPastor
 secondary_cluster: Pastoral Leadership
@@ -106,8 +106,8 @@ social_derivatives:
 date_created: 2026-06-05
 date_published:
 last_refreshed:
-next_action: Arnold review/edit/approve before the Monday Buffer queue job; Friday job must not queue or publish.
-notes: Weekly researched YouPastor X pack created for the 2026-06-08 Monday Buffer queue with 8 X drafts. Balance is 3 research-led/statistics-led posts and 5 personal, practical, or encouragement-led posts. Visible source links are included only in posts with specific research claims. No Buffer drafts, scheduling, Bear publishing, LinkedIn, or Threads actions were performed by the Friday job.
+next_action: Re-run Monday Buffer queue after scheduled-post capacity frees up, or upgrade Buffer scheduled-post limit; minimum target of 8 was blocked on 2026-06-08 after 6 X posts were verified scheduled.
+notes: Weekly researched YouPastor X pack created for the 2026-06-08 Monday Buffer queue with 8 X drafts. Balance is 3 research-led/statistics-led posts and 5 personal, practical, or encouragement-led posts. Visible source links are included only in posts with specific research claims. Monday Buffer queue attempt on 2026-06-08 verified 6 scheduled X posts from this pack: X-YOUPASTOR-2026-06-08-01 `6a26146b5205cc790d3644fe` due `2026-06-08T17:30:00.000Z`; X-YOUPASTOR-2026-06-08-02 `6a26146c32bfe18df58e4b28` due `2026-06-08T19:00:00.000Z`; X-YOUPASTOR-2026-06-08-03 `6a26146ed06e7c8e3b8f3d53` due `2026-06-09T17:30:00.000Z`; X-YOUPASTOR-2026-06-08-04 `6a26146e5205cc790d36452f` due `2026-06-09T19:00:00.000Z`; X-YOUPASTOR-2026-06-08-05 `6a26147032bfe18df58e4b73` due `2026-06-10T17:30:00.000Z`; X-YOUPASTOR-2026-06-08-06 `6a26147152eb7fd342a7a2d2` due `2026-06-10T19:00:00.000Z`. Buffer rejected X-YOUPASTOR-2026-06-08-07 with `Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed`; X-YOUPASTOR-2026-06-08-08 was not attempted after the capacity failure. Pack file updated with Buffer results: /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md
 ```
 
 ### AI Employee draft: AI agent deployment is an operations project, not a software purchase
