@@ -8,6 +8,7 @@ Curated links and references.
 
 ### AI & Tools
 - [[50 - Resources/bookmarks/AI Tools|AI Tools]]
+- [[50 - Resources/bookmarks/Vapi|Vapi]] — voice AI agent developer platform
 - [[50 - Resources/bookmarks/Vagon.io|Vagon.io]] — quick Windows machine for testing
 - [[50 - Resources/bookmarks/BytePlus Coding Plan|BytePlus Coding Plan]] — coding plan to compare against OpenCode Go
 - [[50 - Resources/bookmarks/Langfuse|Langfuse]]
