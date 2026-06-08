@@ -22,6 +22,45 @@ This is the canonical content index for Hermes. Update this file whenever a post
 
 <!-- Hermes: append new records below. Keep newest first. -->
 
+### YouPastor draft: pastors need approval gates, not autopilot AI
+
+```yaml
+id: 2026-06-08-youpastor-pastors-need-approval-gates-not-autopilot-ai
+status: drafted
+type: blog
+primary_cluster: YouPastor
+secondary_cluster: Pastoral Leadership
+target_audience: pastors, bivocational pastors, small-church pastors, church planters, worship leaders, church admins, and ministry communicators evaluating AI for pastoral work
+primary_keyword: AI approval gates for pastors
+secondary_keywords: [AI for pastors, human-in-the-loop AI, sermon prep AI, pastoral workflow, theological guardrails]
+search_intent: thought-leadership
+title: Pastors Do Not Need Autopilot AI. They Need Approval Gates.
+slug: pastors-need-approval-gates-not-autopilot-ai
+url:
+bear_post_id: cawFjjbqBIqDXXvLKZAP
+meta_description: Pastors need AI that pauses for theological judgment, not autopilot content that outruns discernment and pastoral care.
+tags: [YouPastor, AI for pastors, pastoral workflow, human-in-the-loop AI, sermon prep]
+source_notes:
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/topic-clusters.md
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/content-workflow.md
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/projects/YouPastor/YouPastor-PRD.md
+internal_links_out:
+  - https://arnold.gamboa.ph/ai-for-bivocational-pastors/
+  - https://arnold.gamboa.ph/prompt-fatigue-is-why-pastors-stop-using-ai/
+  - https://arnold.gamboa.ph/ai-workspace-pastors-actually-need/
+internal_links_in: []
+social_derivatives:
+  x:
+  linkedin:
+  threads:
+date_created: 2026-06-08
+date_published:
+last_refreshed:
+next_action: Arnold review/edit/approve. If approved, publish only in the normal Tuesday slot or on explicit publish-now instruction.
+notes: Monday YouPastor blog draft created from the content engine snapshot. Focuses on approval gates and human-in-the-loop pastoral judgment, using the YouPastor PRD approval-gate concept and avoiding duplicate content-index topics. Bear Blog draft created unpublished and verified published=false with post ID cawFjjbqBIqDXXvLKZAP.
+```
+
+
 ### YouPastor social pack: bivocational and small-church pastors X research pack — 2026-06-08
 
 ```yaml
