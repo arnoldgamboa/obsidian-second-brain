@@ -26,8 +26,8 @@ This is the canonical content index for Hermes. Update this file whenever a post
 
 ```yaml
 id: 2026-06-01-youpastor-ai-without-outsourcing-pastoral-calling
-status: needs-approval
-approval_status: needs-review
+status: approved-for-scheduled-publish
+approval_status: approved
 type: blog
 primary_cluster: YouPastor
 secondary_cluster: Pastoral Leadership
@@ -42,7 +42,7 @@ bear_post_id: mvohDfqjcUQVqZNKZTLt
 meta_description: AI can help pastors prepare sermons and communication without replacing prayer, judgment, shepherding, or theological responsibility.
 tags: [YouPastor, AI for pastors, pastoral leadership, sermon prep AI, theological guardrails]
 source_notes:
-  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/for-approval/2026-06-01-youpastor-ai-without-outsourcing-pastoral-calling.md
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/blog-approved/2026-06-01-youpastor-ai-without-outsourcing-pastoral-calling.md
 internal_links_out:
   - https://arnold.gamboa.ph/generic-chatbots-sermon-preparation/
   - https://arnold.gamboa.ph/prompt-fatigue-is-why-pastors-stop-using-ai/
@@ -53,18 +53,20 @@ social_derivatives:
   linkedin:
   threads:
 date_created: 2026-06-01
-date_published: 2026-06-01
+date_published: 
 last_refreshed:
-next_action: Arnold review needed: approve, edit, or reject from for-approval/.
-notes: Local approval queue corrected on 2026-06-09: this file was in blog-approved and public/Bear status may already show published, but it had no content-index record and explicit Arnold approval was not found in the content-engine records. Moved to for-approval for review.
+next_action: scheduled to publish on Bear Blog at 2026-06-16 09:10 Manila time
+notes: Local approval queue corrected on 2026-06-09: this file was in blog-approved and public/Bear status may already show published, but it had no content-index record and explicit Arnold approval was not found in the content-engine records. Moved to for-approval for review. Approved by Arnold on 2026-06-09; shortened to under 500 words while retaining subheaders; scheduled for 2026-06-16 09:10 Manila time.
+planned_publish_at: 2026-06-16 09:10
+word_count: 438
 ```
 
 ### AI Employee draft: your first AI agent should be boring
 
 ```yaml
 id: 2026-06-09-ai-employee-your-first-ai-agent-should-be-boring
-status: needs-approval
-approval_status: needs-review
+status: approved-for-scheduled-publish
+approval_status: approved
 type: blog
 primary_cluster: AI Employee
 secondary_cluster: Founder Build-in-Public Bridge
@@ -89,18 +91,20 @@ social_derivatives:
   linkedin:
   threads:
 date_created: 2026-06-09
-date_published: 2026-06-09
-next_action: Arnold review needed: approve, edit, or reject from for-approval/.
-notes: AI Employee / AI Agent consultancy draft created from the content engine snapshot. Avoids duplicating the existing operations-project post by focusing on the first narrowly scoped, boring workflow as the safest initial managed AI agent deployment. Bear Blog draft created unpublished and verified published=false with post ID wNWLMBvCnKMBBuLbYgCc. Legacy status reconciled on 2026-06-09: Bear Blog listed this post as published=true, so the file was moved to blog-approved during approval-queue cleanup. Local approval queue corrected on 2026-06-09: moved to for-approval because explicit Arnold approval was not found in the content-engine records, even though Bear/public status may already show published.
+date_published: 
+next_action: scheduled to publish on Bear Blog at 2026-06-30 09:10 Manila time
+notes: AI Employee / AI Agent consultancy draft created from the content engine snapshot. Avoids duplicating the existing operations-project post by focusing on the first narrowly scoped, boring workflow as the safest initial managed AI agent deployment. Bear Blog draft created unpublished and verified published=false with post ID wNWLMBvCnKMBBuLbYgCc. Legacy status reconciled on 2026-06-09: Bear Blog listed this post as published=true, so the file was moved to blog-approved during approval-queue cleanup. Local approval queue corrected on 2026-06-09: moved to for-approval because explicit Arnold approval was not found in the content-engine records, even though Bear/public status may already show published. Approved by Arnold on 2026-06-09; shortened to under 500 words while retaining subheaders; scheduled for 2026-06-30 09:10 Manila time.
 bear_post_id: wNWLMBvCnKMBBuLbYgCc
+planned_publish_at: 2026-06-30 09:10
+word_count: 439
 ```
 
 ### YouPastor draft: pastors need approval gates, not autopilot AI
 
 ```yaml
 id: 2026-06-08-youpastor-pastors-need-approval-gates-not-autopilot-ai
-status: needs-approval
-approval_status: needs-review
+status: approved-for-scheduled-publish
+approval_status: approved
 type: blog
 primary_cluster: YouPastor
 secondary_cluster: Pastoral Leadership
@@ -127,10 +131,12 @@ social_derivatives:
   linkedin:
   threads:
 date_created: 2026-06-08
-date_published: 2026-06-08
-next_action: Arnold review needed: approve, edit, or reject from for-approval/.
-notes: Monday YouPastor blog draft created from the content engine snapshot. Focuses on approval gates and human-in-the-loop pastoral judgment, using the YouPastor PRD approval-gate concept and avoiding duplicate content-index topics. Bear Blog draft created unpublished and verified published=false with post ID cawFjjbqBIqDXXvLKZAP. Legacy status reconciled on 2026-06-09: Bear Blog listed this post as published=true, so the file was moved to blog-approved during approval-queue cleanup. Local approval queue corrected on 2026-06-09: moved to for-approval because explicit Arnold approval was not found in the content-engine records, even though Bear/public status may already show published.
+date_published: 
+next_action: scheduled to publish on Bear Blog at 2026-06-23 09:10 Manila time
+notes: Monday YouPastor blog draft created from the content engine snapshot. Focuses on approval gates and human-in-the-loop pastoral judgment, using the YouPastor PRD approval-gate concept and avoiding duplicate content-index topics. Bear Blog draft created unpublished and verified published=false with post ID cawFjjbqBIqDXXvLKZAP. Legacy status reconciled on 2026-06-09: Bear Blog listed this post as published=true, so the file was moved to blog-approved during approval-queue cleanup. Local approval queue corrected on 2026-06-09: moved to for-approval because explicit Arnold approval was not found in the content-engine records, even though Bear/public status may already show published. Approved by Arnold on 2026-06-09; shortened to under 500 words while retaining subheaders; scheduled for 2026-06-23 09:10 Manila time.
 bear_post_id: cawFjjbqBIqDXXvLKZAP
+planned_publish_at: 2026-06-23 09:10
+word_count: 429
 ```
 
 
