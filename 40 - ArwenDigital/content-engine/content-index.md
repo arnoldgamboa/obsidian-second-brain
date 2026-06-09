@@ -22,11 +22,49 @@ This is the canonical content index for Hermes. Update this file whenever a post
 
 <!-- Hermes: append new records below. Keep newest first. -->
 
+### YouPastor draft: AI without outsourcing pastoral calling
+
+```yaml
+id: 2026-06-01-youpastor-ai-without-outsourcing-pastoral-calling
+status: needs-approval
+approval_status: needs-review
+type: blog
+primary_cluster: YouPastor
+secondary_cluster: Pastoral Leadership
+target_audience: pastors and ministry leaders curious about AI but concerned about outsourcing pastoral judgment
+primary_keyword: AI for pastors
+secondary_keywords: [sermon prep AI, pastoral workflow, theological guardrails, AI sermon preparation, YouPastor]
+search_intent: thought-leadership
+title: How Pastors Can Use AI Without Outsourcing Their Calling
+slug: ai-without-outsourcing-pastoral-calling
+url: https://arnold.gamboa.ph/ai-without-outsourcing-pastoral-calling/
+bear_post_id: mvohDfqjcUQVqZNKZTLt
+meta_description: AI can help pastors prepare sermons and communication without replacing prayer, judgment, shepherding, or theological responsibility.
+tags: [YouPastor, AI for pastors, pastoral leadership, sermon prep AI, theological guardrails]
+source_notes:
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/for-approval/2026-06-01-youpastor-ai-without-outsourcing-pastoral-calling.md
+internal_links_out:
+  - https://arnold.gamboa.ph/generic-chatbots-sermon-preparation/
+  - https://arnold.gamboa.ph/prompt-fatigue-is-why-pastors-stop-using-ai/
+  - https://arnold.gamboa.ph/sermon-is-not-the-whole-pastoral-workflow/
+internal_links_in: []
+social_derivatives:
+  x:
+  linkedin:
+  threads:
+date_created: 2026-06-01
+date_published: 2026-06-01
+last_refreshed:
+next_action: Arnold review needed: approve, edit, or reject from for-approval/.
+notes: Local approval queue corrected on 2026-06-09: this file was in blog-approved and public/Bear status may already show published, but it had no content-index record and explicit Arnold approval was not found in the content-engine records. Moved to for-approval for review.
+```
+
 ### AI Employee draft: your first AI agent should be boring
 
 ```yaml
 id: 2026-06-09-ai-employee-your-first-ai-agent-should-be-boring
-status: published
+status: needs-approval
+approval_status: needs-review
 type: blog
 primary_cluster: AI Employee
 secondary_cluster: Founder Build-in-Public Bridge
@@ -52,8 +90,8 @@ social_derivatives:
   threads:
 date_created: 2026-06-09
 date_published: 2026-06-09
-next_action: monitor Search Console after indexing; create social derivatives from the published post only if Arnold wants AI Employee content active.
-notes: AI Employee / AI Agent consultancy draft created from the content engine snapshot. Avoids duplicating the existing operations-project post by focusing on the first narrowly scoped, boring workflow as the safest initial managed AI agent deployment. Bear Blog draft created unpublished and verified published=false with post ID wNWLMBvCnKMBBuLbYgCc. Legacy status reconciled on 2026-06-09: Bear Blog listed this post as published=true, so the file was moved to blog-approved during approval-queue cleanup.
+next_action: Arnold review needed: approve, edit, or reject from for-approval/.
+notes: AI Employee / AI Agent consultancy draft created from the content engine snapshot. Avoids duplicating the existing operations-project post by focusing on the first narrowly scoped, boring workflow as the safest initial managed AI agent deployment. Bear Blog draft created unpublished and verified published=false with post ID wNWLMBvCnKMBBuLbYgCc. Legacy status reconciled on 2026-06-09: Bear Blog listed this post as published=true, so the file was moved to blog-approved during approval-queue cleanup. Local approval queue corrected on 2026-06-09: moved to for-approval because explicit Arnold approval was not found in the content-engine records, even though Bear/public status may already show published.
 bear_post_id: wNWLMBvCnKMBBuLbYgCc
 ```
 
@@ -61,7 +99,8 @@ bear_post_id: wNWLMBvCnKMBBuLbYgCc
 
 ```yaml
 id: 2026-06-08-youpastor-pastors-need-approval-gates-not-autopilot-ai
-status: published
+status: needs-approval
+approval_status: needs-review
 type: blog
 primary_cluster: YouPastor
 secondary_cluster: Pastoral Leadership
@@ -89,8 +128,8 @@ social_derivatives:
   threads:
 date_created: 2026-06-08
 date_published: 2026-06-08
-next_action: monitor Search Console after indexing; create social derivatives from the published post.
-notes: Monday YouPastor blog draft created from the content engine snapshot. Focuses on approval gates and human-in-the-loop pastoral judgment, using the YouPastor PRD approval-gate concept and avoiding duplicate content-index topics. Bear Blog draft created unpublished and verified published=false with post ID cawFjjbqBIqDXXvLKZAP. Legacy status reconciled on 2026-06-09: Bear Blog listed this post as published=true, so the file was moved to blog-approved during approval-queue cleanup.
+next_action: Arnold review needed: approve, edit, or reject from for-approval/.
+notes: Monday YouPastor blog draft created from the content engine snapshot. Focuses on approval gates and human-in-the-loop pastoral judgment, using the YouPastor PRD approval-gate concept and avoiding duplicate content-index topics. Bear Blog draft created unpublished and verified published=false with post ID cawFjjbqBIqDXXvLKZAP. Legacy status reconciled on 2026-06-09: Bear Blog listed this post as published=true, so the file was moved to blog-approved during approval-queue cleanup. Local approval queue corrected on 2026-06-09: moved to for-approval because explicit Arnold approval was not found in the content-engine records, even though Bear/public status may already show published.
 bear_post_id: cawFjjbqBIqDXXvLKZAP
 ```
 
