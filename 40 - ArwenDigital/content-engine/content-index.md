@@ -22,6 +22,42 @@ This is the canonical content index for Hermes. Update this file whenever a post
 
 <!-- Hermes: append new records below. Keep newest first. -->
 
+### AI Employee draft: your first AI agent should be boring
+
+```yaml
+id: 2026-06-09-ai-employee-your-first-ai-agent-should-be-boring
+status: drafted
+type: blog
+primary_cluster: AI Employee
+secondary_cluster: Founder Build-in-Public Bridge
+target_audience: business owners, operators, agency owners, and service-business leaders evaluating managed AI agent deployments
+primary_keyword: first AI agent for business
+secondary_keywords: [managed AI agents, AI employee, business automation, AI agent setup, operations workflow]
+search_intent: commercial-investigation
+title: Your First AI Agent Should Be Boring
+slug: your-first-ai-agent-should-be-boring
+url:
+bear_post_id: wNWLMBvCnKMBBuLbYgCc
+meta_description: Your first AI agent should not transform the company. It should reliably own one boring workflow with clear inputs, approvals, and monitoring.
+tags: [AI employee, AI agents, managed AI agents, business automation, operations]
+source_notes:
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/topic-clusters.md
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/content-workflow.md
+  - AI Employee landing-page copy snapshot from scheduled cron pre-run
+internal_links_out:
+  - https://arnold.gamboa.ph/ai-agent-deployment-is-operations-project/
+internal_links_in: []
+social_derivatives:
+  x:
+  linkedin:
+  threads:
+date_created: 2026-06-09
+date_published:
+last_refreshed:
+next_action: Arnold review/edit/approve. If approved, publish only on explicit publish-now instruction or the next approved AI Employee publishing slot.
+notes: AI Employee / AI Agent consultancy draft created from the content engine snapshot. Avoids duplicating the existing operations-project post by focusing on the first narrowly scoped, boring workflow as the safest initial managed AI agent deployment. Bear Blog draft created unpublished and verified published=false with post ID wNWLMBvCnKMBBuLbYgCc.
+```
+
 ### YouPastor draft: pastors need approval gates, not autopilot AI
 
 ```yaml
