@@ -15,10 +15,10 @@ Hermes can write, but the system decides what should be written. Use determinist
 Use these folders as the operational source of truth for approval state:
 
 - `for-approval/` — only files Arnold still needs to approve. Blog drafts and social packs waiting for approval go here. If there is nothing to approve, this folder should be clear except `README.md`.
-- `blog-approved/` — blog drafts move here only after Arnold says `approved blog`, or when legacy drafts are reconciled as already published.
+- `blog-approved/` — blog drafts move here after Bear Blog posting/scheduling succeeds during the `approved blog` batch workflow, or when legacy drafts are reconciled as already published.
 - `approved-social/` — social packs move here only after Arnold says `approved social`, or when legacy packs are reconciled as already scheduled/approved.
 
-Cron jobs must never publish/schedule directly from `for-approval/`. They should publish/schedule only from `blog-approved/` and `approved-social/`.
+Cron jobs must not publish/schedule directly from `for-approval/` on their own. Exception: when Arnold gives an explicit approval command in the current chat (`approved blog`), process all pending blog drafts there immediately and schedule them on Bear Blog with future dates.
 
 ## Workflow A — Blog draft creation
 
@@ -105,11 +105,14 @@ Once Search Console is connected:
 
 Until changed by Arnold:
 
-- Blog posts: create as drafts only under `for-approval/`; do not publish automatically.
-- If Arnold says `approved blog`, move the blog draft from `for-approval/` to `blog-approved/`. That means approved for the next normal publish slot, not immediate publication.
-- Immediate publication requires explicit language like “publish now,” “publish today,” or “go live now.”
+- Blog posts: create as drafts only under `for-approval/`; do not publish automatically from cron.
+- If Arnold says `approved blog`, `approve the blogs`, or similar, approve **all pending blog drafts** in `for-approval/`, create/update them on Bear Blog, and post/publish them with future `published_date` values assigned from the blog schedule.
+- Blog approval is now a batch scheduling action, not merely a move-to-`blog-approved/` step. After Bear Blog creation/update succeeds, move/update the local copies under `blog-approved/` with Bear post IDs/URLs, scheduled dates, and status such as `scheduled` or `published`.
+- Future dates should use the assigned Bear Blog cadence from [[publishing-calendar]]. Example: if the active blog slots are Wednesday and Friday and Arnold approves two drafts on Tuesday, assign blog 1 to Wednesday and blog 2 to Friday.
+- If there is only one active Bear Blog slot per week, assign multiple approved drafts to the next available weekly slots in order.
+- “Publish now,” “publish today,” or “go live now” means immediate publication outside the future-date cadence.
 - Social posts that need review must live in `for-approval/`. If Arnold says `approved social`, move the social pack from `for-approval/` to `approved-social/`.
-- Thursday Buffer jobs schedule only from `approved-social/`; Tuesday Bear Blog jobs publish only from `blog-approved/`.
+- Thursday Buffer jobs schedule only from `approved-social/`. Bear Blog cron jobs should not duplicate posts that were already created/scheduled by the `approved blog` workflow.
 - Exception: Arnold has approved a recurring YouPastor bivocational pastors X workflow: every Friday, research/create at least 8 referenced X posts in Arnold's voice and save the pack directly to `approved-social/`; every Monday, queue the latest eligible approved pack to Buffer without an extra approval loop.
 - Existing published posts: do not edit without explicit approval.
 
@@ -123,7 +126,7 @@ Until changed by Arnold:
 - AI Employee CTA: `https://cal.com/arnold-gamboa-wxar6f/ai-agents-setup-free-call`
 - Google Search Console: verified; use Arnold's personal Google account.
 - Cadence approved: Bear Blog 1/week while YouPastor is the focus, LinkedIn 3/week, X 5/week plus recurring Friday-researched/Monday-queued bivocational pastors X pack, weekly SEO review.
-- Current YouPastor weekly workflow — updated 2026-06-09: Monday suggest/create blog draft in `for-approval/` and queue the latest Friday bivocational pastors X pack from `approved-social/`; Tuesday publish approved blogs from `blog-approved/`; Wednesday draft social posts into `for-approval/`; Thursday push approved social posts from `approved-social/` to Buffer; Friday research/create next pre-approved bivocational pastors X pack directly in `approved-social/`.
+- Current YouPastor weekly workflow — updated 2026-06-09: Monday suggest/create blog draft in `for-approval/` and queue the latest Friday bivocational pastors X pack from `approved-social/`; `approved blog` batch-posts all pending blog drafts to Bear Blog with future dates assigned from the active schedule; Tuesday verifies scheduled/future-dated Bear posts or reminds about pending approvals; Wednesday draft social posts into `for-approval/`; Thursday push approved social posts from `approved-social/` to Buffer; Friday research/create next pre-approved bivocational pastors X pack directly in `approved-social/`.
 
 ## CTA rules
 

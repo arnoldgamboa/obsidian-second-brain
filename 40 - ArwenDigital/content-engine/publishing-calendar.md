@@ -12,7 +12,7 @@ Start with a sustainable, high-signal cadence:
 
 > **Current focus — 2026-05-23:** ArwenHQ / AI Employee / agency-client-reporting content is paused until YouPastor is done. Content reports and automations should stay YouPastor-only unless Arnold explicitly reactivates ArwenHQ.
 
-- **Bear Blog:** 1 YouPastor post/week
+- **Bear Blog:** 1 YouPastor post/week by default; `approved blog` approvals are batch-posted to Bear Blog with future dates assigned to the next available blog schedule slots
 - **LinkedIn:** 3 YouPastor/pastoral AI posts/week
 - **X/Twitter:** 5 YouPastor/pastoral AI posts/week, plus the recurring bivocational pastors X lane (8 referenced posts researched Friday and queued Monday)
 - **Future Facebook Page:** replace Threads with Facebook once the Page is set up
@@ -28,8 +28,9 @@ Start with a sustainable, high-signal cadence:
 - Save as Bear Blog draft when available, but do not publish until approval/publish workflow runs.
 
 **Tuesday**
-- Publish the approved YouPastor blog post from `blog-approved/`.
-- If no approved blog is present in `blog-approved/`, send a reminder instead of publishing.
+- Verify any Bear Blog posts that were scheduled/future-dated by the `approved blog` workflow.
+- If pending blog drafts still exist in `for-approval/`, send a reminder instead of publishing from cron.
+- Do not create duplicate Bear Blog posts for files already scheduled/published during approval.
 
 **Wednesday**
 - Draft social posts from the published/approved YouPastor blog.
