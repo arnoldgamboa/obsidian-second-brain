@@ -26,7 +26,7 @@ This is the canonical content index for Hermes. Update this file whenever a post
 
 ```yaml
 id: 2026-06-09-ai-employee-your-first-ai-agent-should-be-boring
-status: drafted
+status: published
 type: blog
 primary_cluster: AI Employee
 secondary_cluster: Founder Build-in-Public Bridge
@@ -36,8 +36,7 @@ secondary_keywords: [managed AI agents, AI employee, business automation, AI age
 search_intent: commercial-investigation
 title: Your First AI Agent Should Be Boring
 slug: your-first-ai-agent-should-be-boring
-url:
-bear_post_id: wNWLMBvCnKMBBuLbYgCc
+url: https://arnold.gamboa.ph/your-first-ai-agent-should-be-boring/
 meta_description: Your first AI agent should not transform the company. It should reliably own one boring workflow with clear inputs, approvals, and monitoring.
 tags: [AI employee, AI agents, managed AI agents, business automation, operations]
 source_notes:
@@ -52,17 +51,17 @@ social_derivatives:
   linkedin:
   threads:
 date_created: 2026-06-09
-date_published:
-last_refreshed:
-next_action: Arnold review/edit/approve. If approved, publish only on explicit publish-now instruction or the next approved AI Employee publishing slot.
-notes: AI Employee / AI Agent consultancy draft created from the content engine snapshot. Avoids duplicating the existing operations-project post by focusing on the first narrowly scoped, boring workflow as the safest initial managed AI agent deployment. Bear Blog draft created unpublished and verified published=false with post ID wNWLMBvCnKMBBuLbYgCc.
+date_published: 2026-06-09
+next_action: monitor Search Console after indexing; create social derivatives from the published post only if Arnold wants AI Employee content active.
+notes: AI Employee / AI Agent consultancy draft created from the content engine snapshot. Avoids duplicating the existing operations-project post by focusing on the first narrowly scoped, boring workflow as the safest initial managed AI agent deployment. Bear Blog draft created unpublished and verified published=false with post ID wNWLMBvCnKMBBuLbYgCc. Legacy status reconciled on 2026-06-09: Bear Blog listed this post as published=true, so the file was moved to blog-approved during approval-queue cleanup.
+bear_post_id: wNWLMBvCnKMBBuLbYgCc
 ```
 
 ### YouPastor draft: pastors need approval gates, not autopilot AI
 
 ```yaml
 id: 2026-06-08-youpastor-pastors-need-approval-gates-not-autopilot-ai
-status: drafted
+status: published
 type: blog
 primary_cluster: YouPastor
 secondary_cluster: Pastoral Leadership
@@ -72,8 +71,7 @@ secondary_keywords: [AI for pastors, human-in-the-loop AI, sermon prep AI, pasto
 search_intent: thought-leadership
 title: Pastors Do Not Need Autopilot AI. They Need Approval Gates.
 slug: pastors-need-approval-gates-not-autopilot-ai
-url:
-bear_post_id: cawFjjbqBIqDXXvLKZAP
+url: https://arnold.gamboa.ph/pastors-need-approval-gates-not-autopilot-ai/
 meta_description: Pastors need AI that pauses for theological judgment, not autopilot content that outruns discernment and pastoral care.
 tags: [YouPastor, AI for pastors, pastoral workflow, human-in-the-loop AI, sermon prep]
 source_notes:
@@ -90,10 +88,10 @@ social_derivatives:
   linkedin:
   threads:
 date_created: 2026-06-08
-date_published:
-last_refreshed:
-next_action: Arnold review/edit/approve. If approved, publish only in the normal Tuesday slot or on explicit publish-now instruction.
-notes: Monday YouPastor blog draft created from the content engine snapshot. Focuses on approval gates and human-in-the-loop pastoral judgment, using the YouPastor PRD approval-gate concept and avoiding duplicate content-index topics. Bear Blog draft created unpublished and verified published=false with post ID cawFjjbqBIqDXXvLKZAP.
+date_published: 2026-06-08
+next_action: monitor Search Console after indexing; create social derivatives from the published post.
+notes: Monday YouPastor blog draft created from the content engine snapshot. Focuses on approval gates and human-in-the-loop pastoral judgment, using the YouPastor PRD approval-gate concept and avoiding duplicate content-index topics. Bear Blog draft created unpublished and verified published=false with post ID cawFjjbqBIqDXXvLKZAP. Legacy status reconciled on 2026-06-09: Bear Blog listed this post as published=true, so the file was moved to blog-approved during approval-queue cleanup.
+bear_post_id: cawFjjbqBIqDXXvLKZAP
 ```
 
 
@@ -122,28 +120,28 @@ source_notes:
   - https://research.lifeway.com/2025/06/04/evangelical-pastors-more-likely-than-others-to-be-bivocational/
   - https://goodfaithmedia.org/most-u-s-faith-communities-are-small-with-declining-attendance/
   - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/topic-clusters.md
-  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/drafts/2026-06-01-youpastor-ai-for-bivocational-pastors.md
+  - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/blog-approved/2026-06-01-youpastor-ai-for-bivocational-pastors.md
 internal_links_out:
   - https://arnold.gamboa.ph/ai-for-bivocational-pastors/
   - https://arnold.gamboa.ph/sermon-is-not-the-whole-pastoral-workflow/
 internal_links_in: []
 social_derivatives:
   x:
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-01
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-02
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-03
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-04
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-05
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-06
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-07
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-08
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-01
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-02
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-03
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-04
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-05
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-06
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-07
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-08-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-06-08-08
   linkedin:
   threads:
 date_created: 2026-06-05
 date_published:
 last_refreshed:
 next_action: Re-run Monday Buffer queue after scheduled-post capacity frees up, or upgrade Buffer scheduled-post limit; minimum target of 8 was blocked on 2026-06-08 after 6 X posts were verified scheduled.
-notes: Weekly researched YouPastor X pack created for the 2026-06-08 Monday Buffer queue with 8 X drafts. Balance is 3 research-led/statistics-led posts and 5 personal, practical, or encouragement-led posts. Visible source links are included only in posts with specific research claims. Monday Buffer queue attempt on 2026-06-08 verified 6 scheduled X posts from this pack: X-YOUPASTOR-2026-06-08-01 `6a26146b5205cc790d3644fe` due `2026-06-08T17:30:00.000Z`; X-YOUPASTOR-2026-06-08-02 `6a26146c32bfe18df58e4b28` due `2026-06-08T19:00:00.000Z`; X-YOUPASTOR-2026-06-08-03 `6a26146ed06e7c8e3b8f3d53` due `2026-06-09T17:30:00.000Z`; X-YOUPASTOR-2026-06-08-04 `6a26146e5205cc790d36452f` due `2026-06-09T19:00:00.000Z`; X-YOUPASTOR-2026-06-08-05 `6a26147032bfe18df58e4b73` due `2026-06-10T17:30:00.000Z`; X-YOUPASTOR-2026-06-08-06 `6a26147152eb7fd342a7a2d2` due `2026-06-10T19:00:00.000Z`. Buffer rejected X-YOUPASTOR-2026-06-08-07 with `Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed`; X-YOUPASTOR-2026-06-08-08 was not attempted after the capacity failure. Pack file updated with Buffer results: /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-08-youpastor-bivocational-pastors-x-pack.md
+notes: Weekly researched YouPastor X pack created for the 2026-06-08 Monday Buffer queue with 8 X drafts. Balance is 3 research-led/statistics-led posts and 5 personal, practical, or encouragement-led posts. Visible source links are included only in posts with specific research claims. Monday Buffer queue attempt on 2026-06-08 verified 6 scheduled X posts from this pack: X-YOUPASTOR-2026-06-08-01 `6a26146b5205cc790d3644fe` due `2026-06-08T17:30:00.000Z`; X-YOUPASTOR-2026-06-08-02 `6a26146c32bfe18df58e4b28` due `2026-06-08T19:00:00.000Z`; X-YOUPASTOR-2026-06-08-03 `6a26146ed06e7c8e3b8f3d53` due `2026-06-09T17:30:00.000Z`; X-YOUPASTOR-2026-06-08-04 `6a26146e5205cc790d36452f` due `2026-06-09T19:00:00.000Z`; X-YOUPASTOR-2026-06-08-05 `6a26147032bfe18df58e4b73` due `2026-06-10T17:30:00.000Z`; X-YOUPASTOR-2026-06-08-06 `6a26147152eb7fd342a7a2d2` due `2026-06-10T19:00:00.000Z`. Buffer rejected X-YOUPASTOR-2026-06-08-07 with `Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed`; X-YOUPASTOR-2026-06-08-08 was not attempted after the capacity failure. Pack file updated with Buffer results: /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-08-youpastor-bivocational-pastors-x-pack.md
 ```
 
 ### AI Employee draft: AI agent deployment is an operations project, not a software purchase
@@ -174,13 +172,13 @@ internal_links_out:
 internal_links_in: []
 social_derivatives:
   x:
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-06-03-01
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-06-03-02
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-06-03-03
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-03-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-06-03-01
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-03-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-06-03-02
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-03-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-06-03-03
   linkedin:
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-06-03-01
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-06-03-02
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-06-03-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-06-03-03
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-03-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-06-03-01
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-03-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-06-03-02
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-06-03-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-06-03-03
   threads:
 date_created: 2026-06-02
 date_published: 2026-06-04
@@ -258,23 +256,23 @@ internal_links_out:
 internal_links_in: []
 social_derivatives:
   x:
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-01
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-02
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-03
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-04
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-05
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-06
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-07
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-08
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-09
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-10
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-01
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-02
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-03
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-04
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-05
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-06
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-07
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-08
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-09
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-29-youpastor-bivocational-pastors-x-pack.md#X-YOUPASTOR-2026-05-29-10
   linkedin:
   threads:
 date_created: 2026-05-29
 date_published:
 last_refreshed:
 next_action: Re-run Monday Buffer queue after scheduled-post capacity frees up, or upgrade Buffer scheduled-post limit; minimum target of 8 was blocked on 2026-06-01 after 6 X posts were verified scheduled.
-notes: Weekly researched YouPastor X pack created with 10 posts focused on bivocational and small-church pastors. Arnold edited and approved all posts on 2026-05-29. Preserve Arnold's edited post text when scheduling. References were used for content generation and are not required in every post unless a specific statistic or research claim remains in the post. Buffer queue attempt on 2026-06-01 verified 6 scheduled X posts from this pack: X-YOUPASTOR-2026-05-29-03 `6a1cd9c9cf41ba28523a9d0d` due `2026-06-02T17:30:00.000Z`; X-YOUPASTOR-2026-05-29-04 `6a1cd9c9efeb482ae344ce2a` due `2026-06-02T19:00:00.000Z`; X-YOUPASTOR-2026-05-29-05 `6a1cd9caf47c8b09310edbe8` due `2026-06-03T17:30:00.000Z`; X-YOUPASTOR-2026-05-29-06 `6a1cd9caf47c8b09310edc21` due `2026-06-03T19:00:00.000Z`; X-YOUPASTOR-2026-05-29-07 `6a1cd9ca57233bc2952d9547` due `2026-06-04T17:30:00.000Z`; X-YOUPASTOR-2026-05-29-08 `6a1cd9cbcf41ba28523a9d3b` due `2026-06-04T19:00:00.000Z`. X-YOUPASTOR-2026-05-29-01 create attempt was rejected by Buffer as a recent duplicate; X-YOUPASTOR-2026-05-29-09 and -10 were rejected because Buffer had 10 scheduled posts out of 10 allowed. Pack file updated with Buffer results: /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-29-youpastor-bivocational-pastors-x-pack.md
+notes: Weekly researched YouPastor X pack created with 10 posts focused on bivocational and small-church pastors. Arnold edited and approved all posts on 2026-05-29. Preserve Arnold's edited post text when scheduling. References were used for content generation and are not required in every post unless a specific statistic or research claim remains in the post. Buffer queue attempt on 2026-06-01 verified 6 scheduled X posts from this pack: X-YOUPASTOR-2026-05-29-03 `6a1cd9c9cf41ba28523a9d0d` due `2026-06-02T17:30:00.000Z`; X-YOUPASTOR-2026-05-29-04 `6a1cd9c9efeb482ae344ce2a` due `2026-06-02T19:00:00.000Z`; X-YOUPASTOR-2026-05-29-05 `6a1cd9caf47c8b09310edbe8` due `2026-06-03T17:30:00.000Z`; X-YOUPASTOR-2026-05-29-06 `6a1cd9caf47c8b09310edc21` due `2026-06-03T19:00:00.000Z`; X-YOUPASTOR-2026-05-29-07 `6a1cd9ca57233bc2952d9547` due `2026-06-04T17:30:00.000Z`; X-YOUPASTOR-2026-05-29-08 `6a1cd9cbcf41ba28523a9d3b` due `2026-06-04T19:00:00.000Z`. X-YOUPASTOR-2026-05-29-01 create attempt was rejected by Buffer as a recent duplicate; X-YOUPASTOR-2026-05-29-09 and -10 were rejected because Buffer had 10 scheduled posts out of 10 allowed. Pack file updated with Buffer results: /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-29-youpastor-bivocational-pastors-x-pack.md
 ```
 
 
@@ -340,21 +338,21 @@ internal_links_out:
 internal_links_in: []
 social_derivatives:
   x:
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-25-social-pack.md#X-2026-05-25-01
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-25-social-pack.md#X-2026-05-25-02
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-25-social-pack.md#X-2026-05-25-03
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-25-social-pack.md#X-2026-05-25-04
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-25-social-pack.md#X-2026-05-25-05
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-25-social-pack.md#X-2026-05-25-01
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-25-social-pack.md#X-2026-05-25-02
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-25-social-pack.md#X-2026-05-25-03
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-25-social-pack.md#X-2026-05-25-04
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-25-social-pack.md#X-2026-05-25-05
   linkedin:
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-25-social-pack.md#LI-2026-05-25-01
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-25-social-pack.md#LI-2026-05-25-02
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-25-social-pack.md#LI-2026-05-25-03
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-25-social-pack.md#LI-2026-05-25-01
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-25-social-pack.md#LI-2026-05-25-02
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-25-social-pack.md#LI-2026-05-25-03
   threads:
 date_created: 2026-05-25
 date_published: 2026-05-25
 last_refreshed:
 next_action: monitor Search Console after indexing; social derivatives already scheduled
-notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/drafts/2026-05-25-youpastor-sermon-is-not-the-whole-pastoral-workflow.md. Bear post FqCAidwTIZITkwthASIi published on 2026-05-25 after Arnold approved. Shortened on 2026-05-25 from ~1,455 body words to ~783 body words per Arnold's shorter-blog preference. Public URL verified 200 and CTA href verified.
+notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/blog-approved/2026-05-25-youpastor-sermon-is-not-the-whole-pastoral-workflow.md. Bear post FqCAidwTIZITkwthASIi published on 2026-05-25 after Arnold approved. Shortened on 2026-05-25 from ~1,455 body words to ~783 body words per Arnold's shorter-blog preference. Public URL verified 200 and CTA href verified.
 ```
 
 ### AI Employee idea: stop asking AI agents to build everything
@@ -418,9 +416,9 @@ internal_links_out:
 internal_links_in: []
 social_derivatives:
   x:
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-27-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-05-27-01
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-27-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-05-27-01
   linkedin:
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-27-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-05-27-01
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-27-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-05-27-01
   threads:
 date_created: 2026-05-24
 date_published:
@@ -454,9 +452,9 @@ internal_links_out:
 internal_links_in: []
 social_derivatives:
   x:
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-27-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-05-27-02
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-27-ai-employee-linkedin-x-pack.md#X-AIEMP-2026-05-27-02
   linkedin:
-    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/social-drafts/2026-05-27-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-05-27-02
+    - /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/approved-social/2026-05-27-ai-employee-linkedin-x-pack.md#LI-AIEMP-2026-05-27-02
   threads:
 date_created: 2026-05-24
 date_published:
@@ -707,7 +705,7 @@ date_created: 2026-05-19
 date_published: 2026-05-22
 last_refreshed:
 next_action: monitor Search Console after indexing
-notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/drafts/2026-05-19-ai-employee-what-ai-employee-can-do-small-business.md. Bear draft created via MCP; post_id ijsIdIBubEEJWmHmJWBy. Approved by Arnold on 2026-05-19 and scheduled for publication at 2026-05-22 09:10 Manila time. Bear MCP lists the post as published even after unpublish call, but public URL returned 404 before scheduled publish.
+notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/blog-approved/2026-05-19-ai-employee-what-ai-employee-can-do-small-business.md. Bear draft created via MCP; post_id ijsIdIBubEEJWmHmJWBy. Approved by Arnold on 2026-05-19 and scheduled for publication at 2026-05-22 09:10 Manila time. Bear MCP lists the post as published even after unpublish call, but public URL returned 404 before scheduled publish.
 ```
 
 ### YouPastor draft: AI workspace pastors actually need
@@ -778,7 +776,7 @@ date_created: 2026-05-16
 date_published: 2026-05-22
 last_refreshed:
 next_action: monitor Search Console after indexing
-notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/drafts/2026-05-16-youpastor-generic-chatbots-sermon-preparation.md. Bear draft created via MCP. Scheduled for publication at 2026-05-20 09:10 Manila time.
+notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/blog-approved/2026-05-16-youpastor-generic-chatbots-sermon-preparation.md. Bear draft created via MCP. Scheduled for publication at 2026-05-20 09:10 Manila time.
 ```
 
 ### AI Employee draft: real cost of AI adoption friction
@@ -814,7 +812,7 @@ date_created: 2026-05-16
 date_published: 2026-05-22
 last_refreshed:
 next_action: monitor Search Console after indexing
-notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/drafts/2026-05-16-ai-employee-real-cost-of-ai-adoption-is-friction.md. Bear draft created via MCP. Scheduled for publication at 2026-05-21 09:00 Manila time.
+notes: Draft saved at /Volumes/GamboaSSD/My-Second-Brain/40 - ArwenDigital/content-engine/blog-approved/2026-05-16-ai-employee-real-cost-of-ai-adoption-is-friction.md. Bear draft created via MCP. Scheduled for publication at 2026-05-21 09:00 Manila time.
 ```
 
 ### Template

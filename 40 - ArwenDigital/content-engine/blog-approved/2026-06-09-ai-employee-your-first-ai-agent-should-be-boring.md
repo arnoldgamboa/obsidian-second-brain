@@ -1,13 +1,14 @@
 ---
 title: Your First AI Agent Should Be Boring
 slug: your-first-ai-agent-should-be-boring
-status: draft
+status: published
 cluster: AI Employee
 primary_keyword: first AI agent for business
 meta_description: Your first AI agent should not transform the company. It should reliably own one boring workflow with clear inputs, approvals, and monitoring.
 tags: [AI employee, AI agents, managed AI agents, business automation, operations]
 cta_url: https://cal.com/arnold-gamboa-wxar6f/ai-agents-setup-free-call
 created: 2026-06-09
+url: https://arnold.gamboa.ph/your-first-ai-agent-should-be-boring/
 ---
 
 # Your First AI Agent Should Be Boring

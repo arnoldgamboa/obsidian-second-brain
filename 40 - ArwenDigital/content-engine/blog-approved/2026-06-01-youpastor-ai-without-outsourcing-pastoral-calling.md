@@ -1,13 +1,14 @@
 ---
 title: "How Pastors Can Use AI Without Outsourcing Their Calling"
 slug: ai-without-outsourcing-pastoral-calling
-status: draft
+status: published
 cluster: YouPastor
 primary_keyword: AI for pastors
 meta_description: AI can help pastors prepare sermons and communication without replacing prayer, judgment, shepherding, or theological responsibility.
 tags: [YouPastor, AI for pastors, pastoral leadership, sermon prep AI, theological guardrails]
 cta_type: email-capture-placeholder
 created: 2026-06-01
+url: https://arnold.gamboa.ph/ai-without-outsourcing-pastoral-calling/
 ---
 
 # SEO Brief

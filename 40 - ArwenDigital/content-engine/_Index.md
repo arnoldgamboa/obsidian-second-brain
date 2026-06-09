@@ -19,6 +19,9 @@ This folder is the operating system for Hermes-driven content across:
 - [[topic-clusters]] — SEO and authority clusters to guide what gets written
 - [[publishing-calendar]] — default cadence and weekly rhythm
 - [[content-workflow]] — how Hermes should create, optimize, approve, publish, and refresh content
+- `for-approval/` — active approval queue; should be clear when no blog/social items need Arnold
+- `blog-approved/` — approved blog drafts ready for Bear Blog publishing workflow
+- `approved-social/` — approved social packs ready for Buffer scheduling workflow
 - [[bear-blog-mcp-setup]] — setup checklist for Bear Blog MCP integration
 - [[search-console-setup]] — setup checklist for Search Console feedback loop
 

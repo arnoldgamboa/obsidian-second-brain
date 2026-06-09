@@ -1,7 +1,7 @@
 ---
 id: 2026-05-16-hire-a-digital-employee-not-another-ai-tool
 title: Hire a Digital Employee, Not Another AI Tool
-status: approved-for-scheduled-publish
+status: published
 type: blog
 primary_cluster: AI Employee
 primary_keyword: AI employee

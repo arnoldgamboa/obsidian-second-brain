@@ -1,13 +1,14 @@
 ---
 title: "Pastors Do Not Need Autopilot AI. They Need Approval Gates."
 slug: pastors-need-approval-gates-not-autopilot-ai
-status: draft
+status: published
 cluster: YouPastor
 primary_keyword: "AI approval gates for pastors"
 meta_description: "Pastors need AI that pauses for theological judgment, not autopilot content that outruns discernment and pastoral care."
 tags: [YouPastor, AI for pastors, pastoral workflow, human-in-the-loop AI, sermon prep]
 cta_type: YouPastor email capture placeholder
 created: 2026-06-08
+url: https://arnold.gamboa.ph/pastors-need-approval-gates-not-autopilot-ai/
 ---
 
 # Pastors Do Not Need Autopilot AI. They Need Approval Gates.
