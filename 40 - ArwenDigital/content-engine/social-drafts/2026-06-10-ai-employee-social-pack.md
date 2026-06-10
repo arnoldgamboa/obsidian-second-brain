@@ -1,7 +1,7 @@
 ---
 cluster: AI Employee
-status: approval-needed
-buffer_status: not-scheduled
+status: scheduled
+buffer_status: scheduled
 date: 2026-06-10
 pair_count: 3
 platforms: [LinkedIn, X/Twitter]
@@ -23,9 +23,10 @@ Proposal-only pack for the AI Employee / AI agents lane. Do not schedule or publ
 - CTA: If you are trying to turn a messy weekly workflow into a dependable AI-assisted process, map the handoff before choosing the tool.
 - Image concept: Split-screen workflow diagram: messy inbox/tasks on the left, a clean human-to-AI handoff checklist on the right.
 - Image-generation prompt: A clean, business-facing editorial illustration of a small business operations workflow handoff: left side shows scattered emails, spreadsheets, and task cards; right side shows a simple checklist labeled context, decision, exception, review. Modern neutral colors, subtle Arwen Digital style, no logos, no readable small text.
-- Image status: concept-only
-- Approval status: approval-needed
-- Buffer status: not-scheduled
+- Image status: generated and attached in Buffer
+- Image asset: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-01.png
+- Approval status: approved
+- Buffer status: scheduled
 
 ### LinkedIn post text
 
@@ -91,9 +92,10 @@ The job description matters more than the demo.
 - CTA: Look for the boring workflow that quietly eats 3–5 hours every week.
 - Image concept: A calm operations dashboard with green checks beside repetitive back-office tasks, contrasted with a flashy but unused AI demo window in the background.
 - Image-generation prompt: Editorial business illustration of a calm operations dashboard showing completed repetitive tasks, checkmarks, simple process lines, and a small team owner reviewing exceptions. A flashy AI demo window sits blurred in the background. Professional, understated, practical, no hype, no logos.
-- Image status: concept-only
-- Approval status: approval-needed
-- Buffer status: not-scheduled
+- Image status: generated and attached in Buffer
+- Image asset: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-02.png
+- Approval status: approved
+- Buffer status: scheduled
 
 ### LinkedIn post text
 
@@ -155,9 +157,10 @@ In operations, boring is often where the margin is.
 - CTA: If a workflow carries customer trust, automate the prep first and keep the decision boundary explicit.
 - Image concept: Human operator at a decision desk with AI preparing organized context cards, not making the final decision.
 - Image-generation prompt: Professional editorial illustration of an AI assistant preparing organized context cards for a human business operator at a decision desk. The human is making the final decision while the AI handles research, summaries, and checklists. Warm, practical, small business operations feel, no robot clichés, no logos.
-- Image status: concept-only
-- Approval status: approval-needed
-- Buffer status: not-scheduled
+- Image status: generated and attached in Buffer
+- Image asset: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-03.png
+- Approval status: approved
+- Buffer status: scheduled
 
 ### LinkedIn post text
 
@@ -209,3 +212,14 @@ The human keeps the judgment.
 The AI removes the drag around the judgment.
 
 Automate the preparation. Protect the judgment.
+
+## Buffer scheduled status
+
+Approved by Arnold on 2026-06-10. Scheduled via Buffer with generated image assets attached.
+
+- LI-AIEMP-2026-06-10-01: Buffer post `6a28cf3f0ff2b1ed196caa2c` — scheduled for 2026-06-11 09:00 Asia/Manila (2026-06-11T01:00:00.000Z); image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-01.png
+- X-AIEMP-2026-06-10-01: Buffer post `6a28cf3ff796e49fcb67b7c5` — scheduled for 2026-06-11 11:30 Asia/Manila (2026-06-11T03:30:00.000Z); image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-01.png
+- LI-AIEMP-2026-06-10-02: Buffer post `6a28cf40d95d1b66be798cab` — scheduled for 2026-06-15 09:00 Asia/Manila (2026-06-15T01:00:00.000Z); image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-02.png
+- X-AIEMP-2026-06-10-02: Buffer post `6a28cf410ff2b1ed196caa51` — scheduled for 2026-06-15 12:15 Asia/Manila (2026-06-15T04:15:00.000Z); image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-02.png
+- LI-AIEMP-2026-06-10-03: Buffer post `6a28cf42891a03093da3f093` — scheduled for 2026-06-17 09:00 Asia/Manila (2026-06-17T01:00:00.000Z); image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-03.png
+- X-AIEMP-2026-06-10-03: Buffer post `6a28cf42f796e49fcb67b7ea` — scheduled for 2026-06-17 13:00 Asia/Manila (2026-06-17T05:00:00.000Z); image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-03.png
