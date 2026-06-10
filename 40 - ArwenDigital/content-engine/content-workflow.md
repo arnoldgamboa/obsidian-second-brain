@@ -44,8 +44,8 @@ Cron jobs must not publish/schedule directly from `for-approval/` on their own. 
    - for YouPastor, do not frame the product as only a sermon-writing tool; broaden toward helping bivocational and small-church pastors carry sermon prep, communication, follow-up, admin, care, and weekly ministry rhythms
    - when discussing bivocational pastors, tap Arnold's lived experience as a bivocational pastor: limited time, ministry after work, family pressure, Sunday still coming, and the need for encouragement plus practical help
    - include visible references/sources when making statistical claims in blog drafts and X posts
-   - default length: 600–900 words unless Arnold asks for long-form
-   - if a draft feels bloated, cut it roughly in half: one clear point, fewer sections, less explaining, sharper opinion
+   - default length: 500 words or less unless Arnold explicitly asks for long-form
+   - maintain subheaders even when shortening; one clear point, fewer sections, less explaining, sharper opinion
 5. Generate metadata:
    - slug
    - tags
