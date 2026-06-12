@@ -26,7 +26,7 @@ Proposal-only pack for the AI Employee / AI agents lane. Do not schedule or publ
 - Image status: generated and attached in Buffer
 - Image asset: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-01.png
 - Approval status: approved
-- Buffer status: scheduled
+- Buffer status: sent
 
 ### LinkedIn post text
 
@@ -217,7 +217,7 @@ Automate the preparation. Protect the judgment.
 
 Approved by Arnold on 2026-06-10. Scheduled via Buffer with generated image assets attached.
 
-- LI-AIEMP-2026-06-10-01: Buffer post `6a28cf3f0ff2b1ed196caa2c` — scheduled for 2026-06-11 09:00 Asia/Manila (2026-06-11T01:00:00.000Z); image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-01.png
+- LI-AIEMP-2026-06-10-01: Buffer post `6a28cf3f0ff2b1ed196caa2c` — sent; dueAt was 2026-06-11 09:00 Asia/Manila (2026-06-11T01:00:00.000Z); image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-01.png
 - X-AIEMP-2026-06-10-01: Buffer post `6a28cf3ff796e49fcb67b7c5` — scheduled for 2026-06-11 11:30 Asia/Manila (2026-06-11T03:30:00.000Z); image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-01.png
 - LI-AIEMP-2026-06-10-02: Buffer post `6a28cf40d95d1b66be798cab` — scheduled for 2026-06-15 09:00 Asia/Manila (2026-06-15T01:00:00.000Z); image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-02.png
 - X-AIEMP-2026-06-10-02: Buffer post `6a28cf410ff2b1ed196caa51` — scheduled for 2026-06-15 12:15 Asia/Manila (2026-06-15T04:15:00.000Z); image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-10-02.png
