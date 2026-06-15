@@ -1,7 +1,7 @@
 ---
 title: "What Approval Gates Look Like in a Real Sermon Prep Workflow"
 slug: "youpastor-approval-gates-real-sermon-prep-workflow"
-status: approved-for-scheduled-publish
+status: published
 cluster: YouPastor
 primary_keyword: "sermon prep approval gates"
 meta_description: "A practical sermon prep workflow for pastors using AI with approval gates that protect Scripture, prayer, pastoral judgment, and local voice."
@@ -14,11 +14,15 @@ tags:
 cta_type: youpastor_early_access
 created: 2026-06-15
 bear_post_id: twGsXgkmKcITMaYSdnaH
-bear_published: false verified via bear_get_post
+bear_published: true verified via bear_get_post and public URL
 canonical_supports: pastors-need-approval-gates-not-autopilot-ai
 url: "https://arnold.gamboa.ph/youpastor-approval-gates-real-sermon-prep-workflow/"
 planned_publish_at: 2026-06-16 09:20
-next_action: scheduled deterministic Bear publish job
+next_action: monitor Search Console and Facebook engagement after indexing
+date_published: 2026-06-15
+facebook_page_id: 1068232809717276
+facebook_post_id: 1068232809717276_122096889615364394
+facebook_permalink_url: "https://www.facebook.com/122096971959364394/posts/122096889615364394"
 ---
 
 ## SEO brief
@@ -30,8 +34,6 @@ next_action: scheduled deterministic Bear publish job
 - **Angle:** Approval gates are not anti-AI friction. They are the checkpoints that keep AI in the assistant seat and preserve the pastor’s responsibility before Scripture and people.
 - **CTA:** Invite readers to join the YouPastor early-access list at [youpastor.com](https://youpastor.com).
 - **Internal-link candidates:** [Pastors Do Not Need Autopilot AI. They Need Approval Gates.](https://arnold.gamboa.ph/pastors-need-approval-gates-not-autopilot-ai/), [Why Generic Chatbots Are Not Enough for Sermon Preparation](https://arnold.gamboa.ph/generic-chatbots-sermon-preparation/), [AI Sermon Preparation Without Losing Your Pastoral Voice](draft).
-
-# What Approval Gates Look Like in a Real Sermon Prep Workflow
 
 I do not think the safest way to use AI in sermon preparation is to ask, “Can this tool write a sermon?”
 

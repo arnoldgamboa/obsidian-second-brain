@@ -1,7 +1,7 @@
 ---
 title: "AI Sermon Preparation Without Losing Your Pastoral Voice"
 slug: "youpastor-ai-sermon-preparation-without-losing-your-voice"
-status: approved-for-scheduled-publish
+status: published
 cluster: YouPastor
 primary_keyword: "AI sermon preparation for pastors"
 meta_description: "A pastor-founder’s honest take on using AI for sermon preparation without outsourcing prayer, judgment, or your own pastoral voice."
@@ -15,7 +15,12 @@ created: 2026-06-15
 bear_post_id: cXxWKVWJpicDQYLCsJmG
 url: "https://arnold.gamboa.ph/youpastor-ai-sermon-preparation-without-losing-your-voice/"
 planned_publish_at: 2026-06-16 09:10
-next_action: scheduled deterministic Bear publish job
+next_action: monitor Search Console and Facebook engagement after indexing
+date_published: 2026-06-15
+bear_published: true verified via bear_get_post and public URL
+facebook_page_id: 1068232809717276
+facebook_post_id: 1068232809717276_122096971761364394
+facebook_permalink_url: "https://www.facebook.com/122096971959364394/posts/122096971761364394"
 ---
 
 ## SEO brief
@@ -27,8 +32,6 @@ next_action: scheduled deterministic Bear publish job
 - **Angle:** AI can reduce blank-page pressure and organize research, but it should not replace prayer, pastoral judgment, or the preacher’s lived burden for the text.
 - **CTA:** Invite readers to join the YouPastor early-access list at [youpastor.com](https://youpastor.com).
 - **Internal-link candidates:** future YouPastor product note, future sermon-to-social workflow article, future theological guardrails article.
-
-# AI Sermon Preparation Without Losing Your Pastoral Voice
 
 I do not think pastors need AI because sermons should become faster content.
 

@@ -1,14 +1,16 @@
 ---
-tags: [content-engine, approval, Bear Blog, YouPastor]
+tags: [content-engine, approval, Bear Blog, YouPastor, Facebook]
 date: 2026-06-15
-status: approved-for-scheduled-publish
+status: published
 ---
 
 # Approval Record — AI Sermon Preparation Without Losing Your Pastoral Voice
 
 - **Approved by:** Arnold Gamboa
 - **Approval received:** 2026-06-15
-- **Action scheduled:** Publish Bear Blog post at 2026-06-16 09:10 Asia/Manila via deterministic script
+- **Action taken:** Published Bear Blog post and cross-posted summary/link to the YouPastor Facebook Page on 2026-06-15
 - **Bear post ID:** cXxWKVWJpicDQYLCsJmG
-- **Planned URL:** https://arnold.gamboa.ph/youpastor-ai-sermon-preparation-without-losing-your-voice/
-- **Verification before scheduling:** Bear draft exists and is unpublished.
+- **Public URL:** https://arnold.gamboa.ph/youpastor-ai-sermon-preparation-without-losing-your-voice/
+- **Facebook post ID:** 1068232809717276_122096971761364394
+- **Facebook permalink:** https://www.facebook.com/122096971959364394/posts/122096971761364394
+- **Verification:** Bear `published: true`; public URL HTTP 200; title present; YouPastor CTA present; Facebook post created and verified via Composio.
