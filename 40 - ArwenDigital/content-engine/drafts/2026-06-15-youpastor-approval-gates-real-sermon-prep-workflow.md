@@ -11,7 +11,7 @@ tags:
   - sermon-preparation
   - AI-for-ministry
   - approval-gates
-cta_type: youpastor_early_access
+cta_type: youpastor_visit
 created: 2026-06-15
 bear_post_id: twGsXgkmKcITMaYSdnaH
 bear_published: true verified via bear_get_post and public URL
@@ -127,4 +127,4 @@ Not “let AI preach for you.”
 
 More like: keep the pastor responsible, keep the judgment human, and let the tool carry the repeatable drag around the work.
 
-If you want early access, join the list at [youpastor.com](https://youpastor.com).
+Try YouPastor at [youpastor.com](https://youpastor.com).

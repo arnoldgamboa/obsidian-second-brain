@@ -10,7 +10,7 @@ tags:
   - pastors
   - sermon-preparation
   - AI-for-ministry
-cta_type: youpastor_early_access
+cta_type: youpastor_visit
 created: 2026-06-15
 bear_post_id: cXxWKVWJpicDQYLCsJmG
 url: "https://arnold.gamboa.ph/youpastor-ai-sermon-preparation-without-losing-your-voice/"
@@ -76,4 +76,4 @@ Not “let AI preach for you.”
 
 More like: keep your voice, keep your convictions, keep your pastoral judgment — and let the tool carry some of the blank-page weight.
 
-If you want early access, join the list at [youpastor.com](https://youpastor.com).
+Try YouPastor at [youpastor.com](https://youpastor.com).

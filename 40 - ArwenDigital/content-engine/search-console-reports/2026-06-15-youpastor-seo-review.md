@@ -67,7 +67,7 @@ Recommended YouPastor topic ideas from the current content set:
 
 `content-index.md` currently lists only one YouPastor blog draft:
 
-- `AI Sermon Preparation Without Losing Your Pastoral Voice` — status: `draft`; Bear draft ID: `cXxWKVWJpicDQYLCsJmG`; Bear published: `false verified via bear_get_post`; CTA: email capture placeholder.
+- `AI Sermon Preparation Without Losing Your Pastoral Voice` — original status in this report: `draft`; Bear draft ID: `cXxWKVWJpicDQYLCsJmG`; Bear published: `false verified via bear_get_post`; CTA was an email capture placeholder. Later cleanup published it and updated the CTA to launched-product language.
 
 Bear Blog has multiple YouPastor posts that are not represented in the local index, including:
 
@@ -111,13 +111,13 @@ Recommendation: keep one canonical approval-gates article and use internal links
 
 ### 4. CTA consistency gap
 
-Newer/stronger YouPastor posts use `https://youpastor.com` or an early-access/message CTA. The current local draft `AI Sermon Preparation Without Losing Your Pastoral Voice` still uses:
+Original finding: newer/stronger YouPastor posts used `https://youpastor.com` or an early-access/message CTA. The then-current local draft `AI Sermon Preparation Without Losing Your Pastoral Voice` still used:
 
 `https://example.com/youpastor-email-capture-placeholder`
 
-This should be normalized before approval/publishing. The clean default is:
+This was normalized after launch. Current clean default is launched-product language, e.g.:
 
-`If you want early access, join the list at [youpastor.com](https://youpastor.com).`
+`Try YouPastor at [youpastor.com](https://youpastor.com).`
 
 ### 5. Meta descriptions are mostly present
 
