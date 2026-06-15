@@ -10,7 +10,7 @@ tags:
   - pastors
   - sermon-preparation
   - AI-for-ministry
-cta_type: email_capture_placeholder
+cta_type: youpastor_early_access
 created: 2026-06-15
 ---
 
@@ -21,7 +21,7 @@ created: 2026-06-15
 - **Primary keyword:** AI sermon preparation for pastors
 - **Secondary phrases:** AI for pastors, sermon prep AI, pastoral voice, ministry AI tools
 - **Angle:** AI can reduce blank-page pressure and organize research, but it should not replace prayer, pastoral judgment, or the preacher’s lived burden for the text.
-- **CTA:** Invite readers to join the YouPastor email list using a placeholder link until Arnold provides the final URL.
+- **CTA:** Invite readers to join the YouPastor early-access list at [youpastor.com](https://youpastor.com).
 - **Internal-link candidates:** future YouPastor product note, future sermon-to-social workflow article, future theological guardrails article.
 
 # AI Sermon Preparation Without Losing Your Pastoral Voice
@@ -111,4 +111,4 @@ More like: “keep your voice, keep your convictions, keep your pastoral judgmen
 
 If you are a pastor or ministry leader thinking carefully about this, I would love to build with your concerns in mind.
 
-[Join the YouPastor email list — link coming soon](https://example.com/youpastor-email-capture-placeholder)
+If you want early access, join the list at [youpastor.com](https://youpastor.com).

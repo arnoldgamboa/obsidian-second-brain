@@ -147,6 +147,17 @@ Reason: updates were not deterministic enough under the current verification pol
 2. **Backfill the content index with verified YouPastor posts:** add the published YouPastor Bear posts to `content-index.md` only after public URL verification works; include title, slug, Bear ID, published date, meta-description status, CTA type, and internal-link targets.
 3. **Create one practical follow-up article:** draft `What approval gates look like in a real sermon prep workflow` or `A Friday reset for bivocational pastors before Sunday` to move from philosophy into concrete pastor-facing utility.
 
+## Follow-up cleanup completed — 2026-06-15
+
+Completed non-manual fixes from this report:
+
+1. **Search Console pre-run fixed.** Updated `/opt/data/scripts/content_and_gsc_snapshot.py` so it resolves helper scripts from `/opt/data/scripts/` and runs `search_console_snapshot.py` through `/opt/data/.hermes/google-workspace-venv/bin/python` with the personal token path. Verified combined snapshot now returns `search_console status=ok` for `sc-domain:arnold.gamboa.ph`.
+2. **Public URL verification recovered.** Browser-style public checks now return `HTTP 200` for published YouPastor posts. The active sermon-prep draft returns `404`, which is expected because Bear detail reports it unpublished.
+3. **CTA placeholder fixed.** Replaced the `example.com` placeholder CTA in the local draft and Bear draft `cXxWKVWJpicDQYLCsJmG` with `[youpastor.com](https://youpastor.com)`. Bear detail verification shows `published: false`, no placeholder, and YouPastor CTA present.
+4. **Content index backfilled.** Added the verified published YouPastor posts to `content-index.md` with slugs, URLs, Bear IDs, public verification status, meta-description status, and CTA type.
+5. **Approval-gates canonicalization recorded.** Marked `Pastors Do Not Need Autopilot AI. They Need Approval Gates.` as canonical for the approval-gates/autopilot cluster and kept `Pastors Need Approval Gates, Not AI Autopilot` as non-canonical/unpublished unless rewritten with distinct intent.
+6. **Practical follow-up article drafted.** Created local + Bear draft `What Approval Gates Look Like in a Real Sermon Prep Workflow` (`twGsXgkmKcITMaYSdnaH`), unpublished and ready for Arnold review.
+
 ## Report path
 
 `/opt/data/My-Second-Brain/40 - ArwenDigital/content-engine/search-console-reports/2026-06-15-youpastor-seo-review.md`
