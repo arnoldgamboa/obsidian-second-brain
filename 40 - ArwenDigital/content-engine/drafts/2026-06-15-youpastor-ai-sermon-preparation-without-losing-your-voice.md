@@ -1,7 +1,7 @@
 ---
 title: "AI Sermon Preparation Without Losing Your Pastoral Voice"
 slug: "youpastor-ai-sermon-preparation-without-losing-your-voice"
-status: draft
+status: approved-for-scheduled-publish
 cluster: YouPastor
 primary_keyword: "AI sermon preparation for pastors"
 meta_description: "A pastor-founder’s honest take on using AI for sermon preparation without outsourcing prayer, judgment, or your own pastoral voice."
@@ -12,6 +12,10 @@ tags:
   - AI-for-ministry
 cta_type: youpastor_early_access
 created: 2026-06-15
+bear_post_id: cXxWKVWJpicDQYLCsJmG
+url: "https://arnold.gamboa.ph/youpastor-ai-sermon-preparation-without-losing-your-voice/"
+planned_publish_at: 2026-06-16 09:10
+next_action: scheduled deterministic Bear publish job
 ---
 
 ## SEO brief

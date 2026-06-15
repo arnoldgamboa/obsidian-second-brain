@@ -1,7 +1,7 @@
 ---
 title: "What Approval Gates Look Like in a Real Sermon Prep Workflow"
 slug: "youpastor-approval-gates-real-sermon-prep-workflow"
-status: draft
+status: approved-for-scheduled-publish
 cluster: YouPastor
 primary_keyword: "sermon prep approval gates"
 meta_description: "A practical sermon prep workflow for pastors using AI with approval gates that protect Scripture, prayer, pastoral judgment, and local voice."
@@ -16,6 +16,9 @@ created: 2026-06-15
 bear_post_id: twGsXgkmKcITMaYSdnaH
 bear_published: false verified via bear_get_post
 canonical_supports: pastors-need-approval-gates-not-autopilot-ai
+url: "https://arnold.gamboa.ph/youpastor-approval-gates-real-sermon-prep-workflow/"
+planned_publish_at: 2026-06-16 09:20
+next_action: scheduled deterministic Bear publish job
 ---
 
 ## SEO brief
