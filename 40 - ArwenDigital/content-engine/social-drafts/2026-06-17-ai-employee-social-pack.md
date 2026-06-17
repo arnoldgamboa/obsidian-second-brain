@@ -1,8 +1,8 @@
 ---
 cluster: AI Employee
-status: approval-needed
-buffer_status: not-scheduled
-schedule_status: not-scheduled
+status: scheduled
+buffer_status: scheduled
+schedule_status: scheduled
 date: 2026-06-17
 pair_count: 3
 platforms: [LinkedIn, X/Twitter]
@@ -11,7 +11,7 @@ source_context: content-engine snapshot 2026-06-17; draft 2026-06-16-ai-employee
 
 # AI Employee Social Proposal Pack — 2026-06-17
 
-Proposal-only pack for the AI Employee / AI agents lane. Do not schedule, queue, publish, or create Buffer posts until Arnold approves the pairs.
+Approved and scheduled production pack for the AI Employee / AI agents lane. Images were generated, committed to the repo, and attached to the scheduled Buffer posts.
 
 ## Pair AIEMP-2026-06-17-01 — The workflow audit comes before the agent
 
@@ -25,9 +25,12 @@ Proposal-only pack for the AI Employee / AI agents lane. Do not schedule, queue,
 - CTA: If you want help choosing the first workflow and turning it into a managed AI agent deployment, book a free AI agents setup call: https://cal.com/arnold-gamboa-wxar6f/ai-agents-setup-free-call
 - Image concept: A practical workflow audit board with trigger, trusted source, done criteria, exception path, and human review before an AI agent is assigned.
 - Image-generation prompt: Clean editorial business illustration of a small business workflow audit board before an AI agent deployment. Show five labeled cards: trigger, trusted source, done criteria, exception path, human review. A calm operator is organizing the cards before assigning work to a simple AI assistant icon. Practical, understated, modern neutral palette, no hype, no logos, no tiny unreadable text.
-- Image status: concept-only
-- Approval status: approval-needed
-- Buffer status: not-scheduled
+- Image status: generated-and-attached
+- Approval status: approved
+- Buffer status: scheduled
+- Production image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-17-01.jpg
+- LinkedIn Buffer post ID: `6a32222f552c8d2c84c510cf`; status: scheduled; dueAt UTC: 2026-06-18T01:00:00.000Z; due local: 2026-06-18 9:00 AM PHT
+- X Buffer post ID: `6a3222307b93856d4aed5d7f`; status: scheduled; dueAt UTC: 2026-06-18T04:15:00.000Z; due local: 2026-06-18 12:15 PM PHT
 
 ### LinkedIn post text
 
@@ -95,9 +98,12 @@ It is also where most of the value is.
 - CTA: Before you automate the workflow, document the rules your best employee is carrying in their head.
 - Image concept: A trusted employee with a head full of sticky-note rules beside an AI assistant waiting for documented instructions.
 - Image-generation prompt: Editorial illustration for small business operations: a trusted employee with subtle sticky-note rule cards around them, next to an AI assistant waiting beside a clean documented process checklist. Show the contrast between hidden knowledge and explicit workflow rules. Warm, practical, business-facing, no robot clichés, no logos, no readable small text.
-- Image status: concept-only
-- Approval status: approval-needed
-- Buffer status: not-scheduled
+- Image status: generated-and-attached
+- Approval status: approved
+- Buffer status: scheduled
+- Production image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-17-02.jpg
+- LinkedIn Buffer post ID: `6a322230e2ab8c079d1b6e91`; status: scheduled; dueAt UTC: 2026-06-22T01:00:00.000Z; due local: 2026-06-22 9:00 AM PHT
+- X Buffer post ID: `6a3222317b93856d4aed5da4`; status: scheduled; dueAt UTC: 2026-06-22T04:30:00.000Z; due local: 2026-06-22 12:30 PM PHT
 
 ### LinkedIn post text
 
@@ -162,9 +168,12 @@ Start by making the hidden rules visible.
 - CTA: Pick one workflow where clearer preparation would save time this week, then build the AI employee around that lane.
 - Image concept: A narrow single-lane AI workflow with one clear job, visible boundaries, and a human review gate.
 - Image-generation prompt: Professional editorial illustration of a narrow single-lane AI workflow for a small business. Show an AI assistant handling one clear job inside guardrails, with inputs, output draft, exception flag, and human review gate. Calm operations dashboard feel, practical and understated, no sci-fi, no logos, no tiny text.
-- Image status: concept-only
-- Approval status: approval-needed
-- Buffer status: not-scheduled
+- Image status: generated-and-attached
+- Approval status: approved
+- Buffer status: scheduled
+- Production image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-17-03.jpg
+- LinkedIn Buffer post ID: `6a322231e2ab8c079d1b6eb6`; status: scheduled; dueAt UTC: 2026-06-24T01:00:00.000Z; due local: 2026-06-24 9:00 AM PHT
+- X Buffer post ID: `6a322232350582d037e89ee6`; status: scheduled; dueAt UTC: 2026-06-24T05:00:00.000Z; due local: 2026-06-24 1:00 PM PHT
 
 ### LinkedIn post text
 
