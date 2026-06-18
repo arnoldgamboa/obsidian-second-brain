@@ -29,7 +29,7 @@ Approved and scheduled production pack for the AI Employee / AI agents lane. Ima
 - Approval status: approved
 - Buffer status: scheduled
 - Production image: https://raw.githubusercontent.com/arnoldgamboa/obsidian-second-brain/refs/heads/main/Assets/social/ai-employee/AIEMP-2026-06-17-01.jpg
-- LinkedIn Buffer post ID: `6a32222f552c8d2c84c510cf`; status: sent; dueAt UTC: 2026-06-18T01:00:00.000Z; due local: 2026-06-18 9:00 AM PHT
+- LinkedIn Buffer post ID: `6a32222f552c8d2c84c510cf`; status: scheduled; dueAt UTC: 2026-06-18T01:00:00.000Z; due local: 2026-06-18 9:00 AM PHT
 - X Buffer post ID: `6a3222307b93856d4aed5d7f`; status: scheduled; dueAt UTC: 2026-06-18T04:15:00.000Z; due local: 2026-06-18 12:15 PM PHT
 
 ### LinkedIn post text
