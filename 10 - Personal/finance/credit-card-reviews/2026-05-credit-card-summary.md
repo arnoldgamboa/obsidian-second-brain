@@ -7,6 +7,7 @@ date: 2026-05-15
 period: 2026-04-15_to_2026-05-14
 status: reviewed
 source: statement.pdf
+restored_from: session_search
 ---
 
 # Credit Card Spending Summary — April 15 to May 14, 2026
