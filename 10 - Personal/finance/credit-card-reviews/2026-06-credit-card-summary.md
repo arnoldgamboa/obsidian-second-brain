@@ -74,6 +74,8 @@ Note: Zed covers through June 14. Salmon only shows transactions through June 7,
 ## Subscription / Software Watchlist
 
 - Apple-related charges — ~₱7,584.50 total
+  - Includes one known one-off charge: Apple.com/US — ₱6,127.11 on Jun 3
+  - Recurring-looking smaller Apple charges total: ₱1,457.39
 - Google One — ₱1,100.00
 - Google Workspace — ₱519.01
 - Cloudflare — ₱724.74
@@ -96,8 +98,8 @@ Note: Zed covers through June 14. Salmon only shows transactions through June 7,
 
 ## Recommendations
 
-1. **Review the ₱6,127.11 Apple charge first.**  
-   If it was a one-time purchase, fine. If it’s recurring or accidental, it is the clearest quick win.
+1. **Treat the ₱6,127.11 Apple charge as a one-off.**  
+   Since this was confirmed as a one-time item, do not treat the full Apple total as recurring lifestyle creep. For monthly run-rate, watch the smaller Apple charges instead: about ₱1,457.39 this cycle.
 
 2. **Set a soft cap for dining next cycle.**  
    Food & Dining at ₱38k is the main flexible area. A practical target would be ₱25k–₱30k rather than trying to cut it drastically.
