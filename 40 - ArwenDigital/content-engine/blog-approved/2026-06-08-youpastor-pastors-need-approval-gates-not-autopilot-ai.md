@@ -1,7 +1,7 @@
 ---
 title: Pastors Do Not Need Autopilot AI. They Need Approval Gates.
 slug: pastors-need-approval-gates-not-autopilot-ai
-status: approved-for-scheduled-publish
+status: published
 cluster: YouPastor
 primary_keyword: AI approval gates for pastors
 meta_description: Pastors need AI that pauses for theological judgment, not autopilot
@@ -20,7 +20,11 @@ review_note: Public/Bear status may already be published, but local editorial ap
   was not confirmed; queued for Arnold review.
 approved_at: 2026-06-09 12:06 +0800
 planned_publish_at: 2026-06-23 09:10
+published_at: 2026-06-23 09:10
 bear_post_id: cawFjjbqBIqDXXvLKZAP
+bear_published: true
+public_verification: HTTP 200; title present; YouPastor context present; CTA href present
+verified_at: 2026-06-26 22:43
 word_count: 429
 ---
 

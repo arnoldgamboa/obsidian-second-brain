@@ -1,7 +1,7 @@
 ---
 title: How Pastors Can Use AI Without Outsourcing Their Calling
 slug: ai-without-outsourcing-pastoral-calling
-status: approved-for-scheduled-publish
+status: published
 cluster: YouPastor
 primary_keyword: AI for pastors
 meta_description: AI can help pastors prepare sermons and communication without replacing
@@ -20,7 +20,11 @@ review_note: Public/Bear status may already be published, but local editorial ap
   was not confirmed; queued for Arnold review.
 approved_at: 2026-06-09 12:06 +0800
 planned_publish_at: 2026-06-16 09:10
+published_at: 2026-06-16 09:10
 bear_post_id: mvohDfqjcUQVqZNKZTLt
+bear_published: true
+public_verification: HTTP 200; title present; YouPastor context present; CTA href present
+verified_at: 2026-06-26 22:43
 word_count: 438
 ---
 
