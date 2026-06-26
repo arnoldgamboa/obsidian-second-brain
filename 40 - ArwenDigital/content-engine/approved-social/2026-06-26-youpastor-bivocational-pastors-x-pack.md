@@ -5,8 +5,8 @@ status: drafted-unscheduled
 platform: X
 cluster: YouPastor
 post_count: 8
-approval_note: "Drafted by Friday research job; Arnold can edit/approve before Monday Buffer scheduling."
-scheduling_note: "Friday job does not queue posts. Monday recurring Buffer job may queue after Arnold approval."
+approval_note: "Pre-approved recurring YouPastor bivocational X lane; Arnold can still edit before Monday Buffer scheduling."
+scheduling_note: "Friday job does not queue posts. Monday recurring Buffer job handles X queueing."
 ---
 
 # YouPastor Bivocational Pastors X Pack — 2026-06-26
@@ -17,9 +17,10 @@ Balance: 3 research-led posts (01, 04, 07) and 5 personal/practical/encouragemen
 
 ## Source references gathered
 
-- Barna Group — “Pastors Share Top Reasons They’ve Considered Quitting Ministry in the Past Year.” Used for the verified March 2022 claim that 42% of pastors had considered quitting full-time ministry within the past year, and for stress/isolation/political division framing. https://www.barna.com/research/pastors-quitting-ministry/
-- Hartford Institute for Religion Research — “Fast Facts on American Religion.” Used for 2023 Faith Communities Today context: median U.S. church size around 60 regular worship participants, and small-congregation attendance distribution. https://hirr.hartsem.edu/research/fastfacts/fast_facts.html
-- YouPastor/content-engine context from `content-index.md` and recent YouPastor drafts: support pastors beyond sermon writing with practical weekly ministry help, saved context, guardrails, follow-up, and tools that preserve pastoral judgment.
+- Barna Group — “Pastors Share Top Reasons They’ve Considered Quitting Ministry in the Past Year.” Used for the verified March 2022 claim that 42% of pastors had considered quitting full-time ministry within the past year, and for stress/loneliness/political division framing. https://www.barna.com/research/pastors-quitting-ministry/
+- Lifeway Research — “Evangelical Pastors More Likely Than Others To Be Bivocational.” Used for the National Survey of Religious Leaders context that 35% of U.S. clergy serve bivocationally, and 47% of evangelical pastors report having a second job. https://research.lifeway.com/2025/06/04/evangelical-pastors-more-likely-than-others-to-be-bivocational/
+- Hartford Institute for Religion Research — “Fast Facts on American Religion.” Used for current small-church context: the 2025 Faith Communities Today survey notes the median U.S. church has about 70 regular worship participants, and many churches have 100 or fewer members. https://hirr.hartfordinternational.edu/fast-facts-on-american-religion/
+- YouPastor/content-engine context from `content-index.md`, the 2026-06-26 YouPastor SEO review, and recent YouPastor drafts: support pastors beyond sermon writing with practical weekly ministry help, saved context, guardrails, follow-up, church communication, and tools that preserve pastoral judgment.
 
 ## X drafts
 
@@ -28,15 +29,15 @@ Balance: 3 research-led posts (01, 04, 07) and 5 personal/practical/encouragemen
 - Item ID: X-YOUPASTOR-2026-06-26-01
 - Platform: X
 - Cluster: YouPastor
-- Angle: Research: most churches are smaller than people assume
+- Angle: Research: bivocational ministry is not fringe
 - Suggested use/day/time: Monday 2026-06-29, 8:30 AM local
 
 ```text
-Hartford Institute says the median U.S. church has about 60 regular worship participants.
+Lifeway reports 35% of U.S. clergy serve bivocationally. Among evangelical pastors, 47% report having a second job.
 
-So if your church feels small, you are not strange. You are shepherding in a very normal ministry context.
+A lot of sermons are being prepared after work, after dinner, after bills, and after a very full day.
 
-Source: https://hirr.hartsem.edu/research/fastfacts/fast_facts.html
+Source: https://research.lifeway.com/2025/06/04/evangelical-pastors-more-likely-than-others-to-be-bivocational/
 ```
 
 ### X-YOUPASTOR-2026-06-26-02
@@ -129,15 +130,15 @@ More “help me shepherd faithfully.”
 - Item ID: X-YOUPASTOR-2026-06-26-07
 - Platform: X
 - Cluster: YouPastor
-- Angle: Research: small churches carry real work with fewer people
+- Angle: Research: small churches are normal ministry contexts
 - Suggested use/day/time: Thursday 2026-07-02, 9:15 AM local
 
 ```text
-Hartford notes that churches with 100 or fewer participants make up many congregations, yet draw a much smaller share of all worship attenders.
+Hartford says the median U.S. church has about 70 regular worship participants.
 
-Small church ministry is real ministry with real constraints.
+If your church feels small, you are not strange. You are shepherding in a very normal ministry context.
 
-Source: https://hirr.hartsem.edu/research/fastfacts/fast_facts.html
+Source: https://hirr.hartfordinternational.edu/fast-facts-on-american-religion/
 ```
 
 ### X-YOUPASTOR-2026-06-26-08
@@ -164,14 +165,14 @@ Small clarity is mercy.
 
 Status: drafted-unscheduled.
 
-Friday research job does not queue, schedule, or publish posts. No Buffer posts were created. No Bear Blog posts were published or edited. No LinkedIn or Threads scheduling was created from this pack.
+Friday does not queue posts. No Buffer posts were created. No X/Twitter posts were scheduled. No Bear Blog posts were published or edited. No LinkedIn or Threads scheduling was created from this pack.
 
-Monday’s separate Buffer job may queue the approved X/Twitter drafts after Arnold reviews or edits them.
+This recurring YouPastor bivocational X lane is pre-approved for saving in `approved-social/`, but Monday’s separate Buffer job should handle actual queueing.
 
 ## Notes for the Monday queue job
 
-- Queue only after Arnold approval or edits.
 - Use the eight X drafts above for the YouPastor Buffer queue beginning Monday 2026-06-29.
-- Preserve visible source links on posts 01, 04, and 07 because they make explicit research/statistical claims or research-summary claims.
+- Arnold can still edit before the Monday Buffer scheduling job runs; if edited, preserve Arnold’s edited wording exactly.
+- Preserve visible source links on posts 01, 04, and 07 because they make explicit research/statistical claims.
 - Posts 02, 03, 05, 06, and 08 are intended to feel personal/practical and do not need source links.
 - Do not create LinkedIn, Threads, or Bear Blog publishing actions from this pack.
