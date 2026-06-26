@@ -1,7 +1,7 @@
 ---
 tags: [mind-dump, app-idea, marketing, ai-agents]
 date: 2026-06-26
-status: inbox
+status: idea
 source: telegram
 ---
 
@@ -24,3 +24,8 @@ Create an app based on https://github.com/coreyhaines31/marketingskills
 - Review the repository to understand the marketing skill set and workflows.
 - Identify whether the app should be a marketing agent toolkit, a prompt/skill launcher, or a workflow product for founders/solopreneurs.
 - Compare this with the BuilderOS idea and consider whether they should become one combined app concept.
+
+## Filed under
+
+- PARA: Resources / ArwenDigital tech ideas
+- Destination: [[40 - ArwenDigital/tech-stack/tech-ideas|Tech Ideas]]

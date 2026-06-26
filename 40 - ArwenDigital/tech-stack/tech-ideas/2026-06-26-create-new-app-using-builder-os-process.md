@@ -1,7 +1,7 @@
 ---
 tags: [mind-dump, app-idea, builder-os]
 date: 2026-06-26
-status: inbox
+status: idea
 source: telegram
 ---
 
@@ -22,3 +22,8 @@ Create a new app using the BuilderOS process.
 - Review the BuilderOS process and extract the app-building workflow.
 - Pick one app idea to run through the process.
 - Create a project note once the app idea is defined.
+
+## Filed under
+
+- PARA: Resources / ArwenDigital tech ideas
+- Destination: [[40 - ArwenDigital/tech-stack/tech-ideas|Tech Ideas]]
