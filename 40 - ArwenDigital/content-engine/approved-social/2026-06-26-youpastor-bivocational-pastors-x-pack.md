@@ -1,7 +1,7 @@
 ---
 tags: [youpastor, x-twitter, social-pack, bivocational-pastors, small-church-pastors, pastoral-burnout]
 date: 2026-06-26
-status: drafted-unscheduled
+status: partial-buffer-scheduled
 platform: X
 cluster: YouPastor
 post_count: 8
@@ -163,11 +163,29 @@ Small clarity is mercy.
 
 ## Buffer scheduling
 
-Status: drafted-unscheduled.
+Status: partial-buffer-scheduled.
 
-Friday does not queue posts. No Buffer posts were created. No X/Twitter posts were scheduled. No Bear Blog posts were published or edited. No LinkedIn or Threads scheduling was created from this pack.
+Monday Buffer queue run started: 2026-06-26T14:53:00Z.
 
-This recurring YouPastor bivocational X lane is pre-approved for saving in `approved-social/`, but Monday’s separate Buffer job should handle actual queueing.
+Created and verified 4 X/Twitter scheduled posts via Buffer. Buffer then rejected item 05 with: `Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed.` No LinkedIn, Threads, or Bear Blog actions were created from this pack.
+
+Scheduled Buffer posts:
+
+| Item ID | Buffer post ID | Status | dueAt | Channel |
+|---|---|---|---|---|
+| X-YOUPASTOR-2026-06-26-01 | `6a3e922c8769f0afdd48aac6` | scheduled | 2026-07-13T17:30:00.000Z | X / @arnoldgamboa |
+| X-YOUPASTOR-2026-06-26-02 | `6a3e922ee7c89f460300cbc2` | scheduled | 2026-07-15T17:30:00.000Z | X / @arnoldgamboa |
+| X-YOUPASTOR-2026-06-26-03 | `6a3e92308769f0afdd48aaee` | scheduled | 2026-07-16T17:30:00.000Z | X / @arnoldgamboa |
+| X-YOUPASTOR-2026-06-26-04 | `6a3e92310f97394ac11d156c` | scheduled | 2026-07-20T17:30:00.000Z | X / @arnoldgamboa |
+
+Unscheduled remaining items due to Buffer queue-capacity blocker:
+
+- X-YOUPASTOR-2026-06-26-05
+- X-YOUPASTOR-2026-06-26-06
+- X-YOUPASTOR-2026-06-26-07
+- X-YOUPASTOR-2026-06-26-08
+
+Verification: scheduled-post query confirmed all four new Buffer IDs exist on channel `6796e4ffa31978b79c7a0a9c` with status `scheduled` and the dueAt timestamps above.
 
 ## Notes for the Monday queue job
 
