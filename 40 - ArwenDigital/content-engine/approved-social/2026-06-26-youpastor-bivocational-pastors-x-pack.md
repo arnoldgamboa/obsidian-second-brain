@@ -187,6 +187,8 @@ Unscheduled remaining items due to Buffer queue-capacity blocker:
 
 Verification: scheduled-post query confirmed all four new Buffer IDs exist on channel `6796e4ffa31978b79c7a0a9c` with status `scheduled` and the dueAt timestamps above.
 
+Monday Buffer queue retry: 2026-06-29T01:00:55Z. No additional posts were queued because Buffer rejected the next remaining item (`X-YOUPASTOR-2026-06-26-05`) with: `Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed.` Remaining unscheduled items are still 05–08 above.
+
 ## Notes for the Monday queue job
 
 - Use the eight X drafts above for the YouPastor Buffer queue beginning Monday 2026-06-29.
