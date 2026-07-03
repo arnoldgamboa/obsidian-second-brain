@@ -55,3 +55,8 @@ Use this note as a reference when patching the blog templates and post files.
 - blog post layout/template
 - blog index cards
 - SEO schema / author metadata
+
+## Filed under
+
+- PARA: Projects / YouPastor SEO
+- Destination: [[40 - ArwenDigital/projects/YouPastor/seo|YouPastor SEO]]

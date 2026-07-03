@@ -10,6 +10,8 @@ This folder is the source of truth for Arnold's daily LinkedIn engagement cron.
 
 ## Files
 
+- [[2026-06-26-linkedin-ai-automation-people-to-follow|LinkedIn AI Automation people to follow]] — seed note for building the people-to-follow/power-list pipeline.
+
 - [[engagement-strategy]] — the operating strategy adapted from the HeyReach video and Arnold's positioning.
 - [[power-list]] — the rotating target list of people/accounts to prioritize before broad search.
 - [[comment-style-guide]] — Arnold's preferred comment types, voice, and approval rules.
