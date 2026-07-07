@@ -13,8 +13,10 @@ LinkedIn engagement suggestions — YYYY-MM-DD
 
 Power-list coverage:
 - Checked: [N] target people from [[power-list]]
+- Freshness windows searched: same-hour [N candidates], last 4 hours [N], last 24 hours [N], last 72 hours [N fallback]
 - Strong candidates found from power list: [N]
 - Fallback broad-search candidates used: [N]
+- Already-commented posts skipped via [[engaged-posts-log]]: [N]
 
 1) [Author name] — [Category: operator-founder / agency-consultant / ops-systems / revops-gtm / practical-ai / creator-operator]
 Post: [LinkedIn URL or stable identifier]
@@ -41,3 +43,4 @@ Reply with:
 - Do not include weak candidates just to reach 5.
 - If fewer than 5 strong candidates exist, return fewer and explain why.
 - Never post comments from the scheduled job.
+- Always report how many candidate posts were skipped because they were already in [[engaged-posts-log]].

@@ -50,6 +50,29 @@ Skip posts that are mostly:
 - posts where Arnold's comment would feel forced
 - posts with huge comment sections where Arnold's reply will be buried unless the author/audience is unusually valuable
 
+Also hard-skip any post already listed in [[engaged-posts-log]]. This is post-level dedupe, not just author-level rotation. Do not suggest the same LinkedIn post twice, even if:
+
+- the author is still a good target
+- the post is still recent
+- the previous comment was several days ago
+- the post appears again through a different URL, `activity_id`, `share` URN, or `ugcPost` URN
+
+Normalize candidates by extracting the `activity-<digits>` ID from public URLs and comparing it against the log's `activity_id`, post URL, and canonical URN columns.
+
+## Freshness-first search ladder
+
+LinkedIn comments should prioritize fresh posts where Arnold can appear early in the conversation.
+
+Search and select candidates in this order:
+
+1. **Same-hour posts** — prioritize posts published within the current hour or roughly the last 60 minutes.
+2. **Last 4 hours** — only expand here if the same-hour set does not produce enough strong untouched candidates.
+3. **Last 24 hours** — only expand here if the first two windows do not produce enough strong candidates.
+4. **Last 72 hours** — fallback window for high-fit power-list targets or unusually strong buyer-aligned posts.
+5. **Older than 72 hours** — normally skip unless the author is extremely high-fit and the conversation is still visibly active.
+
+Do not start with “last 72 hours” searches. Use the narrowest freshness window first, then expand gradually. A fresher 8/10 fit post is usually better than an older 10/10 fit post because early comments have more visibility.
+
 ## Candidate scoring
 
 ### Person score
@@ -67,7 +90,10 @@ Score target people from 0–10:
 
 Score candidate posts from 0–10:
 
-- +3 recent enough to still have active conversation, ideally last 24–72 hours
+- +4 same-hour or last-60-minutes post
+- +3 posted in the last 4 hours
+- +2 posted in the last 24 hours
+- +1 posted in the last 72 hours only if person/post fit is strong
 - +3 workflow/admin/follow-up/ops angle
 - +2 clear business outcome
 - +2 conversation-worthy
@@ -84,15 +110,18 @@ Score candidate posts from 0–10:
 
 ## Daily workflow for the cron
 
-1. Load [[power-list]].
+1. Load [[power-list]] and [[engaged-posts-log]].
 2. Prefer priority A and B targets not recently engaged.
-3. Search for recent public LinkedIn posts from those target names/profiles.
-4. Score each candidate using the person/post scoring above.
-5. Select up to 5 strongest posts.
-6. Use broad topic search only as fallback if the power-list search produces fewer than 5 good candidates.
-7. Draft comments using [[comment-style-guide]].
-8. Deliver to Telegram for approval.
-9. Never post comments automatically from the scheduled job.
+3. Search for recent public LinkedIn posts from those target names/profiles using the freshness-first ladder: same-hour first, then last 4 hours, then last 24 hours, then last 72 hours only as fallback.
+4. Do not expand to a wider time window until the narrower window has been checked and produced too few strong untouched candidates.
+5. Normalize each candidate by URL, `activity_id`, `share` URN, and `ugcPost` URN when available.
+6. Remove any candidate that matches [[engaged-posts-log]] before scoring.
+7. Score each remaining candidate using the person/post scoring above, giving freshness real weight.
+8. Select up to 5 strongest fresh posts.
+9. Use broad topic search only as fallback if the power-list search produces fewer than 5 good fresh candidates, but apply the same freshness ladder and engaged-posts-log skip to fallback candidates.
+10. Draft comments using [[comment-style-guide]].
+11. Deliver to Telegram for approval.
+12. Never post comments automatically from the scheduled job.
 
 ## Weekly maintenance
 
