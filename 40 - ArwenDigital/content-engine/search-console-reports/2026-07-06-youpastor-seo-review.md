@@ -1,119 +1,172 @@
----
-tags: [content-engine, seo-review, search-console, YouPastor]
-date: 2026-07-06
-status: completed
-cluster: YouPastor
-source: weekly scheduled SEO/content operations review
-blog_url: https://arnold.gamboa.ph/
-search_console_property_used: sc-domain:arnold.gamboa.ph
-search_console_range: 2026-06-06 to 2026-07-04
----
+# 2026-07-06 YouPastor SEO/content operations review
 
-# YouPastor SEO / Content Operations Review — 2026-07-06
+Source of truth: scheduled content-engine snapshot generated `2026-07-06T10:00:15` plus Search Console snapshot generated `2026-07-06` for `sc-domain:arnold.gamboa.ph` covering `2026-06-06` through `2026-07-04`.
 
-## Scope
+Scope: YouPastor-only. ArwenHQ, AI Employee, agency process/SaaS, client reporting, proposal/project-management, and Build-in-Public-for-ArwenHQ angles are intentionally excluded.
 
-This review covers only YouPastor content for the Bear Blog content engine at `https://arnold.gamboa.ph/`.
+## Executive summary
 
-Strategic focus remains: attract pastors and ministry leaders who need AI help for sermon preparation, church communication, weekly pastoral rhythm, approval gates, saved context, and sustainable ministry workflows without outsourcing pastoral judgment.
+The YouPastor content base is in a healthy draft/published split, but Search Console is not yet surfacing YouPastor query data in the last 28-day snapshot. That means this week should focus less on reacting to GSC keywords and more on tightening publication readiness: replace placeholder email-capture CTAs, approve/publish the strongest existing drafts, and keep internal links pointed at the canonical approval-gates/autopilot article.
 
 ## Search Console status
 
-Google Search Console URL-prefix access for `https://arnold.gamboa.ph/` still returned a 403 permission error in the pre-run snapshot.
+- API status: `ok`.
+- Property: `sc-domain:arnold.gamboa.ph`.
+- Date range: `2026-06-06` to `2026-07-04`.
+- Rows returned in snapshot: one row, for a non-YouPastor WordPress article:
+  - Page: `https://arnold.gamboa.ph/why-i-wont-build-your-website-in-wordpress-and-what-i-recommend-instead/`
+  - Query: `wordpress site built badly`
+  - Clicks: 0
+  - Impressions: 26
+  - Average position: 61.35
 
-I checked available Search Console properties and retried with the verified domain property:
+### YouPastor-only GSC findings
 
-- Available relevant property: `sc-domain:arnold.gamboa.ph` — owner access
-- Query window: 2026-06-06 through 2026-07-04
-- Result: API query succeeded, but returned no YouPastor page/query rows in the last 28 days
-- Non-YouPastor rows were ignored for this report
+No YouPastor page/query rows appeared in the latest 28-day Search Console snapshot. Therefore:
 
-### GSC opportunity readout
+- Low-CTR YouPastor opportunities: none visible yet.
+- Striking-distance YouPastor keywords, positions 8–20: none visible yet.
+- Decaying YouPastor posts: not enough YouPastor GSC history in this snapshot to identify decay.
+- New content ideas from GSC: none directly supported by YouPastor query data this week.
 
-Because there are no YouPastor rows yet, there are no measurable YouPastor-only low-CTR pages, striking-distance queries, or decaying posts from GSC this week.
+Interpretation: this is likely an indexing/age/data-volume issue rather than a content failure. The YouPastor posts are new enough that the next useful action is to keep publishing consistently and verify indexability/metadata rather than overfit to non-YouPastor query data.
 
-Operational interpretation: the issue is not an underperforming YouPastor query yet; it is still early indexing/discovery. The current priority should be cleaner publishing, internal linking, CTA hygiene, and consistent weekly YouPastor output so Search Console has enough data to evaluate.
+## YouPastor content inventory from content index
 
-## Index-based YouPastor review
+### Published and verified YouPastor posts
 
-### Wins
+These are already marked published and publicly verified in the content index:
 
-1. **The YouPastor topical lane is coherent.** Recent drafts and published posts consistently reinforce the same product/category position: pastors need workflow memory, approval gates, and context-aware ministry support, not autopilot sermon generation.
-2. **The newest Bear draft is correctly unpublished.** `Pastors Do Not Need AI to Forget the Sermon Series Every Week` exists as a Bear draft with `published: false` and a clear sermon-series-context angle.
-3. **The pending YouPastor drafts form a useful sequence.** The current queue can become a strong internal-link cluster around church context, church communication, pastoral rhythm, and sermon-series memory.
-4. **Meta descriptions are present for the checked YouPastor Bear drafts/posts.** The active YouPastor drafts have 140–160-ish character meta descriptions and clear primary keywords.
+- `https://arnold.gamboa.ph/youpastor-ai-sermon-preparation-without-losing-your-voice/`
+- `https://arnold.gamboa.ph/youpastor-approval-gates-real-sermon-prep-workflow/`
+- `https://arnold.gamboa.ph/ai-without-outsourcing-pastoral-calling/`
+- `https://arnold.gamboa.ph/pastors-need-approval-gates-not-autopilot-ai/`
+- `https://arnold.gamboa.ph/ai-for-bivocational-pastors/`
+- `https://arnold.gamboa.ph/sermon-is-not-the-whole-pastoral-workflow/`
+- `https://arnold.gamboa.ph/pastors-ai-pastoral-judgment/`
+- `https://arnold.gamboa.ph/pastors-ai-context-switching/`
+- `https://arnold.gamboa.ph/ai-workspace-pastors-actually-need/`
+- `https://arnold.gamboa.ph/generic-chatbots-sermon-preparation/`
+- `https://arnold.gamboa.ph/prompt-fatigue-is-why-pastors-stop-using-ai/`
 
-### Risks / issues
+Operational note: keep monitoring these after Search Console starts returning YouPastor rows. The current snapshot gives no page/query evidence to prioritize one refresh over another.
 
-1. **Two live YouPastor posts still contain the email-capture placeholder in the public Bear content.**
-   - `Your Church Context Belongs in the Workflow, Not Every AI Prompt`
-   - `Start With Your Sermon Notes, Not a Blank AI Prompt`
+### YouPastor drafts waiting on approval/CTA
 
-   These should be corrected after approval, ideally to the current YouPastor destination (`https://youpastor.com`) or the final email-capture URL once available.
+Current YouPastor drafts in the index:
 
-2. **The approval queue has multiple YouPastor drafts competing in the same context/workflow family.**
-   - `Church Communication Should Not Start From Scratch Every Week`
-   - `AI Should Help Pastors Keep the Week, Not Just Finish Sunday`
-   - `Pastors Do Not Need AI to Forget the Sermon Series Every Week`
+1. `drafts/2026-07-06-youpastor-review-ai-before-sermon-desk`
+   - Title: **What Pastors Should Review Before AI Leaves the Sermon Desk**
+   - Status: draft
+   - Bear post ID: `hwpEZqonhuVLrBHFNCqc`
+   - Bear published: false verified via `bear_get_post`
+   - Public URL: 404 as expected for draft
+   - CTA: `email_capture_placeholder`
+   - Next action: Arnold review/approval and replace `EMAIL_CAPTURE_URL_PLACEHOLDER` before publish.
 
-   They are not exact duplicates, but they should be published in a deliberate order with internal links so Google sees a cluster, not repeated versions of the same argument.
+2. `drafts/2026-06-29-youpastor-friday-reset-for-pastors-before-sunday`
+   - Title: **The Friday Reset Pastors Need Before Sunday**
+   - Status: draft
+   - Bear post ID: `wRtWKTjTHdrNYabNoIxp`
+   - Bear published: false created via `bear_create_post`
+   - CTA: `email_capture_placeholder`
+   - Next action: Arnold review/approval and email capture URL before publish.
 
-3. **No YouPastor GSC data yet means the content engine still lacks feedback loops.** Until impressions appear, recommendations should stay based on index hygiene, topical coverage, internal linking, and publishing consistency rather than CTR/position optimization.
+3. `drafts/2026-06-22-youpastor-church-context-belongs-in-workflow`
+   - Title: **Your Church Context Belongs in the Workflow, Not Every AI Prompt**
+   - Status: draft
+   - Bear post ID: `LxwIIrANwaFECxnkrqPo`
+   - Bear published: false verified via `bear_get_post`
+   - CTA: `email_capture_placeholder`
+   - Next action: Arnold review/approval and replace `EMAIL_CAPTURE_URL_PLACEHOLDER` before publish.
 
-4. **Published YouPastor posts from June need a light CTA/link pass.** The content-index already flags placeholder CTAs on the two June 22 posts. This is the most obvious deterministic cleanup before adding more posts.
+4. `drafts/2026-06-22-youpastor-sermon-notes-before-ai-prompts`
+   - Title: **Start With Your Sermon Notes, Not a Blank AI Prompt**
+   - Status: draft
+   - Bear post ID: `vpRgjWFUuuAjuPDFRvzi`
+   - Bear published: false verified via `bear_get_post`
+   - CTA: `email_capture_placeholder`
+   - Next action: Arnold review/approval and replace `EMAIL_CAPTURE_URL_PLACEHOLDER` before publish.
 
-## Recommended YouPastor internal-link plan
+## Risks and blockers
 
-When the current drafts are approved/published, use this sequence:
+1. **Placeholder CTAs are blocking YouPastor publishing.**
+   - Multiple YouPastor drafts still depend on `EMAIL_CAPTURE_URL_PLACEHOLDER` or `email_capture_placeholder`.
+   - Do not publish these until the email capture URL is available or the CTA is intentionally changed to `https://youpastor.com`.
 
-1. Publish or schedule `Church Communication Should Not Start From Scratch Every Week` first.
-   - Link to `The Sermon Is Not the Whole Pastoral Workflow`
-   - Link to `Prompt Fatigue Is Why Pastors Stop Using AI`
-   - Link to `The AI Workspace Pastors Actually Need`
+2. **Search Console has no YouPastor query rows yet.**
+   - This limits data-driven refresh decisions.
+   - Keep the review index-based until YouPastor URLs accumulate impressions.
 
-2. Publish or schedule `AI Should Help Pastors Keep the Week, Not Just Finish Sunday` next.
-   - Link to `The Sermon Is Not the Whole Pastoral Workflow`
-   - Link to `Pastors Do Not Need Autopilot AI. They Need Approval Gates.`
-   - Link to the church communication post once live
+3. **Canonicalization needs continued discipline.**
+   - Canonical approval-gates/autopilot target: **Pastors Do Not Need Autopilot AI. They Need Approval Gates.**
+   - Slug: `pastors-need-approval-gates-not-autopilot-ai`
+   - Bear post ID: `cawFjjbqBIqDXXvLKZAP`
+   - Non-canonical duplicate risk remains unpublished: `pastors-need-approval-gates-not-ai-autopilot`, Bear post ID `STFDLLyZPbrCJNSuEztI`.
+   - Do not republish the duplicate unless it is rewritten for a distinct search intent.
 
-3. Publish or schedule `Pastors Do Not Need AI to Forget the Sermon Series Every Week` after that.
-   - Link to `Prompt Fatigue Is Why Pastors Stop Using AI`
-   - Link to `The Sermon Is Not the Whole Pastoral Workflow`
-   - Link to the pastoral rhythm post once live
+4. **Buffer X queue limit is blocking remaining YouPastor social posts.**
+   - The `2026-07-03` YouPastor bivocational pastors X pack is only partially scheduled: 6/8 scheduled.
+   - Remaining posts are blocked by Buffer scheduled-post limit: 10/10.
+   - This is social distribution, not core SEO, but it affects post amplification.
 
-## Next recommended YouPastor topics
+## Duplicate and cannibalization review
 
-If creating a new draft next week, prioritize one of these rather than another general “AI workflow for pastors” piece:
+- Approval-gates/autopilot cluster has a clearly designated canonical post. Keep using it as the internal-link destination.
+- The unpublished duplicate risk should remain unpublished unless rewritten.
+- No other obvious YouPastor duplicate problem is visible from the snapshot.
 
-1. **AI small group questions for pastors**
-   - Search intent: pastors who want to turn a sermon into group discussion without generic questions
-   - Angle: small group questions should carry the sermon’s burden without turning the group into a second sermon
-   - Internal links: sermon workflow, pastoral rhythm, approval gates
+## CTA and metadata review
 
-2. **AI church follow-up after Sunday**
-   - Search intent: pastors looking for help with pastoral care/follow-up after the sermon
-   - Angle: AI can help remember and draft next steps, but the pastor still decides what should be personal, private, or unsent
-   - Internal links: pastoral workflow, church communication, approval gates
+### CTA issues
 
-3. **AI sermon series planning for small churches**
-   - Search intent: pastors planning a sermon series with limited time/staff
-   - Angle: series planning is not just topics; it is continuity, repetition, pastoral timing, and communication rhythm
-   - Internal links: sermon-series-context draft, prompt fatigue, workspace post
+- Published YouPastor posts appear to have YouPastor CTA context and public verification.
+- Draft YouPastor posts are blocked by placeholder CTAs.
+- Recommended default if no email capture page exists this week: normalize draft CTAs to `https://youpastor.com` rather than leaving placeholders.
 
-## Content-index update decision
+### Meta description issues
 
-No `content-index.md` statuses were changed in this run. The only deterministic new information is the Search Console access result and weekly review analysis, which belongs in this report rather than as a post status update.
+- Backfilled published YouPastor posts show `meta description: present` in the index.
+- Draft metadata cannot be fully verified from the snapshot alone.
+- Before approving any draft, verify the Bear draft has a non-empty meta description and does not repeat the title as an H1 in the body.
 
-## Next 3 actions
+## Recommended YouPastor topics for next week
 
-1. **Approve or edit the current YouPastor blog drafts in order** so they can be scheduled as a coherent internal-link cluster instead of accumulating in review.
-2. **Approve a CTA cleanup for the two live YouPastor posts with `EMAIL_CAPTURE_URL_PLACEHOLDER`** and replace the placeholder with `https://youpastor.com` or the final email-capture link.
-3. **Create next week’s new YouPastor draft around small group questions or Sunday follow-up**, not another broad context/workflow overview, to expand the cluster into a more specific search intent.
+Because Search Console did not return YouPastor query opportunities, these are index-led topics based on the current published/draft clusters:
 
-## Verification notes
+1. **A pastor's AI review checklist before Sunday**
+   - Publish or refine: **What Pastors Should Review Before AI Leaves the Sermon Desk**.
+   - Search intent: practical review checklist for pastors using AI in sermon preparation.
+   - Internal links: pastoral judgment, approval gates, sermon prep workflow.
 
-- Search Console API checked with Arnold’s personal token.
-- URL-prefix property returned 403.
-- Domain property `sc-domain:arnold.gamboa.ph` succeeded.
-- Bear draft checks confirmed active YouPastor drafts remain unpublished.
-- Bear checks confirmed the two flagged live posts still contain the email-capture placeholder.
+2. **Friday reset workflow for pastors**
+   - Publish or refine: **The Friday Reset Pastors Need Before Sunday**.
+   - Search intent: pastors preparing for Sunday, especially bivocational/small-church pastors.
+   - Internal links: bivocational pastors, context switching, sermon is not whole workflow.
+
+3. **Church context as workflow memory, not repeated prompt-writing**
+   - Publish or refine: **Your Church Context Belongs in the Workflow, Not Every AI Prompt**.
+   - Search intent: pastors tired of re-explaining church context to generic AI tools.
+   - Internal links: generic chatbots, prompt fatigue, AI workspace pastors need.
+
+4. **Start from sermon notes instead of blank prompts**
+   - Publish or refine: **Start With Your Sermon Notes, Not a Blank AI Prompt**.
+   - Search intent: AI sermon notes for pastors; practical first step for reluctant users.
+   - Internal links: sermon prep without losing voice, generic chatbots, pastoral judgment.
+
+## Next three recommended actions
+
+1. **Resolve the CTA blocker for YouPastor drafts.**
+   - Decide whether drafts should use an email capture URL or `https://youpastor.com`.
+   - Replace `EMAIL_CAPTURE_URL_PLACEHOLDER` before publishing anything.
+
+2. **Approve and publish one YouPastor draft this week.**
+   - Best first pick: **What Pastors Should Review Before AI Leaves the Sermon Desk** because it maps to a concrete checklist/search intent and supports the approval-gates positioning.
+
+3. **Keep Search Console monitoring YouPastor-only, but do not overreact yet.**
+   - The current GSC snapshot has no YouPastor rows.
+   - Continue weekly checks until YouPastor URLs show impressions; then prioritize low-CTR and position 8–20 opportunities.
+
+## Content-index updates made
+
+None. No deterministic YouPastor status change was visible from the snapshot. Drafts remain drafts; published items remain published; the social scheduling blocker remains unresolved.

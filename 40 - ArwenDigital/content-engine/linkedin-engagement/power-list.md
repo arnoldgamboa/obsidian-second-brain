@@ -30,16 +30,16 @@ These names came from previous LinkedIn engagement cron runs. They are useful st
 
 | Priority | Status | Name | Category | Known post / evidence | Audience / fit reason | Preferred comment angles | Last engaged |
 |---|---|---|---|---|---|---|---|
-| B | candidate | Taylor Pearson | ops-systems | https://www.linkedin.com/posts/ctaylormpearson_agentic-ai-offers-both-an-opportunity-and-activity-7477359475646042114-Vz5o | Process power, compounding operational advantage, operator audience. | process memory; boring workflows; operating history; AI as compounding systems | |
-| B | candidate | Lionel Sim | ops-systems | https://www.linkedin.com/posts/lionelshen_how-i-run-a-lean-operation-with-notion-custom-activity-7475186392252211200-2e6X | Lean operations and small-team leverage. | one boring workflow; fewer dropped balls; Notion/custom agents as operating rhythm | |
-| B | candidate | Jonny Tooze | practical-ai | https://www.linkedin.com/posts/jonnytooze_your-operating-model-wasnt-built-for-agents-activity-7475865482269585410-j5Dk | Strong operating-model lens for agents. | operating model; ownership; approval gates; exception handling | |
-| C | candidate | Michael Lee | practical-ai | https://www.linkedin.com/posts/michael-lee-4049593_your-companys-new-ai-agent-workflow-the-activity-7476616584296288256-wZOF | Useful critique of fake automation; may skew AI-audience. | autonomy vs reminder systems; handoffs; trust | |
+| B | candidate | Taylor Pearson | ops-systems | https://www.linkedin.com/posts/ctaylormpearson_agentic-ai-offers-both-an-opportunity-and-activity-7477359475646042114-Vz5o | Process power, compounding operational advantage, operator audience. | process memory; boring workflows; operating history; AI as compounding systems | 2026-07-02 |
+| B | candidate | Lionel Sim | ops-systems | https://www.linkedin.com/posts/lionelshen_how-i-run-a-lean-operation-with-notion-custom-activity-7475186392252211200-2e6X | Lean operations and small-team leverage. | one boring workflow; fewer dropped balls; Notion/custom agents as operating rhythm | 2026-07-06 |
+| B | candidate | Jonny Tooze | practical-ai | https://www.linkedin.com/posts/jonnytooze_your-operating-model-wasnt-built-for-agents-activity-7475865482269585410-j5Dk | Strong operating-model lens for agents. | operating model; ownership; approval gates; exception handling | 2026-07-03 |
+| C | candidate | Michael Lee | practical-ai | https://www.linkedin.com/posts/michael-lee-4049593_your-companys-new-ai-agent-workflow-the-activity-7476616584296288256-wZOF | Useful critique of fake automation; may skew AI-audience. | autonomy vs reminder systems; handoffs; trust | 2026-07-01 |
 | C | candidate | Nilesh Thakker | ops-systems | https://www.linkedin.com/posts/nileshthakker_i-am-seeing-a-lot-of-gcc-teams-use-ai-to-activity-7475721945511112705-aGLA | Workflow redesign vs time-saving AI. | removing steps; tribal knowledge; process ownership | |
 | C | candidate | Fahad Farooq | revops-gtm | https://www.linkedin.com/posts/fahad-farooq-ai_how-this-system-automates-cold-outreach-activity-7476597577736634368-jeOW | GTM/outreach automation; useful if grounded in quality and trust. | outreach signal; human follow-up; speed vs trust | |
-| C | candidate | Ultan O. | revops-gtm | https://www.linkedin.com/posts/ultanorourke_claude-code-might-be-the-most-underrated-activity-7477345112021348354-M6i_ | RevOps workflow angle; likely operator/revenue audience. | workflow clarity; pipeline hygiene; specific AI employee jobs | |
-| C | candidate | Jan Brochwicz | revops-gtm | https://www.linkedin.com/posts/janbrochwicz_we-wired-22-mcp-servers-into-claude-code-activity-7477321836721078272-0HCF | MCP/GTM stack orchestration; useful if not too technical. | agents as layer between apps; write-access approval gates; deployability | |
-| C | candidate | Salim Ismail | creator-operator | https://www.linkedin.com/posts/salimismail_most-companies-are-focused-on-automating-activity-7477338519514824704-tfxd | Broad automation/process improvement audience. | workflow feedback loops; definition of better; learning from noise | |
-| C | candidate | Brian Beach | practical-ai | https://www.linkedin.com/posts/brianjbeach_in-case-you-missed-it-kiro-launched-subagent-activity-7477367980025212928-_VH_ | Review loops and approval stages; may skew technical. | reviewer rubrics; approval gates; self-correcting pipelines | |
+| C | candidate | Ultan O. | revops-gtm | https://www.linkedin.com/posts/ultanorourke_claude-code-might-be-the-most-underrated-activity-7477345112021348354-M6i_ | RevOps workflow angle; likely operator/revenue audience. | workflow clarity; pipeline hygiene; specific AI employee jobs | 2026-07-01 |
+| C | candidate | Jan Brochwicz | revops-gtm | https://www.linkedin.com/posts/janbrochwicz_we-wired-22-mcp-servers-into-claude-code-activity-7477321836721078272-0HCF | MCP/GTM stack orchestration; useful if not too technical. | agents as layer between apps; write-access approval gates; deployability | 2026-07-01 |
+| C | candidate | Salim Ismail | creator-operator | https://www.linkedin.com/posts/salimismail_most-companies-are-focused-on-automating-activity-7477338519514824704-tfxd | Broad automation/process improvement audience. | workflow feedback loops; definition of better; learning from noise | 2026-07-02 |
+| C | candidate | Brian Beach | practical-ai | https://www.linkedin.com/posts/brianjbeach_in-case-you-missed-it-kiro-launched-subagent-activity-7477367980025212928-_VH_ | Review loops and approval stages; may skew technical. | reviewer rubrics; approval gates; self-correcting pipelines | 2026-07-02 |
 
 ## Buyer-aligned targets to prioritize
 
@@ -49,14 +49,14 @@ These targets came from public LinkedIn/web search results on 2026-07-02. Treat 
 
 | Priority | Status | Name | Profile URL | Fit reason | Preferred comment angles | Last engaged |
 |---|---|---|---|---|---|---|
-| A | candidate | Stacy Tuschl | https://www.linkedin.com/in/stacytuschl | Operations consulting for business owners; strong overlap with scaling, delegation, and owner bottlenecks. | owner bottlenecks; delegation systems; operations before automation | |
-| A | candidate | Marquis Murray | https://ca.linkedin.com/in/marquisamurray | Workflow optimization and process streamlining for marketing/eCommerce teams; practical systems audience. | process mapping; Asana/workflow clarity; AI needs documented workflows | |
-| A | candidate | David Cristello | https://www.linkedin.com/in/davidcristello | Founder of Jetpack Workflow; accounting-firm workflow/project-management audience. | recurring client work; workflow visibility; fewer dropped balls | |
+| A | candidate | Stacy Tuschl | https://www.linkedin.com/in/stacytuschl | Operations consulting for business owners; strong overlap with scaling, delegation, and owner bottlenecks. | owner bottlenecks; delegation systems; operations before automation | 2026-07-06 |
+| A | candidate | Marquis Murray | https://ca.linkedin.com/in/marquisamurray | Workflow optimization and process streamlining for marketing/eCommerce teams; practical systems audience. | process mapping; Asana/workflow clarity; AI needs documented workflows | 2026-07-13 |
+| A | candidate | David Cristello | https://www.linkedin.com/in/davidcristello | Founder of Jetpack Workflow; accounting-firm workflow/project-management audience. | recurring client work; workflow visibility; fewer dropped balls | 2026-07-06 |
 | B | candidate | Alik Mock | https://www.linkedin.com/in/alikmock | Systems and automation for accounting firms; niche small-business/professional-services operations. | accounting workflows; handoffs; automation as firm infrastructure | |
 | B | candidate | Audra Carpenter | https://www.linkedin.com/in/audracarpenter | Business architecture/capacity-ceiling content for operators. | capacity ceilings; business architecture; owner-independent systems | |
-| B | candidate | Ian Titus | https://www.linkedin.com/posts/iantitus_ive-spent-the-last-10-months-building-ai-activity-7470190866582847488-yyTM | Public post evidence around AI for small-business operations and CRM pipelines. | CRM pipelines; operational follow-through; practical AI for small teams | |
+| B | candidate | Ian Titus | https://www.linkedin.com/posts/iantitus_ive-spent-the-last-10-months-building-ai-activity-7470190866582847488-yyTM | Public post evidence around AI for small-business operations and CRM pipelines. | CRM pipelines; operational follow-through; practical AI for small teams | 2026-07-03 |
 | B | candidate | Scott Henshaw | https://www.linkedin.com/posts/scott-henshaw-434b682_the-best-advice-i-give-founders-about-ai-activity-7470376796165918720-S0FT | Public post evidence around founders starting with their own time to automate workflow. | start with own time; simplest automation; founder workflow audit | |
-| B | candidate | Trent Lincoln | https://www.linkedin.com/posts/trent-lincoln-6341052ab_one-thing-i-learned-from-running-service-activity-7474868828645232641-dDKZ | Public post evidence around turning owner knowledge into business infrastructure. | owner knowledge; business infrastructure; service-business systems | |
+| B | candidate | Trent Lincoln | https://www.linkedin.com/posts/trent-lincoln-6341052ab_one-thing-i-learned-from-running-service-activity-7474868828645232641-dDKZ | Public post evidence around turning owner knowledge into business infrastructure. | owner knowledge; business infrastructure; service-business systems | 2026-07-06 |
 
 ### Agency owners / consultants / fractional leaders
 
@@ -64,8 +64,8 @@ These targets came from public LinkedIn/web search results on 2026-07-02. Treat 
 |---|---|---|---|---|---|---|
 | A | candidate | Jason Swenk | https://www.linkedin.com/in/jasonswenk | Agency-growth audience; useful for delivery systems, founder bottlenecks, and scalable client operations. | agency delivery; founder bottleneck; systems before scale | |
 | A | candidate | Erik J. Olson | https://www.linkedin.com/in/iamerikjolson | Agency operator/founder audience; relevant to delivery and growth systems. | delivery infrastructure; client ops; operations matching growth | |
-| A | candidate | Peter Czapp | https://uk.linkedin.com/in/peterczapp | Agency/business owner audience; likely useful for scale and operational maturity conversations. | agency operations; scaling without chaos; systems maturity | |
-| B | candidate | Mike Koziol | https://ca.linkedin.com/in/michalkoziol | Agency/systems content from public search; candidate for practical delivery conversations. | growth vs capacity; operational gaps; client delivery systems | |
+| A | candidate | Peter Czapp | https://uk.linkedin.com/in/peterczapp | Agency/business owner audience; likely useful for scale and operational maturity conversations. | agency operations; scaling without chaos; systems maturity | 2026-07-03 |
+| B | candidate | Mike Koziol | https://ca.linkedin.com/in/michalkoziol | Agency/systems content from public search; candidate for practical delivery conversations. | growth vs capacity; operational gaps; client delivery systems | 2026-07-10 |
 | B | candidate | Kristopher Ryan Watson | https://ph.linkedin.com/in/kristopherryanwatson | Philippines-based agency/operator candidate; useful local network potential. | agency ops; local operator context; workflow leverage | |
 | B | candidate | Cora Sanfilippo | https://www.linkedin.com/in/cora-sanfilippo-272680201 | Agency/operator candidate from public search. | SOPs; centralized operations; founder time | |
 
@@ -97,9 +97,10 @@ Use this bucket sparingly. Include only when the post has a clear operator/busin
 
 When the weekday LinkedIn engagement cron runs:
 
-1. Read this power list and [[engagement-strategy]].
+1. Read this power list, [[engagement-strategy]], and [[engaged-posts-log]].
 2. Prioritize A/B active targets with blank or older `Last engaged`.
 3. Search for recent posts from those people first.
-4. Use broad search only as fallback.
-5. Score each candidate using the strategy note.
-6. Return up to 5 suggested comments for Telegram approval only.
+4. Hard-skip any post already listed in [[engaged-posts-log]] by URL, `activity_id`, `share` URN, or `ugcPost` URN. Never suggest the same LinkedIn post twice.
+5. Use broad search only as fallback.
+6. Score each remaining candidate using the strategy note.
+7. Return up to 5 suggested comments for Telegram approval only.

@@ -68,10 +68,12 @@ Search and select candidates in this order:
 1. **Same-hour posts** — prioritize posts published within the current hour or roughly the last 60 minutes.
 2. **Last 4 hours** — only expand here if the same-hour set does not produce enough strong untouched candidates.
 3. **Last 24 hours** — only expand here if the first two windows do not produce enough strong candidates.
-4. **Last 72 hours** — fallback window for high-fit power-list targets or unusually strong buyer-aligned posts.
-5. **Older than 72 hours** — normally skip unless the author is extremely high-fit and the conversation is still visibly active.
+4. **Last 5 days** — fallback window for high-fit power-list targets or unusually strong buyer-aligned posts when narrower windows do not produce enough strong, untouched candidates.
+5. **Older than 5 days** — normally skip unless the author is extremely high-fit and the conversation is still visibly active.
 
-Do not start with “last 72 hours” searches. Use the narrowest freshness window first, then expand gradually. A fresher 8/10 fit post is usually better than an older 10/10 fit post because early comments have more visibility.
+Do not start with “last 5 days” searches. Use the narrowest freshness window first, then expand gradually. A fresher 8/10 fit post is usually better than an older 10/10 fit post because early comments have more visibility.
+
+If the power-list search produces posts but the visible/title/snippet content is too thin, generic, or unsubstantial to write a useful comment, do not force a comment. Treat those as weak candidates and move to broad topical search outside the power list using the same freshness ladder, target mix, and engaged-posts-log skip.
 
 ## Candidate scoring
 
@@ -93,7 +95,7 @@ Score candidate posts from 0–10:
 - +4 same-hour or last-60-minutes post
 - +3 posted in the last 4 hours
 - +2 posted in the last 24 hours
-- +1 posted in the last 72 hours only if person/post fit is strong
+- +1 posted in the last 5 days only if person/post fit is strong
 - +3 workflow/admin/follow-up/ops angle
 - +2 clear business outcome
 - +2 conversation-worthy
@@ -112,13 +114,13 @@ Score candidate posts from 0–10:
 
 1. Load [[power-list]] and [[engaged-posts-log]].
 2. Prefer priority A and B targets not recently engaged.
-3. Search for recent public LinkedIn posts from those target names/profiles using the freshness-first ladder: same-hour first, then last 4 hours, then last 24 hours, then last 72 hours only as fallback.
+3. Search for recent public LinkedIn posts from those target names/profiles using the freshness-first ladder: same-hour first, then last 4 hours, then last 24 hours, then last 5 days only as fallback.
 4. Do not expand to a wider time window until the narrower window has been checked and produced too few strong untouched candidates.
 5. Normalize each candidate by URL, `activity_id`, `share` URN, and `ugcPost` URN when available.
 6. Remove any candidate that matches [[engaged-posts-log]] before scoring.
 7. Score each remaining candidate using the person/post scoring above, giving freshness real weight.
 8. Select up to 5 strongest fresh posts.
-9. Use broad topic search only as fallback if the power-list search produces fewer than 5 good fresh candidates, but apply the same freshness ladder and engaged-posts-log skip to fallback candidates.
+9. Use broad topic search outside the power list as fallback if the power-list search produces fewer than 5 good fresh candidates, or if the candidates found do not have enough substantial visible content to comment on. Apply the same freshness ladder, target mix, and engaged-posts-log skip to fallback candidates.
 10. Draft comments using [[comment-style-guide]].
 11. Deliver to Telegram for approval.
 12. Never post comments automatically from the scheduled job.

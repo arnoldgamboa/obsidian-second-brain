@@ -1,7 +1,7 @@
 ---
 title: "Start With Your Sermon Notes, Not a Blank AI Prompt"
 slug: "youpastor-sermon-notes-before-ai-prompts"
-status: draft
+status: published
 cluster: YouPastor
 primary_keyword: "AI sermon notes for pastors"
 meta_description: "A pastor-founder’s practical case for using AI with your own sermon notes first, so the tool supports pastoral judgment instead of replacing it."
@@ -14,9 +14,11 @@ tags:
 cta_type: email_capture_placeholder
 created: 2026-06-22
 bear_post_id: vpRgjWFUuuAjuPDFRvzi
-bear_published: false verified via bear_get_post
+bear_published: true
 bear_subdomain: arnold-gamboa-dev
-next_action: Arnold review/approval; replace email capture placeholder before publishing
+url: https://arnold.gamboa.ph/youpastor-sermon-notes-before-ai-prompts/
+date_published: 2026-06-22
+next_action: Replace the live email capture placeholder and add relevant internal links
 ---
 
 ## SEO brief

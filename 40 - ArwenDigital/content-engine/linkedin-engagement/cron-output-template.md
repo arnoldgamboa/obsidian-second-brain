@@ -13,10 +13,11 @@ LinkedIn engagement suggestions — YYYY-MM-DD
 
 Power-list coverage:
 - Checked: [N] target people from [[power-list]]
-- Freshness windows searched: same-hour [N candidates], last 4 hours [N], last 24 hours [N], last 72 hours [N fallback]
+- Freshness windows searched: same-hour [N candidates], last 4 hours [N], last 24 hours [N], last 5 days [N fallback]
 - Strong candidates found from power list: [N]
 - Fallback broad-search candidates used: [N]
 - Already-commented posts skipped via [[engaged-posts-log]]: [N]
+- Power-list candidates skipped as too thin/unsubstantial to comment on: [N]
 
 1) [Author name] — [Category: operator-founder / agency-consultant / ops-systems / revops-gtm / practical-ai / creator-operator]
 Post: [LinkedIn URL or stable identifier]

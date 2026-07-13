@@ -9,7 +9,7 @@ status: active
 - Client Name: Mustard Seed
 - Contact Person: Justine de Mesa
 - Emails:
-  - atarcena@mseedsystems.com
+  - irah@mseedsystems.com
   - justine@mseedsystems.com
 - Default Invoice Item: Monthly Retainers
 - Default Charge: P15,000.00

@@ -10,10 +10,10 @@ This folder is the source of truth for Arnold's daily LinkedIn engagement cron.
 
 ## Files
 
-- [[2026-06-26-linkedin-ai-automation-people-to-follow|LinkedIn AI Automation people to follow]] — seed note for building the people-to-follow/power-list pipeline.
-
 - [[engagement-strategy]] — the operating strategy adapted from the HeyReach video and Arnold's positioning.
 - [[power-list]] — the rotating target list of people/accounts to prioritize before broad search.
+- [[engaged-posts-log]] — hard-skip log of posts Arnold has already commented on; the cron must not suggest these again.
+- [[2026-06-26-linkedin-ai-automation-people-to-follow]] — seed note for building a LinkedIn follow/power list around AI automation business development.
 - [[comment-style-guide]] — Arnold's preferred comment types, voice, and approval rules.
 
 ## Current goal
@@ -22,9 +22,11 @@ Move the weekday LinkedIn engagement cron from broad/random topical search to a 
 
 1. Prioritize specific people whose audiences match Arnold's AI Employee buyers.
 2. Find recent posts from those people first.
-3. Score posts by buyer relevance, relationship value, recency, and conversation quality.
-4. Draft useful comments for Telegram approval only.
-5. Do not post automatically from the cron.
+3. Check [[engaged-posts-log]] and skip any post already touched before, even if it is still recent or highly relevant.
+4. Score posts by buyer relevance, relationship value, recency, and conversation quality.
+5. If the power list does not surface substantial enough content to comment on, search outside the list using the same freshness ladder and buyer-fit rules.
+6. Draft useful comments for Telegram approval only.
+7. Do not post automatically from the cron.
 
 ## Related automation
 

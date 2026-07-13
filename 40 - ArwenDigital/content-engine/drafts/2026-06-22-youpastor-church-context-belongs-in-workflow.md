@@ -1,7 +1,7 @@
 ---
 title: "Your Church Context Belongs in the Workflow, Not Every AI Prompt"
 slug: youpastor-church-context-belongs-in-workflow
-status: draft
+status: published
 cluster: YouPastor
 primary_keyword: AI church context for pastors
 meta_description: "Pastors should not have to rewrite their church context into every AI prompt. A better AI workflow keeps ministry context, boundaries, and review steps close to the work."
@@ -12,6 +12,10 @@ tags:
   - church leadership
 cta_type: email_capture_placeholder
 created: 2026-06-22
+bear_post_id: LxwIIrANwaFECxnkrqPo
+bear_published: true
+url: https://arnold.gamboa.ph/youpastor-church-context-belongs-in-workflow/
+date_published: 2026-06-25
 ---
 
 ## SEO brief
