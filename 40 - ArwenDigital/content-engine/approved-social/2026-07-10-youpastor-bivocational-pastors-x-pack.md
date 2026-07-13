@@ -1,7 +1,7 @@
 ---
 tags: [youpastor, x-twitter, social-pack, bivocational-pastors, small-church-pastors, pastoral-burnout]
 date: 2026-07-10
-status: drafted-unscheduled
+status: buffer-blocked-limit
 platform: X
 cluster: YouPastor
 post_count: 8
@@ -184,11 +184,13 @@ Pastor, clarity is mercy.
 
 ## Buffer scheduling
 
-Status: drafted-unscheduled.
+Status: buffer-blocked-limit as of 2026-07-13T01:01:32Z.
 
-Friday does not queue posts. No Buffer drafts, scheduled posts, or published posts were created from this pack.
+Monday Buffer queue attempt extracted all 8 X drafts but created 0 Buffer posts because Buffer returned: `Scheduled posts limit reached. You have 10 scheduled posts out of 10 allowed.`
 
-Monday’s separate Buffer queue job should handle queueing after Arnold has had the weekend to edit/approve. This recurring lane is already approved and saved directly under `approved-social/`, but Arnold’s edits should be preserved exactly if he changes any wording before Monday.
+Buffer IDs/dueAt: none created.
+
+Next action: retry all 8 X items after Buffer scheduled-post capacity is available.
 
 No LinkedIn, Threads, Facebook, or Bear Blog publishing actions should be created from this Friday pack.
 
