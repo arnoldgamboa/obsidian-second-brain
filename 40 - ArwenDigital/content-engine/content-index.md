@@ -6,6 +6,8 @@ Last deterministic cleanup: 2026-06-15.
 
 ## Blog drafts
 
+- [[for-approval/2026-07-14-ai-employee-ai-agent-work-log-before-more-permissions|Your AI Agent Needs a Work Log Before More Permissions]] — status: draft; cluster: AI Employee; primary_keyword: AI agent monitoring for small business; slug: ai-agent-work-log-before-more-permissions; created: 2026-07-14; Bear post ID: unverified (`new` returned by Bear MCP); Bear published: false; Bear subdomain: arnold-gamboa-dev; CTA: ai_agents_setup_free_call; next action: Arnold review/approval before publish or social derivatives.
+
 - [[drafts/2026-07-13-youpastor-ai-sermon-research-needs-source-trail|AI Sermon Research Needs a Trail Back to the Source]] — status: draft; cluster: YouPastor; primary_keyword: AI sermon research for pastors; slug: ai-sermon-research-needs-source-trail; created: 2026-07-13; Bear post ID: `tXDDduBuExAzEHkWxQMA`; Bear published: false verified via bear_get_post; Bear subdomain: arnold-gamboa-dev; CTA: email_capture_placeholder; next action: Arnold review/approval and replace `EMAIL_CAPTURE_URL_PLACEHOLDER` before publish.
 
 - [[drafts/2026-07-07-ai-employee-ai-agent-business-operations-exceptions|An AI Agent for Business Operations Should Start With Exceptions]] — status: draft; cluster: AI Employee; primary_keyword: AI agent for business operations; slug: ai-agent-business-operations-exceptions; created: 2026-07-07; Bear post ID: `PeWyTNohKXRwNUvIdCHS`; Bear published: false verified via bear_get_post; Bear subdomain: arnold-gamboa-dev; CTA: ai_agents_setup_free_call; next action: Arnold review/approval before publish or social derivatives.
