@@ -49,7 +49,7 @@ These targets came from public LinkedIn/web search results on 2026-07-02. Treat 
 
 | Priority | Status | Name | Profile URL | Fit reason | Preferred comment angles | Last engaged |
 |---|---|---|---|---|---|---|
-| A | candidate | Stacy Tuschl | https://www.linkedin.com/in/stacytuschl | Operations consulting for business owners; strong overlap with scaling, delegation, and owner bottlenecks. | owner bottlenecks; delegation systems; operations before automation | 2026-07-06 |
+| A | candidate | Stacy Tuschl | https://www.linkedin.com/in/stacytuschl | Operations consulting for business owners; strong overlap with scaling, delegation, and owner bottlenecks. | owner bottlenecks; delegation systems; operations before automation | 2026-07-14 |
 | A | candidate | Marquis Murray | https://ca.linkedin.com/in/marquisamurray | Workflow optimization and process streamlining for marketing/eCommerce teams; practical systems audience. | process mapping; Asana/workflow clarity; AI needs documented workflows | 2026-07-13 |
 | A | candidate | David Cristello | https://www.linkedin.com/in/davidcristello | Founder of Jetpack Workflow; accounting-firm workflow/project-management audience. | recurring client work; workflow visibility; fewer dropped balls | 2026-07-06 |
 | B | candidate | Alik Mock | https://www.linkedin.com/in/alikmock | Systems and automation for accounting firms; niche small-business/professional-services operations. | accounting workflows; handoffs; automation as firm infrastructure | |
