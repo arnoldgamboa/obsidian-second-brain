@@ -10,6 +10,7 @@ A done-for-you service that installs and manages AI agents (OpenClaw / Hermes) f
 
 ## Project Files
 
+- [[5-Minute Managed AI Employee Client Pitch]] — Five-minute managed AI employee client pitch with discovery questions, pricing positioning, objections, and close.
 - [[landing-page-copy]] — Full landing page copy (headline, sections, CTAs)
 - [[15-minute-pitch-script]] — Minute-by-minute consultation call script + questions + close
 - [[seo-ads-game-plan]] — SEO keyword strategy + LinkedIn/Facebook Ads plan
