@@ -6,6 +6,8 @@ Last deterministic cleanup: 2026-06-15.
 
 ## Blog drafts
 
+- [[for-approval/2026-07-20-youpastor-pastoral-follow-up-should-not-depend-on-memory|Pastoral Follow-Up Should Not Depend on a Pastor's Memory]] — status: needs-approval; cluster: YouPastor; primary_keyword: AI pastoral follow-up for pastors; slug: pastoral-follow-up-should-not-depend-on-memory; created: 2026-07-20; Bear draft: not created because Bear MCP session cookies are expired/invalid; intended Bear subdomain: arnold-gamboa-dev; CTA: email_capture_placeholder; next action: Arnold review/approval and create/update Bear draft after Bear cookies are refreshed.
+
 - [[drafts/2026-07-14-ai-employee-fix-operational-handoffs|Your AI Agent Should Fix the Handoffs Your Team Stops Seeing]] — status: draft; cluster: AI Employee; primary_keyword: AI agent for workflow handoffs; slug: ai-employee-fix-operational-handoffs; created: 2026-07-14; Bear draft: unverified (create returned success with post_id `new`, but repeated `bear_list_posts` returned no records); intended Bear subdomain: arnold-gamboa-dev; CTA: ai_agents_setup_free_call; next action: Arnold review/approval and reconcile/verify the Bear draft before any publish action.
 
 - [[drafts/2026-07-13-youpastor-ai-sermon-research-needs-source-trail|AI Sermon Research Needs a Trail Back to the Source]] — status: draft; cluster: YouPastor; primary_keyword: AI sermon research for pastors; slug: ai-sermon-research-needs-source-trail; created: 2026-07-13; Bear post ID: `tXDDduBuExAzEHkWxQMA`; Bear published: false verified via bear_get_post; Bear subdomain: arnold-gamboa-dev; CTA: email_capture_placeholder; next action: Arnold review/approval and replace `EMAIL_CAPTURE_URL_PLACEHOLDER` before publish.
