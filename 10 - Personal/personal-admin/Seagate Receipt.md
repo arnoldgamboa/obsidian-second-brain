@@ -1,1 +1,0 @@
-[Receipt on 2 Oct 2019 at 5_26_56 PM.png](https://obsidian-assets.arnold.gamboa.ph/Assets/Receipt%20on%202%20Oct%202019%20at%205_26_56%20PM.png)

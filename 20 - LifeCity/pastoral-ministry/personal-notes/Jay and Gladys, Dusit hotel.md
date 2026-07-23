@@ -1,3 +1,0 @@
-<span style="font-size:11.142857551574707pt;">Thank you Lord for Jay and Gladys raising their hand in commitment to you. May you guide us as we guide them to grow in relationship with Jesus.  I'm praying that you give more opportunity for them to continue their journey with you.</span> 
-
-<span style="font-size:11.142857551574707pt;">I pray for our new location. Right now as we talk with those who know Dusit, may you touch their hearts. May you lead them and us to your will for LifeChurch's new location.</span>

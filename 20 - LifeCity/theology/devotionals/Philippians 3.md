@@ -1,1 +1,0 @@
-Everything I have is rubbish — poop — compared to my surpassing worth of knowing Jesus. Jesus is enough.

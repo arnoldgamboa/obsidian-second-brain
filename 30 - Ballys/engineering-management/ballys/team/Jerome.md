@@ -1,4 +1,0 @@
-- Not overworked, good 
-- Excited for new projects
-- Ok to move to Penbrothers office
-- Plans to go back and forts from Bulacan

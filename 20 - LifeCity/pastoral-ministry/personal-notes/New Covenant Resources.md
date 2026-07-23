@@ -1,2 +1,0 @@
-<span style="font-size:11.142857551574707pt;">Discovering the New Covenant (Greg Taylor)</span>
-<a href="http://www.rethinkingadventism.com/support-files/newcovenant_gtaylor.pdf" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;color:#00eeff;"><u>http://www.rethinkingadventism.com/support-files/newcovenant_gtaylor.pdf</u></a>

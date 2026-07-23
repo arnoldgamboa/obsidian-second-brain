@@ -1,2 +1,0 @@
-<span style="font-size:11.142857551574707pt;color:#868686ff;">Content not supported</span>
-<span style="font-size:11.142857551574707pt;color:#868686ff;">This block is a placeholder for a beta feature that isn't supported in the version of Evernote you're using. Deleting or moving this block may cause unexpected behavior in newer versions of Evernote.</span>

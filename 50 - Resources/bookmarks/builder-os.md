@@ -2,6 +2,14 @@
 tags: [bookmark, github, ai, product-building, operating-system]
 date: 2026-06-26
 source: https://github.com/BuildGreatProducts/builder-os
+brain_schema: 1
+title: BuilderOS
+type: bookmark
+status: active
+created: 2026-06-26
+updated: 2026-06-26
+area: Resources
+aliases: []
 ---
 
 # BuilderOS

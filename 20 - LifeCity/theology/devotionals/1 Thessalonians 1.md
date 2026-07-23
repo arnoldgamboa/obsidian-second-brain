@@ -1,1 +1,0 @@
-Becoming a Christian witness is just a natural result of a relationship with God.

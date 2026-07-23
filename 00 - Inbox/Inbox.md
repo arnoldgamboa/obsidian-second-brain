@@ -1,6 +1,14 @@
 ---
 tags: [inbox, brain-dump, workflow]
 date: 2026-04-29
+brain_schema: 1
+title: "Inbox (+)"
+type: note
+status: active
+created: 2026-04-29
+updated: 2026-07-21
+area: Inbox
+aliases: []
 ---
 
 # Inbox (+)
@@ -11,7 +19,7 @@ Landing zone for all uncategorized notes, braindumps, and quick captures.
 
 1. **Dump freely** — Drop anything here. Voice memos, screenshots, links, half-thoughts, meeting notes, ideas.
 2. **Tag me** — Message me on Telegram with `process inbox` or just dump directly and I'll review.
-3. **Weekly review** — Every Friday, I'll generate a digest and suggest actions.
+3. **Review regularly** — Process captures into durable notes, suggested tasks, or approved deletions.
 
 ## What Happens During Processing
 
@@ -20,9 +28,9 @@ For each item in the inbox, I will:
 | Action | Result |
 |--------|--------|
 | **File** | Move to Projects, Areas, Resources, or Archives |
-| **Task** | Add to Todoist with context |
+| **Task** | Suggest a Todoist task with context; add it only after approval |
 | **Content** | Draft a blog post, thread, or sermon idea |
-| **Trash** | Delete noise |
+| **Trash** | Recommend deletion; delete only after explicit approval |
 | **Connect** | Link related notes in Obsidian |
 
 ## Weekly Digest Format
@@ -58,6 +66,8 @@ Over 6–12 months, your brain dump archive becomes:
 
 ## Related
 
-- [[Areas MOC]]
-- [[Projects MOC]]
-- [[Archives MOC]]
+- [[Home|Second Brain Home]]
+- [[00 - Inbox/_Index|Inbox Index]]
+- [[40 - ArwenDigital/_Index|ArwenDigital Index]]
+- [[20 - LifeCity/_Index|LifeCity Index]]
+- [[50 - Resources/_Index|Resources Index]]

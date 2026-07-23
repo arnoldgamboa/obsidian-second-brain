@@ -1,1 +1,0 @@
-https://aws.amazon.com/blogs/business-intelligence/automate-financial-statements-using-amazon-quicksight-snapshot-export-apis/

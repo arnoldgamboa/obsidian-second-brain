@@ -1,1 +1,0 @@
-[FRESH FAITH - Leaning on God.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/FRESH%20FAITH%20-%20Leaning%20on%20God.pdf)

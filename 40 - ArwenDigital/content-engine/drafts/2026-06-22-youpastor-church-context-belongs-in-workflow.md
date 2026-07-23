@@ -16,6 +16,11 @@ bear_post_id: LxwIIrANwaFECxnkrqPo
 bear_published: true
 url: https://arnold.gamboa.ph/youpastor-church-context-belongs-in-workflow/
 date_published: 2026-06-25
+brain_schema: 1
+type: content
+updated: 2026-06-22
+area: ArwenDigital
+aliases: []
 ---
 
 ## SEO brief

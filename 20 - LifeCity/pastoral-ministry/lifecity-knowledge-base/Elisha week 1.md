@@ -1,1 +1,0 @@
-Instead of planning for the future, be prepared to respond to the present.

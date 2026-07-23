@@ -1,1 +1,0 @@
-Just like Christ who humbled himself and died a sinners death, we too as his followers count others as more significant as ourselves.

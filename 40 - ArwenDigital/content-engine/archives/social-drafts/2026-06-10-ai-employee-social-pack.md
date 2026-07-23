@@ -7,6 +7,14 @@ date: 2026-06-10
 archived_at: 2026-06-15
 pair_count: 3
 platforms: [LinkedIn, X/Twitter]
+brain_schema: 1
+title: "AI Employee Social Proposal Pack — 2026-06-10"
+type: note
+created: 2026-06-10
+updated: 2026-06-10
+area: ArwenDigital
+tags: []
+aliases: []
 ---
 
 # AI Employee Social Proposal Pack — 2026-06-10

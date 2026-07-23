@@ -1,1 +1,0 @@
-[2020-Scrum-Guide-US.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/2020-Scrum-Guide-US.pdf)

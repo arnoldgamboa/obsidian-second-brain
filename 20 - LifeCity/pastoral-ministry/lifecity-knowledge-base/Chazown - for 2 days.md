@@ -1,1 +1,0 @@
-We're going to have a 2 day Chazown experience Friday and Saturday

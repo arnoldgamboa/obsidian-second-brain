@@ -1,4 +1,0 @@
-<span style="font-size:15.428571701049805pt;"><b>Colossians 3:23-24</b></span> <span style="font-size:11.142857551574707pt;"><b>English Standard Version (ESV)</b></span>
-<span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>23</b></span> <span style="font-size:11.142857551574707pt;">Whatever you do, work heartily, as for the Lord and not for men,</span> <span style="font-family:Arial-BoldMT;font-size:8.571428298950195pt;"><b>24</b></span> <span style="font-size:11.142857551574707pt;">knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ.</span>
-
-<span style="font-size:11.142857551574707pt;">“Meet Jesus and Follow Him"</span>

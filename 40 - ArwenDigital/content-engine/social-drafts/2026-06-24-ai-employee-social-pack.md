@@ -7,6 +7,14 @@ date: 2026-06-24
 pair_count: 3
 platforms: [LinkedIn, X/Twitter]
 source_context: content-engine snapshot 2026-06-24; draft 2026-06-23-ai-employee-clerk-not-strategist
+brain_schema: 1
+title: "AI Employee Social Review Pack — 2026-06-24"
+type: note
+created: 2026-06-24
+updated: 2026-06-24
+area: ArwenDigital
+tags: []
+aliases: []
 ---
 
 # AI Employee Social Review Pack — 2026-06-24

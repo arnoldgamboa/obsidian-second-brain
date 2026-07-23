@@ -1,1 +1,0 @@
-Trials can either bring us closer to or further from God. The wise will use trials to know God deeper, the foolish will use it to fulfill his own desire.

@@ -2,6 +2,13 @@
 tags: [content-engine, approval, Bear Blog, YouPastor, Facebook]
 date: 2026-06-15
 status: published
+brain_schema: 1
+title: "Approval Record — What Approval Gates Look Like in a Real Sermon Prep Workflow"
+type: content
+created: 2026-06-15
+updated: 2026-06-15
+area: ArwenDigital
+aliases: []
 ---
 
 # Approval Record — What Approval Gates Look Like in a Real Sermon Prep Workflow

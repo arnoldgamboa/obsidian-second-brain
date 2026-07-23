@@ -7,6 +7,13 @@ cluster: YouPastor
 post_count: 8
 approval_note: "Drafted by Friday research job; Arnold can edit/approve before Monday Buffer scheduling."
 scheduling_note: "Friday job does not queue posts. Monday recurring Buffer job may queue after Arnold approval."
+brain_schema: 1
+title: "YouPastor Bivocational Pastors X Pack — 2026-07-10"
+type: note
+created: 2026-07-10
+updated: 2026-07-10
+area: ArwenDigital
+aliases: []
 ---
 
 # YouPastor Bivocational Pastors X Pack — 2026-07-10

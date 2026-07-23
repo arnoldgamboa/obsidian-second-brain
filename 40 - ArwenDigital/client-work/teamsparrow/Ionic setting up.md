@@ -1,1 +1,0 @@
-<a href="https://blog.ionicframework.com/tips-tricks-for-ionic-on-desktop/" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;color:#00eeff;"><u>https://blog.ionicframework.com/tips-tricks-for-ionic-on-desktop/</u></a>

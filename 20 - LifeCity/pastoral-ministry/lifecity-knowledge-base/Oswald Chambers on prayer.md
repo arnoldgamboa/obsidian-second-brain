@@ -1,1 +1,0 @@
-On God answering our prayers: “Some prayers are followed by silence because they are wrong, others because they are bigger than we can understand.” -Oswald Chambers

@@ -1,1 +1,0 @@
-We will anything short of sin to reach people who don't know Christ. Be anyone for someone for the sake of th gospel.

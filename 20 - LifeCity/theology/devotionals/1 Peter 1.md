@@ -1,1 +1,0 @@
-We  experience sufferings to test our faith. Our hope is in the grace of God, therefore be holy

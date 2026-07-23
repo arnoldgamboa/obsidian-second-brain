@@ -1,4 +1,0 @@
-- Bring spiritual intensity 
-- SBAG, no time 
-- Don't be bothered by the result. God brings in results. 
-- Keep it simple

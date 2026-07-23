@@ -1,2 +1,0 @@
-Social media
-- Use hashtag #findLifePH and say "LifeChurch Makati relaunching at the Holiday Inn, Glorietta on Feb 9. More excited than_______________" ie. a kid getting his first toy car, a teenager on his first date.

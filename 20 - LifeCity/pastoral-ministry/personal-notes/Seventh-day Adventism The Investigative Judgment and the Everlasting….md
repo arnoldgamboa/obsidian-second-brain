@@ -1,1 +1,0 @@
-[160105-Ford-Investigative-Judgment-free-ebook.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/160105-Ford-Investigative-Judgment-free-ebook.pdf)

@@ -1,1 +1,0 @@
-We are now not the old covenant but it under the new covenant promise.

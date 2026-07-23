@@ -1,1 +1,0 @@
-The law magnifies our sinful nature. By nature, we sin. "Wretched man that I am. Who will deliver me from this body of death!" Jesus Christ.

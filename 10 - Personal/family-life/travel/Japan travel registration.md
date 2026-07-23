@@ -1,1 +1,0 @@
-https://services.digital.go.jp/en/visit-japan-web/

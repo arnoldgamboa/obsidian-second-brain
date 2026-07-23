@@ -10,6 +10,11 @@ cta_type: email_capture_placeholder
 created: 2026-07-13
 bear_post_id: tXDDduBuExAzEHkWxQMA
 bear_published: false
+brain_schema: 1
+type: content
+updated: 2026-07-13
+area: ArwenDigital
+aliases: []
 ---
 
 ## SEO brief

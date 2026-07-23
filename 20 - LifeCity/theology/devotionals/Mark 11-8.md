@@ -1,1 +1,0 @@
-If we'll claim ministry success as our own, no wonder ministry failure is such a burden too. Everything should all point to Jesus.

@@ -1,1 +1,0 @@
-Our faith apart from works, as with Abraham, is counted as righteousness.

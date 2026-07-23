@@ -1,4 +1,50 @@
+---
+brain_schema: 1
+title: "Content Engine Index"
+type: index
+status: active
+created: 2026-07-21
+updated: 2026-07-21
+area: ArwenDigital
+tags: []
+aliases: []
+---
+
 # Content Engine Index
+
+<!-- markdown-brain:auto:start -->
+## Generated Content Catalog
+
+> Status and dates below come from each source note. Update the source note, then regenerate this view.
+
+| Content | Status | Updated |
+|---|---|---|
+| [[40 - ArwenDigital/content-engine/drafts/2026-07-21-ai-employee-ai-agent-is-operated-not-installed|An AI Agent Is Not Installed. It Is Operated.]] | draft | 2026-07-21 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-07-20-youpastor-sermon-repurposing-needs-pastoral-purpose|Do Not Turn Every Sermon Into Twelve Pieces of Content]] | draft | 2026-07-20 |
+| [[40 - ArwenDigital/content-engine/social-drafts/2026-07-17-youpastor-bivocational-pastors-x-pack|YouPastor Bivocational Pastors X Pack — 2026-07-17]] | queue-blocked-buffer-limit | 2026-07-17 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-07-14-ai-employee-fix-operational-handoffs|Your AI Agent Should Fix the Handoffs Your Team Stops Seeing]] | draft | 2026-07-14 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-07-13-youpastor-ai-sermon-research-needs-source-trail|AI Sermon Research Needs a Trail Back to the Source]] | draft | 2026-07-13 |
+| [[40 - ArwenDigital/content-engine/social-drafts/2026-07-10-youpastor-bivocational-pastors-x-pack|YouPastor Bivocational Pastors X Pack — 2026-07-10]] | partially-scheduled-buffer-limit | 2026-07-10 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-07-07-ai-employee-ai-agent-business-operations-exceptions|An AI Agent for Business Operations Should Start With Exceptions]] | draft | 2026-07-07 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-07-06-youpastor-review-ai-before-sermon-desk|What Pastors Should Review Before AI Leaves the Sermon Desk]] | draft | 2026-07-06 |
+| [[40 - ArwenDigital/content-engine/social-drafts/2026-07-03-youpastor-bivocational-pastors-x-pack|YouPastor Bivocational Pastors X Pack — 2026-07-03]] | partially-scheduled-buffer-limit | 2026-07-03 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-06-30-ai-employee-protect-owners-focus|Your First AI Employee Should Protect the Owner's Focus]] | draft | 2026-06-30 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-06-29-youpastor-friday-reset-for-pastors-before-sunday|The Friday Reset Pastors Need Before Sunday]] | draft | 2026-06-29 |
+| [[40 - ArwenDigital/content-engine/social-drafts/2026-06-26-youpastor-bivocational-pastors-x-pack|YouPastor Bivocational Pastors X Pack — 2026-06-26]] | drafted-unscheduled | 2026-06-26 |
+| [[40 - ArwenDigital/content-engine/social-drafts/2026-06-24-ai-employee-social-pack|AI Employee Social Review Pack — 2026-06-24]] | scheduled | 2026-06-24 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-06-23-ai-employee-clerk-not-strategist|Your First AI Employee Should Be a Clerk, Not a Strategist]] | draft | 2026-06-23 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-06-22-youpastor-church-context-belongs-in-workflow|Your Church Context Belongs in the Workflow, Not Every AI Prompt]] | published | 2026-06-22 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-06-22-youpastor-sermon-notes-before-ai-prompts|Start With Your Sermon Notes, Not a Blank AI Prompt]] | published | 2026-06-22 |
+| [[40 - ArwenDigital/content-engine/social-drafts/2026-06-19-youpastor-bivocational-pastors-x-pack|YouPastor Bivocational Pastors X Pack — 2026-06-19]] | scheduled | 2026-06-19 |
+| [[40 - ArwenDigital/content-engine/social-drafts/2026-06-17-ai-employee-social-pack|AI Employee Social Proposal Pack — 2026-06-17]] | scheduled | 2026-06-17 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-06-16-ai-employee-workflow-audit-before-agent|Do Not Build an AI Agent Until You Can Explain the Workflow]] | draft | 2026-06-16 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-06-15-youpastor-approval-gates-real-sermon-prep-workflow|What Approval Gates Look Like in a Real Sermon Prep Workflow]] | published | 2026-06-15 |
+| [[40 - ArwenDigital/content-engine/approvals/2026-06-15-youpastor-approval-gates-real-sermon-prep-workflow-approved|Approval Record — What Approval Gates Look Like in a Real Sermon Prep Workflow]] | published | 2026-06-15 |
+| [[40 - ArwenDigital/content-engine/approvals/2026-06-15-youpastor-ai-sermon-preparation-without-losing-your-voice-approved|Approval Record — AI Sermon Preparation Without Losing Your Pastoral Voice]] | published | 2026-06-15 |
+| [[40 - ArwenDigital/content-engine/drafts/2026-06-15-youpastor-ai-sermon-preparation-without-losing-your-voice|AI Sermon Preparation Without Losing Your Pastoral Voice]] | published | 2026-06-15 |
+| [[40 - ArwenDigital/content-engine/archives/social-drafts/2026-06-12-youpastor-bivocational-pastors-x-pack|YouPastor Bivocational Pastors X Pack — 2026-06-12]] | archived | 2026-06-12 |
+| [[40 - ArwenDigital/content-engine/archives/social-drafts/2026-06-10-ai-employee-social-pack|AI Employee Social Proposal Pack — 2026-06-10]] | archived | 2026-06-10 |
+<!-- markdown-brain:auto:end -->
 
 Canonical index for ArwenDigital content-engine social drafts and publishing state.
 
@@ -6,9 +52,9 @@ Last deterministic cleanup: 2026-06-15.
 
 ## Blog drafts
 
-- [[for-approval/2026-07-21-ai-employee-ai-agent-scoreboard-before-more-tasks|Your AI Agent Needs a Scoreboard Before It Needs More Tasks]] — status: needs-approval; cluster: AI Employee; primary_keyword: AI agent KPIs for small business; slug: ai-agent-scoreboard-before-more-tasks; created: 2026-07-21; Bear draft: attempted-unverified (create returned success with post_id `new`, but `bear_list_posts` returned no records and `bear_get_post` did not confirm the draft); intended Bear subdomain: arnold-gamboa-dev; CTA: ai_agents_setup_free_call; next action: Arnold review/approval and reconcile/verify the Bear draft before any publish action.
+- [[drafts/2026-07-21-ai-employee-ai-agent-is-operated-not-installed|An AI Agent Is Not Installed. It Is Operated.]] — status: draft; cluster: AI Employee; primary_keyword: managed AI agent deployment; slug: ai-agent-is-operated-not-installed; created: 2026-07-21; Bear draft: unverified (create returned success with post_id `new`, but `bear_list_posts` returned no records); intended Bear subdomain: arnold-gamboa-dev; CTA: ai_agents_setup_free_call; next action: Arnold review/approval and reconcile/verify the Bear draft before any publish action.
 
-- [[for-approval/2026-07-20-youpastor-pastoral-follow-up-should-not-depend-on-memory|Pastoral Follow-Up Should Not Depend on a Pastor's Memory]] — status: needs-approval; cluster: YouPastor; primary_keyword: AI pastoral follow-up for pastors; slug: pastoral-follow-up-should-not-depend-on-memory; created: 2026-07-20; Bear draft: not created because Bear MCP session cookies are expired/invalid; intended Bear subdomain: arnold-gamboa-dev; CTA: email_capture_placeholder; next action: Arnold review/approval and create/update Bear draft after Bear cookies are refreshed.
+- [[drafts/2026-07-20-youpastor-sermon-repurposing-needs-pastoral-purpose|Do Not Turn Every Sermon Into Twelve Pieces of Content]] — status: draft; cluster: YouPastor; primary_keyword: sermon repurposing workflow for pastors; slug: sermon-repurposing-needs-pastoral-purpose; created: 2026-07-20; Bear draft: unverified (create returned success with post_id `new`, but `bear_list_posts` returned no records); intended Bear subdomain: arnold-gamboa-dev; CTA: email_capture_placeholder; next action: Arnold review/approval, replace `EMAIL_CAPTURE_URL_PLACEHOLDER`, and reconcile/verify the Bear draft before any publish action.
 
 - [[drafts/2026-07-14-ai-employee-fix-operational-handoffs|Your AI Agent Should Fix the Handoffs Your Team Stops Seeing]] — status: draft; cluster: AI Employee; primary_keyword: AI agent for workflow handoffs; slug: ai-employee-fix-operational-handoffs; created: 2026-07-14; Bear draft: unverified (create returned success with post_id `new`, but repeated `bear_list_posts` returned no records); intended Bear subdomain: arnold-gamboa-dev; CTA: ai_agents_setup_free_call; next action: Arnold review/approval and reconcile/verify the Bear draft before any publish action.
 
@@ -44,8 +90,7 @@ Last deterministic cleanup: 2026-06-15.
 
 ## Social derivatives
 
-- [[for-approval/2026-07-22-ai-employee-linkedin-x-pack|2026-07-22 AI Employee LinkedIn + X proposal pack]] — status: approval-needed; schedule_status: proposal-only; buffer_status: not-scheduled; platform: LinkedIn + X; pairs: 3; source drafts: [[for-approval/2026-07-21-ai-employee-ai-agent-scoreboard-before-more-tasks|AI agent scoreboard]], [[for-approval/2026-07-14-ai-employee-ai-agent-work-log-before-more-permissions|AI agent work log]], and AI Employee handoff/access-boundaries drafts; next action: Arnold review/approval, then move to approved-social before Buffer scheduling.
-- [[approved-social/2026-07-17-youpastor-bivocational-pastors-x-pack|2026-07-17 YouPastor bivocational pastors X pack]] — status: blocked-buffer-limit; schedule_status: blocked; buffer_status: 0/8 queued; platform: X; posts: 8; attempted Buffer X queue on 2026-07-20T01:01:18Z; Buffer IDs/dueAt: none; blocked remaining: X-YOUPASTOR-2026-07-17-01 through X-YOUPASTOR-2026-07-17-08; blocker: Buffer scheduled-post limit reached (10/10) on first createPost; next action: free Buffer X queue slots or increase limit, then rerun the Monday queue workflow for this approved-social pack; research-led: 3; personal/practical: 5; sources: Lifeway bivocational clergy, Barna pastors considering leaving ministry, and Hartford small-church context.
+- [[social-drafts/2026-07-17-youpastor-bivocational-pastors-x-pack|2026-07-17 YouPastor bivocational pastors X pack]] — status: queue-blocked-buffer-limit; schedule_status: not queued; buffer_status: 0/8 scheduled; platform: X; posts: 8; attempted Buffer X queue on 2026-07-20T01:03:17Z; Buffer IDs/dueAt: none created; blocker: Buffer scheduled-post limit reached (10/10) on every create attempt; recurring workflow approval is already in place; next action: free at least eight scheduled-post slots or increase the plan limit, then queue and verify all eight posts; research-led: 3; personal/practical: 5; sources: Barna pastoral well-being, Duke Clergy Health Collaborative burnout trends, and Lifeway pastoral wellness.
 - [[social-drafts/2026-07-10-youpastor-bivocational-pastors-x-pack|2026-07-10 YouPastor bivocational pastors X pack]] — status: partially-scheduled-buffer-limit; schedule_status: partial; buffer_status: 1/8 scheduled; platform: X; posts: 8; attempted Buffer X queue on 2026-07-13; scheduled Buffer ID/dueAt: `6a5438d000357d0bb669cf58` 2026-07-15T17:30:00.000Z (X-YOUPASTOR-2026-07-10-01, verified scheduled on @arnoldgamboa); blocked remaining: X-YOUPASTOR-2026-07-10-02 through X-YOUPASTOR-2026-07-10-08; blocker: Buffer scheduled-post limit reached (10/10); next action: free Buffer queue slots or increase the plan limit, then queue the remaining seven posts; research-led: 3; personal/practical: 5.
 - [[social-drafts/2026-07-03-youpastor-bivocational-pastors-x-pack|2026-07-03 YouPastor bivocational pastors X pack]] — status: partially-scheduled-buffer-limit; schedule_status: partial; buffer_status: 6/8 scheduled; platform: X; posts: 8; attempted Buffer X queue on 2026-07-06T01:02:01Z; scheduled Buffer IDs/dueAt: `6a4afe596917141d454b6af8` 2026-07-15T17:30:00.000Z, `6a4afe596917141d454b6b1d` 2026-07-16T17:30:00.000Z, `6a4afe5add9abec2b40e4960` 2026-07-20T17:30:00.000Z, `6a4afe5b7e52c06f81bf033c` 2026-07-22T17:30:00.000Z, `6a4afe5bc109183ee85c674c` 2026-07-23T17:30:00.000Z, `6a4afe5cc109183ee85c6770` 2026-07-27T17:30:00.000Z; blocked remaining: X-YOUPASTOR-2026-07-03-07, X-YOUPASTOR-2026-07-03-08; blocker: Buffer scheduled-post limit reached (10/10); next action: free Buffer X queue slots or increase limit, then queue remaining posts.
 - [[social-drafts/2026-06-26-youpastor-bivocational-pastors-x-pack|2026-06-26 YouPastor bivocational pastors X pack]] — status: drafted-unscheduled; schedule_status: not queued; buffer_status: not created; platform: X; posts: 8; Monday queue target: 2026-06-29 after Arnold approval; research-led: 3; personal/practical: 5; sources: Barna pastoral burnout and Hartford small-church context; Friday job did not queue/schedule/publish.

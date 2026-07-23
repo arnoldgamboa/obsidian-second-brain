@@ -1,1 +1,0 @@
-[MS885-My-Reasearch-Paper-on-A-Disciple-Making-Approach-for-A-Growing-Local-Church.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/MS885-My-Reasearch-Paper-on-A-Disciple-Making-Approach-for-A-Growing-Local-Church.pdf)

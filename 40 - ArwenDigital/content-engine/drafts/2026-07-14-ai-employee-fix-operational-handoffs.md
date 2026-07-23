@@ -12,6 +12,11 @@ bear_post_id: unverified
 bear_subdomain: arnold-gamboa-dev
 bear_status: unverified
 bear_note: "Bear create returned success with post_id 'new', but list_posts returned no records; do not treat as confirmed."
+brain_schema: 1
+type: content
+updated: 2026-07-14
+area: ArwenDigital
+aliases: []
 ---
 
 ## SEO brief

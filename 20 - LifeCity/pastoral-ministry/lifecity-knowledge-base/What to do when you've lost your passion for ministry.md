@@ -1,1 +1,0 @@
-What to Do When You’ve Lost Your Passion For Ministry http://pastors.com/youve-lost-passion-ministry/

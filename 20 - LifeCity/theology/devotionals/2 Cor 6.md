@@ -1,1 +1,0 @@
-Do not be unequally yoked with an unbeliever. A believer does not share the value of an unbeliever. It can be interpreted as partnership in business or in marriage.

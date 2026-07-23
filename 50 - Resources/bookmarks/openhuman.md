@@ -4,6 +4,13 @@ date: 2026-05-17
 status: filed
 source: https://github.com/tinyhumansai/openhuman
 recovered_from: session-history
+brain_schema: 1
+title: OpenHuman
+type: bookmark
+created: 2026-05-17
+updated: 2026-05-17
+area: Resources
+aliases: []
 ---
 
 # OpenHuman

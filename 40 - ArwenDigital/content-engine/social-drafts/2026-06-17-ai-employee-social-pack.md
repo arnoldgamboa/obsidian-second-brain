@@ -7,6 +7,14 @@ date: 2026-06-17
 pair_count: 3
 platforms: [LinkedIn, X/Twitter]
 source_context: content-engine snapshot 2026-06-17; draft 2026-06-16-ai-employee-workflow-audit-before-agent
+brain_schema: 1
+title: "AI Employee Social Proposal Pack — 2026-06-17"
+type: note
+created: 2026-06-17
+updated: 2026-06-17
+area: ArwenDigital
+tags: []
+aliases: []
 ---
 
 # AI Employee Social Proposal Pack — 2026-06-17

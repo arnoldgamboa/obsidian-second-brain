@@ -1,1 +1,0 @@
-Knowing that life is not just th here and now is a great encouragement to live by on a day to day basis.

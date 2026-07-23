@@ -1,1 +1,0 @@
-We can justify sinning all we want. But we're always fall short because God is righteous and we're not.

@@ -1,2 +1,0 @@
-[72206962-3C5E-4778-8CEA-E1951FC33654.jpg](https://obsidian-assets.arnold.gamboa.ph/Assets/72206962-3C5E-4778-8CEA-E1951FC33654.jpg)
-[Scan Page 65.jpg](https://obsidian-assets.arnold.gamboa.ph/Assets/Scan%20Page%2065.jpg)

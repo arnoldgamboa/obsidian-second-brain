@@ -1,1 +1,0 @@
-Idea: when you give your money out, you expect something in return. That’s not the correct mindset in tithing, generous giving.

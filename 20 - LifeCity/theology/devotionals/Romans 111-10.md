@@ -1,1 +1,0 @@
-Election is, as with the nation of Israel, based on God's grace not by good works. It does not depend on us.

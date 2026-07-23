@@ -7,6 +7,12 @@ status: draft
 related:
   - 2026-06-18-current-seo-implementation-and-growth-recommendations
   - 2026-06-12-claude-code-seo-approach
+brain_schema: 1
+created: 2026-06-18
+updated: 2026-06-18
+area: ArwenDigital
+tags: []
+aliases: []
 ---
 
 # YouPastor Free Utility Page Ideas

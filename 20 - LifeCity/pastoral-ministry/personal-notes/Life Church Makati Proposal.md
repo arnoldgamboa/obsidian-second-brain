@@ -1,1 +1,0 @@
-[Life Church Makati Proposal.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Life%20Church%20Makati%20Proposal.pdf)

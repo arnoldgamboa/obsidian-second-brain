@@ -1,1 +1,0 @@
-Pastoring should come from the heart. Love for people is primary.

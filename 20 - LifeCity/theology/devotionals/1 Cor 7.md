@@ -1,1 +1,0 @@
-If someone marries an unbeliever, stay with him. Let her be the light for her husband.

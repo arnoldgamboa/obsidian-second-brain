@@ -1,1 +1,0 @@
-https://imaginovation.net/blog/cost-to-develop-saas-app-like-uber/#:~:text=The%20cost%20to%20build%20an,that%20could%20start%20at%20%2414%2C000.

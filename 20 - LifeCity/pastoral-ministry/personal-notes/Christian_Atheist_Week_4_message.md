@@ -1,1 +1,0 @@
-[Christian_Atheist_Week_4_message.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Christian_Atheist_Week_4_message.pdf)

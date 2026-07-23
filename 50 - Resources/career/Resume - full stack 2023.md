@@ -1,1 +1,0 @@
-[ARNOLD GAMBOA - full stack resume.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/ARNOLD%20GAMBOA%20-%20full%20stack%20resume.pdf)

@@ -1,1 +1,0 @@
-[FULLY SIGNED --Complete_with_DocuSign_Copy_of_TeamSparrow__.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/FULLY%20SIGNED%20--Complete_with_DocuSign_Copy_of_TeamSparrow__.pdf)

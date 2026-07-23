@@ -1,7 +1,0 @@
-<span style="font-family:Georgia-Bold;font-size:13.602856636047363pt;"><b>Dream Big</b></span>
-<span style="font-family:Georgia;font-size:15.999999046325684pt;">The death of a dream is often a subtle form of idolatry. We lose faith in the God who gave us the big dream and settle for a small dream that we can accomplish without his help. We go after dreams that don't require prayer. And the God who is able to do immeasurably more than all our right brain can imagine is supplanted by a god – lowercase g – who fits within the logical constraints of our left brain.</span> 
-<span style="font-family:Georgia;font-size:15.999999046325684pt;">Nothing honors God more than a big dream that is way beyond our ability to accomplish. Why? Because there is no way we can take credit for it. And nothing is better for our spiritual development than a big dream because it keeps us on our knees in raw dependence on God. –</span> <span style="font-family:Georgia-Italic;font-size:15.999999046325684pt;"><i>Mark Batterson</i></span>
-<span style="font-family:Georgia;font-size:15.999999046325684pt;">——</span>
-<span style="font-family:Georgia;font-size:15.999999046325684pt;">My 2 big dreams that only God can fulfil:</span>
-1. <span style="font-family:Georgia;font-size:15.999999046325684pt;">A LifeCity Church with 200 people coming in a facility that ministers to Young Professionals in weekdays.</span>  
-2. <span style="font-family:Georgia;font-size:15.999999046325684pt;">A digital mobile app company</span>

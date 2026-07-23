@@ -1,1 +1,0 @@
-The way I treat others -- whoever they are, wherever they've been, whatever they've done -- matters to God.

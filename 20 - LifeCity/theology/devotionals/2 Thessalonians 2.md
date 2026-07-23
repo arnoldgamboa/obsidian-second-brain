@@ -1,1 +1,0 @@
-There might come trials and tribulations, but the gospel of grace is our comfort.

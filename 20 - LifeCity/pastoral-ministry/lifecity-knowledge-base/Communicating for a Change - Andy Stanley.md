@@ -1,5 +1,0 @@
-<span style="font-family:Arial-BoldMT;font-size:14pt;color:#333333ff;"><b>When You Talk, Are People Changed?</b></span> 
-
-<span style="font-family:ArialMT;font-size:14pt;color:#333333ff;">Whether you speak from the pulpit, podium, or the front of a classroom, you don’t need much more than blank stares and faraway looks to tell you you’re not connecting. Take heart before your audience takes leave! You can convey your message in the powerful, life-changing way it deserves to be told. An insightful, entertaining parable that’s an excellent guide for any speaker, Communicating for a Change takes a simple approach to delivering effectively. Join Andy Stanley as he discovers that the secrets to successful speaking are parallel to the lessons a trucker learns on the road. By knowing your destination before you leave (identifying the one basic premise of your message), using your blinkers (making transitions obvious), and implementing five other practical points, you’ll drive your message home every time!</span> 
-
- **(unknown attachment: org.idpf.epub-container)**

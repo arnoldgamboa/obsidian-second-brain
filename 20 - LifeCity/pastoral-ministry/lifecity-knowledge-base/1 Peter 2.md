@@ -1,1 +1,0 @@
-Since Christ died for our sins, we are now dead to sin and is free to follow Jesus and do the good things he so desired for us to do.

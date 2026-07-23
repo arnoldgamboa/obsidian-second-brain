@@ -1,1 +1,0 @@
-Vengeance is of the Lord. The consummation is on his second coming.

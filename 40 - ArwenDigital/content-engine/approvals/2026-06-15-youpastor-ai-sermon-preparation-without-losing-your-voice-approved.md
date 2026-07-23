@@ -2,6 +2,13 @@
 tags: [content-engine, approval, Bear Blog, YouPastor, Facebook]
 date: 2026-06-15
 status: published
+brain_schema: 1
+title: "Approval Record — AI Sermon Preparation Without Losing Your Pastoral Voice"
+type: content
+created: 2026-06-15
+updated: 2026-06-15
+area: ArwenDigital
+aliases: []
 ---
 
 # Approval Record — AI Sermon Preparation Without Losing Your Pastoral Voice

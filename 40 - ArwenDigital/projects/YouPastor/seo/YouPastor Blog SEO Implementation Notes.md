@@ -6,6 +6,13 @@ tags:
   - youpastor
 created: 2026-06-29
 source: telegram chat
+brain_schema: 1
+title: "YouPastor Blog SEO Implementation Notes"
+type: note
+status: active
+updated: 2026-06-29
+area: ArwenDigital
+aliases: []
 ---
 
 # YouPastor Blog SEO Implementation Notes

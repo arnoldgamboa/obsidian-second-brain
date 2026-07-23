@@ -1,3 +1,0 @@
-- [ ] <span style="font-size:11.142857551574707pt;">input new images</span>
-- [ ] <span style="font-size:11.142857551574707pt;">new logos</span>
-- [ ] <span style="font-size:11.142857551574707pt;">abc furniture new logo (ABC Furniture Lines)</span>

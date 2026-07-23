@@ -1,1 +1,0 @@
-We who are in Christ wait and hope for restoration. It'll happen according to what He wills.

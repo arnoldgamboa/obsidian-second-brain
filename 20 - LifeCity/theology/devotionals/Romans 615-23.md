@@ -1,1 +1,0 @@
-Everyone is a slave of something -- either of righteousness or of sin. If you're in Christ, your are a slave of righteousness that leads to sanctification and eternal life.

@@ -1,1 +1,0 @@
-Do good, love others as bearers of Gods grace even if that will mean persecution.

@@ -1,1 +1,0 @@
-[Generative AI-v4.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Generative%20AI-v4.pdf)

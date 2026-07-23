@@ -1,1 +1,0 @@
-Submission to God leads to pure motives which leads to God granting our requests that leads to healthy relationships. The reverse is also true.

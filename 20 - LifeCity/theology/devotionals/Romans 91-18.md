@@ -1,1 +1,0 @@
-God is a God that initiates. And I can trust his wisdom in choosing who to initiate salvation to.

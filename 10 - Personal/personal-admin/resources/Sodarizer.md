@@ -1,2 +1,0 @@
-https://www.sodarizer.com/products/sodarizer-spark-sparkling-and-seltzer-water-maker
-## <a href="https://www.sodarizer.com/products/sodarizer-spark-sparkling-and-seltzer-water-maker" rel="noopener" class="external-link" target="_blank"><b><u>Sodarizer Spark: Soda and Seltzer Water Maker | Sodarizer Spark</u></b></a>

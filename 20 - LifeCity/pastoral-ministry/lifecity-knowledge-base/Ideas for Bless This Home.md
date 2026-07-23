@@ -1,1 +1,0 @@
-1. Online campaign - best wacky family picture.

@@ -1,9 +1,0 @@
-<span style="font-size:11.142857551574707pt;">Magandang umaga sa lahat ng aming tagasubaybay sa Sabbath in Christ Podcast. It’s Saturday morning once again. And my prayer is that we can be a blessing for you as we share some of our journey towards Jesus our ultimate sabbath rest.</span>
-
-<span style="font-size:11.142857551574707pt;">Katatapos lang ng 5 week series naming ni Ronald tungkol sa New Covenants. Sa  mga sumubaybay, I hope you’ve learned something from this and I’m praying you grew in your knowledge of who Jesus is as our New Covenant. Dun sa mga hindi na panood, naka archive naman din po ito dito sa Facebook Page — just check it out. Or you can also visit the Back To The Scripture’s Youtube page.</span>
-
-<span style="font-size:11.142857551574707pt;">Today, we will finish this series with a guest speaker, Andy Stanley. Well, technically, he’s not with us live today. ***smile*** I love Andy Stanley. He’s one of those favorite teachers and book authors that I truly admire. He is a best selling author. And one of his books recently released is entitled “Irresistible: Reclaiming the New That Jesus Unleashed To The World.” In this book, he covered the basics of what the Old Covenant is, what the New Covenant is and how this applies to us as Christians and for the church.</span> 
-
-<span style="font-size:11.142857551574707pt;">Ang ganda ng treatment nya sa subject na to. Today, I’m going to share with you this 30 minute preaching sa kanyang church sa Northpoint Community Church in Atlanta. He basically talks about the New Covenant. Watch this and understand how Jesus introduced to us the new covenant….</span>
-
-<span style="font-size:11.142857551574707pt;">I’m going to watch this with you. So if you have comments, just type it in our comments box and I’m going to show it on screen. Para interactive tayo. So, here’s Andy Stanley with the message “The New Covenant"</span>

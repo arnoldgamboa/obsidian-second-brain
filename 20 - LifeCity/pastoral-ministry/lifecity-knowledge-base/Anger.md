@@ -1,1 +1,0 @@
-<a href="http://michaelkelley.co/2019/09/3-diagnostic-questions-about-your-anger/" rel="noopener" class="external-link" target="_blank" style="color:#00eeff;"><u>http://michaelkelley.co/2019/09/3-diagnostic-questions-about-your-anger/</u></a>

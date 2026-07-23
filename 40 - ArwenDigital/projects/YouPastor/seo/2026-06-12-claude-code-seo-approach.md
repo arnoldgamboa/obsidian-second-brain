@@ -3,6 +3,13 @@ tags: [youpastor, seo, growth, ai-workflow]
 date: 2026-06-12
 status: revisit-next-week
 source: https://www.youtube.com/watch?v=x8J43LlCOrk
+brain_schema: 1
+title: "Claude Code SEO approach for YouPastor"
+type: note
+created: 2026-06-12
+updated: 2026-06-12
+area: ArwenDigital
+aliases: []
 ---
 
 # Claude Code SEO approach for YouPastor

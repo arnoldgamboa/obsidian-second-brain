@@ -1,3 +1,15 @@
+---
+brain_schema: 1
+title: "2026-07-06 YouPastor SEO/content operations review"
+type: report
+status: active
+created: 2026-07-06
+updated: 2026-07-06
+area: ArwenDigital
+tags: []
+aliases: []
+---
+
 # 2026-07-06 YouPastor SEO/content operations review
 
 Source of truth: scheduled content-engine snapshot generated `2026-07-06T10:00:15` plus Search Console snapshot generated `2026-07-06` for `sc-domain:arnold.gamboa.ph` covering `2026-06-06` through `2026-07-04`.

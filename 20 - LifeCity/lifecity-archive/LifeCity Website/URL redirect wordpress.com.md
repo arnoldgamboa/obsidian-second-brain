@@ -1,2 +1,0 @@
-https://wordpress.com/go/web-design/wordpress-com-301-redirect-plugin-tutorial/
-## <a href="https://wordpress.com/go/web-design/wordpress-com-301-redirect-plugin-tutorial/" rel="noopener" class="external-link" target="_blank"><b><u>WordPress.com 301 Redirect Plugin Tutorial – Go WordPress</u></b></a>

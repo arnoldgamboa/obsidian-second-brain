@@ -1,1 +1,0 @@
-[script.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/script.pdf)

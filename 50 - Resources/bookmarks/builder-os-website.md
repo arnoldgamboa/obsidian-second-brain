@@ -2,6 +2,14 @@
 tags: [bookmark, website, ai, product-building, operating-system]
 date: 2026-06-26
 source: https://www.builder-os.dev/
+brain_schema: 1
+title: "BuilderOS Website"
+type: bookmark
+status: active
+created: 2026-06-26
+updated: 2026-06-26
+area: Resources
+aliases: []
 ---
 
 # BuilderOS Website

@@ -1,2 +1,0 @@
-https://www.youtube.com/watch?v=U-4hQFqEvfc
-## <a href="https://www.youtube.com/watch?v=U-4hQFqEvfc" rel="noopener" class="external-link" target="_blank"><b><u>Hachiko | A (Akita Dog) Tale | English HD | English Classics Being LIMITLESS - YouTube</u></b></a>

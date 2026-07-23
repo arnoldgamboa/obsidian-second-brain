@@ -1,1 +1,0 @@
-Christ's perfect life has made me perfect through imputed righteousness. His death paid for those sins that has made me imperfect -- all happpened while I'm still a sinner.

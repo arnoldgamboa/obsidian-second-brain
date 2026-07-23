@@ -1,1 +1,0 @@
-1. <span style="font-size:11.142857551574707pt;">Asking God for a sign</span>

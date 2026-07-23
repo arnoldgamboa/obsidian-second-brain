@@ -17,6 +17,11 @@ bear_post_id: wRtWKTjTHdrNYabNoIxp
 bear_published: false
 bear_subdomain: arnold-gamboa-dev
 next_action: Arnold review/approval and email capture URL before publishing
+brain_schema: 1
+type: content
+updated: 2026-06-29
+area: ArwenDigital
+aliases: []
 ---
 
 ## SEO brief

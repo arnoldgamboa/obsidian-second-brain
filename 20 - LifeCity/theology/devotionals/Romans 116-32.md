@@ -1,1 +1,0 @@
-We all sinned against God -- knowingly. That's why we need the gospel and preach it. Paul was not ashamed of it -- neither should we be.

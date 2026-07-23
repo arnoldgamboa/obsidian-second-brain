@@ -1,1 +1,0 @@
-Preaching the gospel of Jesus is a very serious job. “If anyone is preaching another gospel, let him be accursed”, Paul said. May God always be on my side when I talk to people about the gospel.

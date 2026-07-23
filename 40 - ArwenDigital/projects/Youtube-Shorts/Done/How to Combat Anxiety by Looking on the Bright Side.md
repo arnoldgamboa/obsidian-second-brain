@@ -1,5 +1,0 @@
-1. Count your blessings: Focus on your blessings, no matter how hard life is, and your attitude towards life will get brighter.
-2. Lean on Jesus: The secret to contentment is leaning on Jesus and what He’s done for you, as Paul discovered while he was in prison.
-3. Remember what matters: What you have in Christ is far greater than what you don’t have in life. Paul's only goal was to know Jesus, and he was content with that.
-4. Gratitude list: Take a scrap sheet of paper and draw two columns. In the left column, list what you are worried about. In the right column, list what you are thankful for. Seeing your blessings listed is a tangible reminder of how good God has been to you and can help keep the worries in check.
-5. Be grateful: Take a moment to count your blessings and be grateful for them, whether big or small. It can make a huge difference in how you approach life and combat anxiety.

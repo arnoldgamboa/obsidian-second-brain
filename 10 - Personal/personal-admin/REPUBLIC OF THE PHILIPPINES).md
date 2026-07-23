@@ -1,1 +1,0 @@
-[Scan.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Scan.pdf)

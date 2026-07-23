@@ -1,1 +1,0 @@
-[IMG_4461.png](https://obsidian-assets.arnold.gamboa.ph/Assets/IMG_4461.png)

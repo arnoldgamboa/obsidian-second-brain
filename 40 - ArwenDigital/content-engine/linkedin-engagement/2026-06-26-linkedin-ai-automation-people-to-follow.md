@@ -3,6 +3,13 @@ tags: [mind-dump, linkedin, ai-automation, business-development]
 date: 2026-06-26
 status: filed
 source: chat
+brain_schema: 1
+title: "LinkedIn AI Automation people to follow"
+type: note
+created: 2026-06-26
+updated: 2026-06-26
+area: ArwenDigital
+aliases: []
 ---
 
 # LinkedIn AI Automation people to follow

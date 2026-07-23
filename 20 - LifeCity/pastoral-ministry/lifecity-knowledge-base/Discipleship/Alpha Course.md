@@ -1,2 +1,0 @@
-https://run.philippines.alpha.org/training/alpha-101/four-foundational-principles
-## <a href="https://run.philippines.alpha.org/training/alpha-101/four-foundational-principles" rel="noopener" class="external-link" target="_blank"><b><u>Four Foundational Principles - Learning Centre - Alpha Philippines</u></b></a>

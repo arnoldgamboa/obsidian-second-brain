@@ -1,1 +1,0 @@
-Christ' sacrifice-- the propitiation by his blood -- is the only solution to our sin problem.

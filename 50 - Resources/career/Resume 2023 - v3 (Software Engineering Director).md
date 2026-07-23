@@ -1,1 +1,0 @@
-[ARNOLD GAMBOA - resume v3.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/ARNOLD%20GAMBOA%20-%20resume%20v3.pdf)

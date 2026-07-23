@@ -11,6 +11,11 @@ created: 2026-06-30
 bear_post_id: DBLqxJNUsEQjbrsnzPJY
 bear_subdomain: arnold-gamboa-dev
 bear_status: draft
+brain_schema: 1
+type: content
+updated: 2026-06-30
+area: ArwenDigital
+aliases: []
 ---
 
 ## SEO brief

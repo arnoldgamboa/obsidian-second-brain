@@ -1,1 +1,0 @@
-No one is excepted. Whether you know the law or not, you know in your hearts that you are against God and rebel against Him.

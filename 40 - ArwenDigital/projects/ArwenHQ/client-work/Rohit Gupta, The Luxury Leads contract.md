@@ -1,1 +1,0 @@
-[Web_Development_Contract_Arnold_Gamboa.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Web_Development_Contract_Arnold_Gamboa.pdf)

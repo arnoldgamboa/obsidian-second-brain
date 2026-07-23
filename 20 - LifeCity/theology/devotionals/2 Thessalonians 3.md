@@ -1,1 +1,0 @@
-Being idle is not a good thing. Work.

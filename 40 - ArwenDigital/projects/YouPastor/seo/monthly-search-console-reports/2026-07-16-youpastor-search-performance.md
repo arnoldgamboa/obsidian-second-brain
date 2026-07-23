@@ -7,6 +7,12 @@ comparison_period: "2026-05-01 to 2026-05-30"
 source: "Google Search Console via Composio"
 status: complete
 tags: [youpastor, seo, search-console, monthly-review]
+brain_schema: 1
+type: report
+created: 2026-07-16
+updated: 2026-07-16
+area: ArwenDigital
+aliases: []
 ---
 
 # YouPastor Monthly Search Performance — June 2026

@@ -1,9 +1,0 @@
-- [ ] oral communication speech
-- [ ] genmath video
-- [ ] graded recitation review
-- [ ] defense review
-- [ ] Kompan poem print
-- [ ] genmath exam review
-- [ ] physci exam review
-- [x] 3d modeling complete
-- [ ] papp paper

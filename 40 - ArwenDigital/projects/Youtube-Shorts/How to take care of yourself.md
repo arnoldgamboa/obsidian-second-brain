@@ -1,5 +1,0 @@
-1. Start with small steps: Don't be discouraged by the idea of self-care. Start with small, manageable tasks, and gradually build from there.
-2. Set boundaries: Create healthy boundaries to protect your time and energy. Say no to commitments that drain you, and set aside specific times for self-care activities.
-3. Practice self-compassion: Be kind to yourself and give yourself the grace you deserve. It's okay to make mistakes and take time for yourself.
-4. Connect with others: We're not meant to go through life alone. Spend time with people who lift you up and support you. Surround yourself with a community that loves and cares for you.
-5. Nourish your relationship with God: Take time to nurture your relationship with God through prayer, meditation, reading scripture, or any other spiritual practice that speaks to your heart. Remember, you are a beloved child of God, and He wants nothing more than to be close to you.

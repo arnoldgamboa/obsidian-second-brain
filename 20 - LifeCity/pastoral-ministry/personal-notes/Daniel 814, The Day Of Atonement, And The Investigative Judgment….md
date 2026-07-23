@@ -1,1 +1,0 @@
-[Dr-Desmond-Ford-Daniel.8.14.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Dr-Desmond-Ford-Daniel.8.14.pdf)

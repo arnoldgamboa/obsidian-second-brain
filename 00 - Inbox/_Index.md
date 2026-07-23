@@ -1,6 +1,13 @@
 ---
 tags: [inbox, mind-dump, workflow, moc]
 status: active
+brain_schema: 1
+title: "Inbox and Mind Dumps"
+type: index
+created: 2026-07-12
+updated: 2026-07-12
+area: Inbox
+aliases: []
 ---
 
 # Inbox and Mind Dumps
@@ -38,3 +45,12 @@ Inbox zero. There are no unprocessed capture files.
 
 - Current inbox: `/opt/data/My-Second-Brain/00 - Inbox/`
 - `00-Inbox/`, `brain/+/`, and `/Volumes/GamboaSSD/...` are legacy paths and must not be used.
+
+<!-- markdown-brain:auto:start -->
+## Generated Note Catalog
+
+| Note | Type | Status | Updated |
+|---|---|---|---|
+| [[00 - Inbox/Inbox|Inbox (+)]] | note | active | 2026-07-21 |
+| [[00 - Inbox/2026-07-17-prospeo-free-credits-cold-outreach-test|Prospeo free credits for cold-outreach testing]] | note | inbox | 2026-07-17 |
+<!-- markdown-brain:auto:end -->

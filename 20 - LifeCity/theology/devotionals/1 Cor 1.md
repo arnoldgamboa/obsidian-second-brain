@@ -1,1 +1,0 @@
-No body can boast about his own wisdom or strength. So we can't say we follow a particular teacher. Follow Jesus.

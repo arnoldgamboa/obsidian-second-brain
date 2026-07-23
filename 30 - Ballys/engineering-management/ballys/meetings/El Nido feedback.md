@@ -1,2 +1,0 @@
-- Release with missing KYC events
-- Feedback from PO first

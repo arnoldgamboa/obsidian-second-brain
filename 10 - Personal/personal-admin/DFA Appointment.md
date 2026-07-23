@@ -1,1 +1,0 @@
-[9F821DFCC47F1D5B7AB7B8FC447B50E5 (1).pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/9F821DFCC47F1D5B7AB7B8FC447B50E5%20%281%29.pdf)

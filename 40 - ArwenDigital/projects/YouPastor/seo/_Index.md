@@ -2,6 +2,12 @@
 tags: [youpastor, seo, index]
 created: 2026-07-03
 status: active
+brain_schema: 1
+title: "YouPastor SEO"
+type: index
+updated: 2026-07-03
+area: ArwenDigital
+aliases: []
 ---
 
 # YouPastor SEO

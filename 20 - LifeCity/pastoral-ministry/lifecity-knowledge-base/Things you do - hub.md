@@ -1,9 +1,0 @@
-- [ ] Check with electrician re issue on lights
-- [ ] Buy bricks
-- [x] Frost installation 
-- [x] New banner in lobby
-- [x] New small envelope / Arnold printing stickers for QR codes
-- [x] Carpet — we need to change it (c/o Auntie Ebong?)
-- [x] Kids room
-- [x] Pandesal
-- [x] Relocate AC

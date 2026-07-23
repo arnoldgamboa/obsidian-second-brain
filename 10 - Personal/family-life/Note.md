@@ -1,1 +1,0 @@
-<span style="font-size:11.142857551574707pt;">Magaling magluto ng sinigang si Inay Pero maasim ang pinakbet na luto ni inday.</span>

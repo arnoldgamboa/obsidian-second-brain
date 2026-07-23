@@ -1,1 +1,0 @@
-<a href="https://exponential.org/making-disciple-makers/" rel="noopener" class="external-link" target="_blank" style="color:#00eeff;"><u>https://exponential.org/making-disciple-makers/</u></a>

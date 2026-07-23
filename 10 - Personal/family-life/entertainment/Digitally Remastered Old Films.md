@@ -1,3 +1,0 @@
-https://www.facebook.com/starcinemaofficial/posts/pfbid0SCmkKucmHxitFeFDTNpExQqRD5gFeiTJYy5s2bsbard7FQgX6gPWPJicsom52AiZl
-
-#movie

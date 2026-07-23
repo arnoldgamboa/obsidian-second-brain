@@ -1,1 +1,0 @@
-[pba.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/pba.pdf)

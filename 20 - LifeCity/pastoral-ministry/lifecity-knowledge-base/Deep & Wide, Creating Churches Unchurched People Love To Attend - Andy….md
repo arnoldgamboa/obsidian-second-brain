@@ -1,5 +1,0 @@
-**(unknown attachment: org.idpf.epub-container)** 
-
-<span style="font-family:ArialMT;font-size:14pt;color:#333333ff;">Nearly 2,000 years ago, Jesus started a movement that has grown like wildfire throughout the past 20 centuries. Author and pastor Andy Stanley brings to life from Scripture and over 25 years of pastoral experience the irresistible nature of this movement known as the Church.</span> 
-<span style="font-family:ArialMT;font-size:14pt;color:#333333ff;">Stanley identifies some of the key decisions and strategies that helped the church begin by the power of the Holy Spirit many centuries ago and continues to flourish today. He tells many stories of how God is working today to continue the movement of the church through the examples of North Point Community Church in Atlanta, GA.</span> 
-<span style="font-family:ArialMT;font-size:14pt;color:#333333ff;">If you want to know how you can create a movement in your local community that can impact the entire world, Stanley points the way to create irresistible leadership, irresistible environments and an irresistible culture with in your church.</span>

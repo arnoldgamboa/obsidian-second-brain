@@ -8,6 +8,13 @@ period: 2026-04-15_to_2026-05-14
 status: reviewed
 source: statement.pdf
 restored_from: session_search
+brain_schema: 1
+title: "Credit Card Spending Summary — April 15 to May 14, 2026"
+type: note
+created: 2026-05-15
+updated: 2026-05-15
+area: Personal
+aliases: []
 ---
 
 # Credit Card Spending Summary — April 15 to May 14, 2026

@@ -3,6 +3,12 @@ tags: [linkedin, engagement, strategy, ai-employee]
 created: 2026-07-02
 status: active
 source: "HeyReach YouTube video: Full Guide to Engaging & Commenting on LinkedIn"
+brain_schema: 1
+title: "LinkedIn Engagement Strategy"
+type: note
+updated: 2026-07-02
+area: ArwenDigital
+aliases: []
 ---
 
 # LinkedIn Engagement Strategy

@@ -1,1 +1,0 @@
-I grew up in a small farming town in Jaen, Nueva Ecija in a big Gamboa clan. Big not just because you’d see Gamboa all over the place but because I’m with

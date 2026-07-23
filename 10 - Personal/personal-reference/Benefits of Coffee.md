@@ -1,2 +1,0 @@
-https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee?fbclid=IwAR2qCkxUNA44vwfIQpXcdYMKdSqeg3TdSvnz3DBwcMDqNsauzggD3XMGZK0#6.-Could-protect-against-liver-conditions
-## <a href="https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee?fbclid=IwAR2qCkxUNA44vwfIQpXcdYMKdSqeg3TdSvnz3DBwcMDqNsauzggD3XMGZK0#6.-Could-protect-against-liver-conditions" rel="noopener" class="external-link" target="_blank"><b><u>9 Health Benefits of Coffee, Based on Science (healthline.com)</u></b></a>

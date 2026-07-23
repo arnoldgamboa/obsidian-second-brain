@@ -1,1 +1,0 @@
-Worship is living a life for God -- the life lived in service to others.

@@ -1,1 +1,0 @@
-1. Generous church - sponsor kids - WORLD VISION

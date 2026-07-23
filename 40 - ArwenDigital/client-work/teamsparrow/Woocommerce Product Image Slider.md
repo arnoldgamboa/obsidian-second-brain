@@ -1,1 +1,0 @@
-[[codecanyon-14849108-twist-product-gallery-slidercarousel-plugin-for-woocommerce-wordpress-plugin (1).zip]]

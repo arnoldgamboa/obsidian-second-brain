@@ -2,6 +2,12 @@
 tags: [linkedin, comments, voice, ai-employee]
 created: 2026-07-02
 status: active
+brain_schema: 1
+title: "LinkedIn Comment Style Guide"
+type: note
+updated: 2026-07-02
+area: ArwenDigital
+aliases: []
 ---
 
 # LinkedIn Comment Style Guide

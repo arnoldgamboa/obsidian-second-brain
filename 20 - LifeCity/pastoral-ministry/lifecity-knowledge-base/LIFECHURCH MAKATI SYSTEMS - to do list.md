@@ -1,9 +1,0 @@
-- [ ] First time guest (assimilation)
-- [ ] Invite (evangelism)
-- [x] First time commitments to Christ (next steps)
-- [x] Mentorships (Discipleship)
-- [x] Sunday Experience (weekend)
-- [x] LifeGroups (small groups)
-- [ ] Stewardship 
-- [ ] Volunteering (ministry)
-- [ ] Leadership development

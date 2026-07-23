@@ -1,1 +1,0 @@
-In the light of God's salvation, no amount of persecution, bad experiences, even death can separate us from God's love. That's eternal security.

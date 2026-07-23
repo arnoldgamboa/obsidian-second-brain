@@ -1,1 +1,0 @@
-The Holy Spirit connects with our spirit -- teaching us, convicting us. Our spirit understands the things of God through the Holy Spirit.

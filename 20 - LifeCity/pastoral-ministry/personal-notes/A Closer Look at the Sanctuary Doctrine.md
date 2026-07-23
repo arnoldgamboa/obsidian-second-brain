@@ -1,96 +1,0 @@
-<span style="font-size:11.142857551574707pt;">Did Jesus enter the 2nd compartment of the Heavenly Sanctuary in 1844?</span>
-
-<span style="font-size:11.142857551574707pt;">Adventists say yes. The whole 2300 year prophecy of Daniel 8:14 culminated in 1844 when Jesus proceeded to the second phase of his ministry by entering the 2nd compartment of the Heavenly Sanctuary to cleanse it. The second phase is the eschatological Day of Atonement and the start of the Investigative Judgement. Adventism’s identity hinges on the validity of the Sanctuary Doctrine as it gave a reason for some Millerites to move on from the Great Disappointment and evolve to become the Seventh-day Adventist Church. But what if it can be demonstrated that this doctrine is flawed and outright unbiblical?</span> 
-
-<span style="font-size:11.142857551574707pt;">Although I could go to great lengths emphasizing the implications of a debunked Sanctuary Doctrine, I will refrain from doing so. The reaction of individual Adventists could vary depending on how relevant the doctrine is to them. For many former Adventists, the major reason or the trigger reason they left was when they realized that the Sanctuary Doctrine is unbiblical. For many Adventists who are aware of the issues, what they usually do is bury their head in sand and let the scholars defend it. It is way over their heads so they think technicalities don’t matter so long as the Sanctuary is understood as just another way to explain the Gospel. Many have tried to debunk it from within and without, but the SDA Church still found a way to hold on to it.</span> 
-
-<span style="font-size:15.428571701049805pt;"><b>Why study the Sanctuary Doctrine deeper?</b></span>
-
-<span style="font-size:11.142857551574707pt;">Why would you want to really understand the issues surrounding the Sanctuary Doctrine in the first place? If you’re extremely comfortable being an Adventist, you may have no reason to study it deeper. But I hope that news of people leaving Adventism has at least made you wonder “why”. If these former Adventists point out the Sanctuary Doctrine as one of the biggest issues they had, then maybe, just maybe, you have to take a closer look.</span>
-
-<span style="font-size:11.142857551574707pt;">Studying the Sanctuary Doctrine and finally debunking it could set you on a journey out of Adventism, or it may not. But perhaps if you found out that the Sanctuary Doctrine is truly biblical, and it’s a very important doctrine, you can stop Adventists from leaving because of it. Wouldn’t that be reason enough?</span> 
-
-<span style="font-size:11.142857551574707pt;">I hope you’d continue reading!</span>
-
-<span style="font-size:15.428571701049805pt;"><b>A little personal background</b></span>
-
-<span style="font-size:11.142857551574707pt;">I knew about the issues surrounding the Sanctuary Doctrine since I became an Adventist. But I didn’t really dig deeper because I thought it was already defended masterfully by Adventist Scholars. I also felt that I don’t have time and motivation to verify if Adventist Scholars have truly offered a good case for it. So I shelved the topic and simply focused on proclaiming the Gospel and just use the Sanctuary as an illustration of the Gospel. However, I knew I can’t shelve it forever. I knew that I will have to face the issues one way or another. I shelved it for far too long afraid of what I’ll find. For me, if the Sanctuary Doctrine turns out to be false, then what else has Adventism got wrong? I might be embarking on a journey out of Adventism, and I was terrified of that idea. On the other hand, if I can prove beyond doubt that the Sanctuary Doctrine is true, then I can proclaim the Gospel and the Adventist message with even more conviction. I have to settle it once and for all!</span>
-
-<span style="font-size:11.142857551574707pt;">The opportunity came during the pandemic when I got more time and motivation to study. Just as I feared, to study it is to embark on a journey out of Adventism. So here, I’d like to present how I finally debunked it for myself just by reading the Bible plainly.</span> 
-
-<span style="font-size:11.142857551574707pt;">I had a few significant realizations when I was digging deeper into the Sanctuary Doctrine:</span>
-
-- <span style="font-size:11.142857551574707pt;">It is quite easy to debunk!</span> 
-- <span style="font-size:11.142857551574707pt;">Adventist Scholars presented</span> <span style="font-size:11.142857551574707pt;"><i>red herrings</i></span> <span style="font-size:11.142857551574707pt;">to defend it</span> 
-
-<span style="font-size:15.428571701049805pt;"><b>Asking the Right Questions</b></span>
-
-<span style="font-size:11.142857551574707pt;">If the Seventh-day Adventist system of doctrines is a house of cards, the Sanctuary Doctrine is the one card that could collapse it all. So Adventist Scholars defended it with all their might, even publishing a</span> <a href="https://www.logos.com/product/37737/daniel-and-revelation-committee-series" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;color:#e4afaff;"><u>7-volume Series</u></a> <span style="font-size:11.142857551574707pt;">with 2,400+ pages of “scholarly” work. However, as I read through the issues, what I realized is that they presented</span> <span style="font-size:11.142857551574707pt;"><i>red herrings</i></span><span style="font-size:11.142857551574707pt;">. To the Adventist laity, those red herrings can give an impression that scholars have answered the objections already. Unfortunately, it’s not easy at all to point out the red herrings. It takes a lot of reading from both sides of the issue to get a real grip. Adventists who don’t have time to read could be trapped inside the system. So I would like to write this statement as a testimony: it’s very easy to debunk! You don’t need to read thousands of pages of material just to understand the issues. All you need to do is ask the right questions. I wish I could say “just take my word for it”, but as an ordinary Adventist without any scholarly or pastoral credentials, my word means nothing. So don’t take my word for it, just study it for the sake of truth!</span>
-
-<span style="font-size:11.142857551574707pt;">There are many ways to dismantle the Sanctuary Doctrine. But because it’s such a complex doctrine, it’s either you get overwhelmed and just ignore the topic, or simply realize that it is based on a chain of fundamental premises. Destroy one premise in that chain and you destroy the whole doctrine. In this article, I only want to focus on one link of that chain. Don’t fall into the trap of thinking that you need to read everything before you debunk it for yourself.</span>
-
-<span style="font-size:11.142857551574707pt;">The most technically difficult to debunk in the chain is the Daniel 8:14 interpretation. Another difficult approach is to debunk the Investigavite Judgement and the concept of an eschatological Day of Atonement by pointing out their implications that compromise the Gospel. But in my case, I found that the easiest to debunk is the premise that Jesus entered the Holy of Holies of the Heavenly Sanctuary in 1844. Once this is debunked, everything else collapses. SDA interpretation of Daniel 8:14 will look</span> <span style="font-size:11.142857551574707pt;"><i>forced</i></span> <span style="font-size:11.142857551574707pt;">and rescuing it by defending the “historicist” approach won’t really help. Then the Investigative Judgement becomes irrelevant and unnecessary regardless of how “nice” this doctrine could have been for those who think it shows the justice and love of God.</span>  
-
-<span style="font-size:11.142857551574707pt;">The only link that we need to break, the only assumption that we’ll demonstrate to be unbiblical is the idea of Jesus entering the 2nd compartment of the Heavenly Sanctuary. Did Jesus enter it in 1844? The Bible says he didn’t have to.</span>
-
-<span style="font-size:15.428571701049805pt;"><b>The Heavenly Sanctuary doesn’t have two compartments (anymore)</b></span>
-
-<span style="font-size:11.142857551574707pt;">We know that Jesus didn’t go to the “Most Holy Place” in 1844 simply because it is the only compartment in Heaven, which means he’s already there. How can Jesus go to a “2nd" compartment that doesn’t exist? The whole Sanctuary Doctrine hangs on the premise that the Heavenly Sanctuary is a semi-physical place that also has 2 compartments denoting that Jesus must also have a two-phase ministry. But the author of Hebrews made it clear that this could not be the case.</span>
-
-<span style="font-size:11.142857551574707pt;">We could demonstrate that the Heavenly Sanctuary doesn’t have two compartments in 3 ways. First is by showing that the Heavenly Sanctuary is not a semi-physical structure in Heaven but is actually the whole Plan of Redemption. Second is by noting that Jesus didn’t typify the 2-phase ministry of the Levitical Priesthood. Third is by pointing out the verses that say the Heavenly Sanctuary doesn't have two compartments anymore.</span>
-
-<span style="font-size:11.142857551574707pt;">The key chapters to study are in Hebrews 7-10. These chapters clearly explain the Sanctuary in a way that removes any notion that Jesus needed to fulfill a 2-phase ministry in Heaven. How plainly? Here are the points to consider.</span> 
-
-1. <span style="font-size:11.142857551574707pt;">The Earthly Sanctuary was a</span> <span style="font-size:11.142857551574707pt;"><i>shadow copy</i></span> <span style="font-size:11.142857551574707pt;">of the heavenly things, not an</span> <span style="font-size:11.142857551574707pt;"><i>exact copy</i></span> <span style="font-size:11.142857551574707pt;">(Heb 8:5)</span> 
-	- <span style="font-size:11.142857551574707pt;">The heavenly realities of the Earthly Sanctuary’s elements have been explicitly identified in the Bible.</span> 
-		- <span style="font-size:11.142857551574707pt;">Lamb = Jesus the Lamb of God (Jn 1:9)</span> 
-		- <span style="font-size:11.142857551574707pt;">Levitical Priesthood = Jesus the High Priest in the order of Melchizedek (Heb 7:17,26, 9:11)</span> 
-		- <span style="font-size:11.142857551574707pt;">Bread = Jesus, Bread of Life (Jn 6:35)</span> 
-		- <span style="font-size:11.142857551574707pt;">Lampstand = Jesus, the unquenchable Light (Jn 1:4-5)</span> 
-		- <span style="font-size:11.142857551574707pt;">The Veil = The Body/Flesh of Jesus (Heb 10:20)</span> 
-		- <span style="font-size:11.142857551574707pt;">Incense = Prayers of Saints through the Holy Spirit (Rom 8:26, Rev 5:8, Rev 8:3)</span> 
-		- <span style="font-size:11.142857551574707pt;">Aaron’s Rod that Budded = Jesus, the Messiah, the rod of God’s strength (Ps 110:1-2)</span> 
-		- <span style="font-size:11.142857551574707pt;">Manna = Jesus the Bread from Heaven (Jn 6:51)</span> 
-		- <span style="font-size:11.142857551574707pt;">The Tablets of the 10 Commandments = Jesus the fulfillment of the Law (Mt 5:17, Ps 40)</span> 
-		- <span style="font-size:11.142857551574707pt;">Covering Cherubs and Shekhinah = God the Father in His Throne (Heb 9:24)</span> 
-		- <span style="font-size:11.142857551574707pt;">The 1st Compartment (Holy Place) = Present Age or the Old Covenant (Heb 9:8-10)</span> 
-		- <span style="font-size:11.142857551574707pt;">The 2nd Compartment (Holy of Holies) = Heaven itself (Heb 9:24)</span> 
-		- <span style="font-size:11.142857551574707pt;">The Heavenly Sanctuary = The Whole Plan of Redemption</span> 
-	- <span style="font-size:11.142857551574707pt;">Because the heavenly realities of the shadow copies have been explicitly identified, we simply have no reason to believe that there is a semi-physical Sanctuary in Heaven that has the same appearance and layout as the Earthly Sanctuary</span> 
-	- <span style="font-size:11.142857551574707pt;">Therefore, the Heavenly Sanctuary is not a location but is actually the whole Plan of Redemption, Jesus entered the Holy of Holies of this heavenly system when he went to Heaven</span> 
-1. <span style="font-size:11.142857551574707pt;">Jesus did not perform the Levitical Priesthood</span> 
-	- <span style="font-size:11.142857551574707pt;">Jesus was not typified by the Levitical Priesthood, but was contrasted against it</span> 
-	- <span style="font-size:11.142857551574707pt;">Jesus is the High Priest after the order of Melchizedek (Heb 7:17)</span> 
-	- <span style="font-size:11.142857551574707pt;">Jesus does not need to offer sacrifices repeatedly like the Levitical Priests (Heb 7:27)</span> 
-	- <span style="font-size:11.142857551574707pt;">The Levitical High Priest offered sacrifice “yearly" then goes to the Holy of Holies (Heb 9:7)</span> 
-	- <span style="font-size:11.142857551574707pt;">The Levitical Priests “</span><span style="font-size:11.142857551574707pt;"><i>stands</i></span><span style="font-size:11.142857551574707pt;">” daily to perform sacrifices in the outer section (Heb 10:11, Heb 9:6,9,10)</span> 
-	- <span style="font-size:11.142857551574707pt;">Jesus “</span><span style="font-size:11.142857551574707pt;"><i>sat down</i></span><span style="font-size:11.142857551574707pt;">” at the right hand of God after performing a single High Priestly sacrifice (Heb 9:11-12, 10:12)</span> 
-	- <span style="font-size:11.142857551574707pt;">Therefore, the concept of Jesus entering the 1st compartment as a Priest doing intercessions and then the 2nd compartment as a High Priest to cleanse it for final atonement, is not applicable to Jesus who is the High Priest after the order of Melchizedek who only needed to offer one sacrifice to accomplish the atonement, once and for all</span> 
-1. <span style="font-size:11.142857551574707pt;">The Heavenly Sanctuary doesn’t have 2 compartments anymore</span> 
-	- <span style="font-size:11.142857551574707pt;">The earthly Holy Place (1st compartment) was a symbol of the present age (the old covenant), which includes the whole Earthly Sanctuary system (Heb 9:8-10)</span> 
-	- <span style="font-size:11.142857551574707pt;">The present age or the Old Covenant is now obsolete (Heb 8:13, 9:26)</span> 
-	- <span style="font-size:11.142857551574707pt;">Therefore there is no more first section anywhere, even in the Heavenly Sanctuary</span> 
-	- <span style="font-size:11.142857551574707pt;">The earthly veil was torn open on the death of Jesus (Mark 15:38)</span> 
-	- <span style="font-size:11.142857551574707pt;">The veil represented the Body of Jesus broken for us (Heb 10:20)</span> 
-	- <span style="font-size:11.142857551574707pt;">The way into the presence of God that was symbolized by the earthly Holy of Holies is now open, because the veil is the Body of Jesus which does not separate us from God, but brings us to Him (Heb 10:20)</span> 
-	- <span style="font-size:11.142857551574707pt;">Therefore the Heavenly Sanctuary has no more divisions</span> 
-
-<span style="font-size:11.142857551574707pt;">Notice that the suggested translation for “τ</span><span style="font-family:HelveticaNeue;font-size:11.142857551574707pt;">ὰ</span> <span style="font-family:HelveticaNeue;font-size:11.142857551574707pt;">ἅ</span><span style="font-size:11.142857551574707pt;">για”(ta hagia) in Heb. 9:12 as “the holies”, “the holy places”, or “the sanctuary” is granted. But regardless of translation, the doctrine still doesn’t hold. It only removes a single proof text, but the overall argument still stands. The translation issue has proven to be just one of the red herrings to avoid the fundamental issues.</span> 
-
-<span style="font-size:15.428571701049805pt;"><b>A Note on “behind the veil”</b></span>
-
-<span style="font-size:11.142857551574707pt;">The issue of the veil is another red herring. Much has been said already about Heb. 6:19-20 where it was apparently made clear that Jesus is already within the “Holy of Holies” of the Heavenly Sanctuary. The best answer that Adventists came up with is that “the curtain” could mean any curtain of the Sanctuary as Ex. 38:18; 39:40; Lev. 16:2,12,15; 21:23; Num. 3:26; 4:26; 18:7 described. It is true, so let us grant that the “curtain” here is the entrance to the Holy Place, and not the veil of the Holy of Holies.</span>
-
-<span style="font-size:11.142857551574707pt;">Here’s the red herring: the real question is not "which veil?" but "where did Jesus go?" after entering behind this veil. The verses themselves actually gave clues that the author is talking about the Holy of Holies. First notice the phrase “</span><span style="font-family:HelveticaNeue;font-size:11.142857551574707pt;">ἐ</span><span style="font-size:11.142857551574707pt;">σώτερον” (esoteron) which could be translated as “inner place” (ESV), “inner shrine” (RSV), or “the Presence behind” (NKJV). Jesus went to what is described as an “inner place” which also has the presence of God. That could only be the second compartment. There was no need to use the descriptor “inner” if the author was only talking about the first compartment.</span>
-
-<span style="font-size:11.142857551574707pt;">Finally, here’s the strongest clue that the author is talking about the Holy of Holies: verse 20 says Jesus entered as a High Priest. What do high priests do when they enter the Sanctuary? They go to the Holy of Holies (Heb 9:7). How much clearer can the author get?</span>
-
-<span style="font-size:11.142857551574707pt;">So it doesn’t matter which veil Jesus went through. What matters is where he went. It can only be the Holy of Holies, heaven itself where the presence of God is, and where Jesus is already sitting on his throne at the right hand of the Father.</span>
-
-<span style="font-size:15.428571701049805pt;"><b>Conclusion</b></span>
-
-<span style="font-size:11.142857551574707pt;">By contrasting shadow vs reality, Earthly vs Heavenly Sanctuary, Old vs New Covenant, and Levitical vs Melchizedekian Priesthood, the author of Hebrews emphasized how the shadow sanctuary is similar to but also different from the real Sanctuary. The Bible has identified the heavenly realities that the Earthly Sanctuary represented. So why think of the Heavenly Sanctuary in a semi-physical sense? The author of Hebrews is quite clear that the Heavenly Sanctuary is the whole Plan of Redemption from the time of the Israelites until the time when Jesus went to Heaven.</span> 
-
-<span style="font-size:11.142857551574707pt;">Add all that evidence to the almost explicit declaration in Hebrews 6:19-20 and we’re left with only one conclusion: Jesus did not have to wait until 1844 before entering the Holy of Holies because he already went there when he went to Heaven.</span>
-
-<span style="font-size:11.142857551574707pt;">If Jesus didn’t go to the Holy of Holies in 1844 for the 2nd part of his ministry, then the Investigative Judgement had no technical basis, and the eschatological Day of Atonement is just unnecessary. The implications for Adventists are huge, that is why they had to hold on to the Sanctuary Doctrine no matter what. Many of their doctrines and their very reason for existence hang in the validity of the Sanctuary Doctrine. Simply put, if the Sanctuary Doctrine is false, then there is really no reason to be an Adventist and everything they claim is put into question.</span>

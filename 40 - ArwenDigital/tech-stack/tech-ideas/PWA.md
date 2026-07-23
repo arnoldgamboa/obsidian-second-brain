@@ -1,1 +1,0 @@
-https://dev.to/rashedulhridoy/the-future-of-web-development-emerging-trends-and-technologies-every-developer-should-know-1ceb

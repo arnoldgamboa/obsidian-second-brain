@@ -1,1 +1,0 @@
-[Scannable Document on 19 Aug 2019 at 7_01_52 PM.png](https://obsidian-assets.arnold.gamboa.ph/Assets/Scannable%20Document%20on%2019%20Aug%202019%20at%207_01_52%20PM.png)

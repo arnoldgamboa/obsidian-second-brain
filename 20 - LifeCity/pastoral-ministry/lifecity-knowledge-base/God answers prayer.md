@@ -1,1 +1,0 @@
-God will answer your prayer. He may say “yes. He may say, “wait”. Or he may say, “I’ve got something better for you.” - Charles Stanley.

@@ -1,3 +1,0 @@
-- maximize chazown
-- change time? Morning? (10 am and 11:30 am?) 
-- is morning the primetime?

@@ -1,1 +1,0 @@
-The apostles' ministry to the church is invaluable. They are often misinterpreted, they are poor. But because they were tasked to care for ththe church, we should imitate their lives.

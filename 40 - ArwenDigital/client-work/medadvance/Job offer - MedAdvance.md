@@ -1,1 +1,0 @@
-[Offer Arnold Gamboa.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Offer%20Arnold%20Gamboa.pdf)

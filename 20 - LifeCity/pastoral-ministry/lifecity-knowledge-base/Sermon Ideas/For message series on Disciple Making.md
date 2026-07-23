@@ -1,1 +1,0 @@
-[**1 John 4:11**](https://www.bible.com/en/videos/36802?orientation=PORTRAIT&utm_source=YVAPP&utm_medium=SHARE&utm_content=STORY_CLIP)

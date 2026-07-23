@@ -2,6 +2,14 @@
 tags: [bookmark, ai-agents, agent-library, automation, developer-tools]
 date: 2026-07-14
 source: https://www.atomeve.dev/
+brain_schema: 1
+title: "Atom Eve"
+type: bookmark
+status: active
+created: 2026-07-14
+updated: 2026-07-14
+area: Resources
+aliases: []
 ---
 
 # Atom Eve

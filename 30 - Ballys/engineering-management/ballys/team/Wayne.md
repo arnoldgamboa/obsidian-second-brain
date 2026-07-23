@@ -1,5 +1,0 @@
-MDD
-Handoff
-Unicorn
-
-Hackathon

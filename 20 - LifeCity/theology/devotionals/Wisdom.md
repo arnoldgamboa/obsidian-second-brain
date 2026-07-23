@@ -1,7 +1,0 @@
-“And now, O Lord my God, you have made your servant king in place of David my father, although I am but a little child. I do not know how to go out or come in. And your servant is in the midst of your people whom you have chosen, a great people, too many to be numbered or counted for multitude. Give your servant therefore an understanding mind to govern your people, that I may discern between good and evil, for who is able to govern this your great people?" It pleased the Lord that Solomon had asked this. And God said to him, "Because you have asked this, and have not asked for yourself long life or riches or the life of your enemies, but have asked for yourself understanding to discern what is right, behold, I now do according to your word. Behold, I give you a wise and discerning mind, so that none like you has been before you and none like you shall arise after you.”
-‭‭1 Kings‬ ‭3:7-12‬ ‭ESV‬‬
-http://bible.com/59/1ki.3.7-12.esv
-
-Solomon, instead of asking God of wealth and power, asked for wisdom. And God was pleased. 
-
-So, I'd like to evaluate my prayers. Is most of my prayers about asking God for provision or about my problems? Or is it about asking him to guide me in my daily decisions so I can please Him and in so doing benefit me, my family and the church? My prayers are a reflection of what I desire the most. It is my hope that I'll continue to ask God's wisdom instead of the temporal things of power and possessions.

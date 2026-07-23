@@ -1,1 +1,0 @@
-The church is mutual accountability. The elders are tasks to care for the flock, while the flock are adviced to be subject to the elders.

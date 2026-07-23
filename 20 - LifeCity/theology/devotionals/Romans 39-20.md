@@ -1,1 +1,0 @@
-All are sinners. The law cannot justify because through it knowledge of sin.
