@@ -2,14 +2,6 @@
 tags: [bookmark, ai-agents, coding-agents, software-development, skillsllm]
 date: 2026-06-21
 source: https://skillsllm.com/skill/ponytail
-brain_schema: 1
-title: "Ponytail Skill"
-type: bookmark
-status: active
-created: 2026-06-21
-updated: 2026-06-21
-area: Resources
-aliases: []
 ---
 
 # Ponytail Skill

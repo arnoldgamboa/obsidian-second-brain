@@ -1,0 +1,1 @@
+The only way to walk in freedom is to walk in the Spirit.

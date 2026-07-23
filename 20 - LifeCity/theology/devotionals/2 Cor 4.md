@@ -1,0 +1,1 @@
+We will be raised to life the way Jesus was. So thw afflictions we encounter today  is better than th glory prepared for us for eternity.

@@ -1,0 +1,1 @@
+<a href="http://www.freshlife.church/messages/series.php?id=171" rel="noopener" class="external-link" target="_blank" style="color:#00eeff;"><u>http://www.freshlife.church/messages/series.php?id=171</u></a>

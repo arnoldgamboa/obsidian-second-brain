@@ -1,0 +1,1 @@
+Nothing that we do will make is better for worse in the eyes of God -- because it's really all about Jesus. But don't be a stumbling block to your fellow believers.

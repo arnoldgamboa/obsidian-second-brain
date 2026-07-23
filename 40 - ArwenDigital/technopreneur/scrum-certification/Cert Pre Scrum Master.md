@@ -1,0 +1,2 @@
+https://www.linkedin.com/learning/cert-prep-scrum-master/what-a-scrum-master-certification-can-do-for-you?contextUrn=urn%3Ali%3AlearningCollection%3A7018781200869715968
+## <a href="https://www.linkedin.com/learning/cert-prep-scrum-master/what-a-scrum-master-certification-can-do-for-you?contextUrn=urn%3Ali%3AlearningCollection%3A7018781200869715968" rel="noopener" class="external-link" target="_blank"><u>What a scrum master certification can do for you (linkedin.com)</u></a>

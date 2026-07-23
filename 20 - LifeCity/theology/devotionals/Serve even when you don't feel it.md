@@ -1,0 +1,7 @@
+“He sent and had John beheaded in the prison, and his head was brought on a platter and given to the girl, and she brought it to her mother. And his disciples came and took the body and buried it, and they went and told Jesus. Now when Jesus heard this, he withdrew from there in a boat to a desolate place by himself. But when the crowds heard it, they followed him on foot from the towns. When he went ashore he saw a great crowd, and he had compassion on them and healed their sick.”
+‭‭Matthew‬ ‭14:10-14‬ ‭ESV‬‬
+http://bible.com/59/mat.14.10-14.esv
+
+John, Jesus' cousin just died a horrible death. He wanted to be alone and mourn so he went to a desolate place. I can imagine Jesus being human so affected by this tragedy. And yet when he saw the people with needs, he chose to minister to them instead. 
+
+There are moments when I don't feel like serving and ministering due to stress, issues in life and all things that goes within the busy schedule. But I'm reminded today that I need to serve despite of. Not because I'm going to loose points if I don't. But because Jesus is my priority. He supersedes my doubts, my feelings. I remember what Rick Warren says that the only way to worship and serve God is to serve people.

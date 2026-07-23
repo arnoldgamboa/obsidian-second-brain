@@ -1,0 +1,1 @@
+[CleanShot 2025-03-28 at 15.13.44.png](https://obsidian-assets.arnold.gamboa.ph/Assets/CleanShot%202025-03-28%20at%2015.13.44.png)

@@ -3,13 +3,6 @@ tags: [project, youpastor, email, waitlist, lifecycle-email]
 date: 2026-06-23
 status: draft
 source: telegram-brainstorm-with-agent
-brain_schema: 1
-title: "YouPastor Waitlist Download Email Sequence"
-type: note
-created: 2026-06-23
-updated: 2026-06-23
-area: ArwenDigital
-aliases: []
 ---
 
 # YouPastor Waitlist Download Email Sequence

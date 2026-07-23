@@ -1,0 +1,7 @@
+“In the year that King Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and the train of his robe filled the temple. Above him stood the seraphim. Each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew. And one called to another and said: "Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory!" And the foundations of the thresholds shook at the voice of him who called, and the house was filled with smoke. And I said: "Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, the Lord of hosts!"”
+‭‭Isaiah‬ ‭6:1-5‬ ‭ESV‬‬
+<a href="http://bible.com/59/isa.6.1-5.esv" rel="noopener" class="external-link" target="_blank"><u>http://bible.com/59/isa.6.1-5.esv</u></a>
+
+Isaiah saw the holiness of God. And he saw how sinful he is — “woe to me for I am lost”.
+
+The more I see God’s glory and holiness, the more I see my sinfulness. The opposite is that the more I see myself worthy and clean and good with all the pride and self-righteousness, that’s an indication that I am probably going far from God. The key is to continue to stay close to him, see my sinfulness and make him clean me of my unrighteousness.

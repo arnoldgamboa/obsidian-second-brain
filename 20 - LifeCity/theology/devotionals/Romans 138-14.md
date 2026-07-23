@@ -1,0 +1,1 @@
+The way to cast out the darkness of sin is to put on the light that is Jesus Christ.

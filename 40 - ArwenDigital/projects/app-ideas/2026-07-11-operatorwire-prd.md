@@ -5,11 +5,6 @@ updated: 2026-07-11
 version: 1.3
 status: approved-for-epics
 project: OperatorWire
-brain_schema: 1
-title: "OperatorWire — Product Requirements Document"
-type: idea
-area: ArwenDigital
-aliases: []
 ---
 
 # OperatorWire — Product Requirements Document

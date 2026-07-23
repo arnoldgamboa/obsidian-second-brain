@@ -1,0 +1,1 @@
+Grace comes through fight. As with Abraham when he believed in a future event, so are we to believe in a past event -- the death and resurrection of Jesus.

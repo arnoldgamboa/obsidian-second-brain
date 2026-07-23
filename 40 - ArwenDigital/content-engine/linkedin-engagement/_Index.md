@@ -2,12 +2,6 @@
 tags: [linkedin, engagement, ai-employee, source-of-truth]
 created: 2026-07-02
 status: active
-brain_schema: 1
-title: "LinkedIn Engagement System"
-type: index
-updated: 2026-07-02
-area: ArwenDigital
-aliases: []
 ---
 
 # LinkedIn Engagement System

@@ -1,0 +1,1 @@
+Manage 1:1s notes on staff. More like a history of discussions

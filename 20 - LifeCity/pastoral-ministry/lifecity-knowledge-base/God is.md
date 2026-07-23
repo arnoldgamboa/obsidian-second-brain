@@ -1,0 +1,1 @@
+https://www.biblestudytools.com/bible-study/topical-studies/15-amazing-attributes-of-god-what-they-mean-and-why-they-matter.html

@@ -1,0 +1,1 @@
+<span style="font-size:11.142857551574707pt;">“Your future will take care of itself when you take care of today"</span>

@@ -2,14 +2,6 @@
 tags: [bookmark, ai-design, open-source, claude-code, design-tools, local-first]
 date: 2026-06-30
 source: https://open-design.ai/
-brain_schema: 1
-title: "Open Design"
-type: bookmark
-status: active
-created: 2026-06-30
-updated: 2026-06-30
-area: Resources
-aliases: []
 ---
 
 # Open Design

@@ -1,0 +1,1 @@
+[tickets.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/tickets.pdf)

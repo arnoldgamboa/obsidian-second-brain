@@ -4,12 +4,6 @@ date: 2026-06-25
 project: YouPastor
 type: seo-strategy
 status: active
-brain_schema: 1
-created: 2026-06-25
-updated: 2026-06-25
-area: ArwenDigital
-tags: []
-aliases: []
 ---
 
 # YouPastor SEO Growth Recommendations

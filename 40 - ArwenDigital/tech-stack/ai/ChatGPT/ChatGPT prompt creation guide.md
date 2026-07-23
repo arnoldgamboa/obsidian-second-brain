@@ -1,0 +1,1 @@
+[D57A30DA-78CF-4C26-BE9F-1637FB2A2460.jpeg](https://obsidian-assets.arnold.gamboa.ph/Assets/D57A30DA-78CF-4C26-BE9F-1637FB2A2460.jpeg)

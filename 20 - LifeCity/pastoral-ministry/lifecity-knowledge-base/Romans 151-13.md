@@ -1,0 +1,1 @@
+Live in harmony, welcome one another. Be in unity as we worship God together as Christ's Church.

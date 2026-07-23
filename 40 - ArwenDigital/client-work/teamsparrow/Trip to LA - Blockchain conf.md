@@ -1,0 +1,1 @@
+[Itinerary_Receipt.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Itinerary_Receipt.pdf)

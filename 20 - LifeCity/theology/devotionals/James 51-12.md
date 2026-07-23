@@ -1,0 +1,1 @@
+Life may sometimes be unfair. But be patient because the day of the Lord will soon come and the Judge will rightfully judge.

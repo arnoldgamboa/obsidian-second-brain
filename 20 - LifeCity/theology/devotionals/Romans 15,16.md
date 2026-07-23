@@ -1,0 +1,1 @@
+The last 2 chapters of Romans pertains to Paul's love to the church. He craved for prayers while he also care and pray for them -- praying for them by name at times. Such should be the case for three modern day church.

@@ -20,11 +20,6 @@ bear_published: true verified via bear_get_post and public URL
 facebook_page_id: 1068232809717276
 facebook_post_id: 1068232809717276_122096971761364394
 facebook_permalink_url: "https://www.facebook.com/122096971959364394/posts/122096971761364394"
-brain_schema: 1
-type: content
-updated: 2026-06-15
-area: ArwenDigital
-aliases: []
 ---
 
 ## SEO brief

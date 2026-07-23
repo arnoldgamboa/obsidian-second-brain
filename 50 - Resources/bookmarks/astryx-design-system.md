@@ -2,14 +2,6 @@
 tags: [bookmark, design-system, open-source, ai-design, agent-ready, meta]
 date: 2026-07-04
 source: https://astryx.atmeta.com/
-brain_schema: 1
-title: "Astryx Design System"
-type: bookmark
-status: active
-created: 2026-07-04
-updated: 2026-07-04
-area: Resources
-aliases: []
 ---
 
 # Astryx Design System

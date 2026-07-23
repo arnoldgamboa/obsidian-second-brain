@@ -2,12 +2,6 @@
 tags: [app-ideas, product-development, arwendigital]
 created: 2026-07-03
 status: active
-brain_schema: 1
-title: "App Ideas"
-type: index
-updated: 2026-07-03
-area: ArwenDigital
-aliases: []
 ---
 
 # App Ideas

@@ -1,0 +1,1 @@
+Instead of redis, just save the cache on localStorage

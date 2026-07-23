@@ -1,15 +1,3 @@
----
-brain_schema: 1
-title: "2026-06-22 YouPastor SEO/content operations review"
-type: report
-status: active
-created: 2026-06-22
-updated: 2026-06-22
-area: ArwenDigital
-tags: []
-aliases: []
----
-
 # 2026-06-22 YouPastor SEO/content operations review
 
 Source snapshot generated: 2026-06-22T13:54:41  

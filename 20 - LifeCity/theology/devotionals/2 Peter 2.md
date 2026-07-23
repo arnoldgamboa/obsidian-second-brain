@@ -1,0 +1,1 @@
+God will have his way of delivering the righteous and punishing there wicked.

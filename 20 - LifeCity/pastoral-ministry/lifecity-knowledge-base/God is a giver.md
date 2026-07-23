@@ -1,0 +1,3 @@
+Why did God set it up that way? Because God is a giver. He is the most generous giver in the universe, and God wants you to learn to be like him. He wants to build character in you. 
+
+The Bible says, "Honor the Lord with your wealth and with the best part of everything you produce." (Proverbs 3:9 NLT) This is the principle of tithing. It's the principle that says every time I make $100 -- the first $10 goes back to God.

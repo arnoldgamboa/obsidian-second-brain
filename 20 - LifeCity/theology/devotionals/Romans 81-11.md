@@ -1,0 +1,1 @@
+If you are in Christ, you are dead in sins and alive in the Spirit. You now belong to him.

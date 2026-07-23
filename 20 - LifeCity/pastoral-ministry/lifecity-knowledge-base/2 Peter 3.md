@@ -1,0 +1,1 @@
+Good is not bound by time yet he is patient with us, not wanting us to perish but to repent. While waiting for his return live a holy life.

@@ -1,0 +1,5 @@
+20For what credit is it if, when you sin and are beaten for it, you endure? But if when you do good and suffer for it you endure, this is a gracious thing in the sight of God. 21For to this you have been called, because Christ also suffered for you, leaving you an example, so that you might follow in his steps. (1 Pet. 2:20, 21 ESV)
+
+The context of this verse is that Peter is encouraging the people of God to live a holy lives. By saying that doing good and suffering for it is a gracious thing in the sight of God, it is to say the obvious — the obvious that either hard to do or usually ignored. 
+
+As I grow in Jesus, the tension is not about doing good or doing bad. The tension is really about  allowing myself to suffer just for the sake of doing the right thing. Because the tendency is to protect myself from hurt. That’s my human tendency. But the godly, holy tendency is to pursue holiness with the realization that might suffer by doing it. My prayer is for God to continue to let me grow in him in such a way that this will become a second nature to me.

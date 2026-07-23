@@ -1,0 +1,6 @@
+- [ ] Create website profile
+- [ ] Update Upwork profile
+- [ ] Send email to Josh
+- [ ] Send email to Ms. Mustardseed
+- [ ] Buy Udemy Scrum training
+- [ ] Take Scrum exam ($150)

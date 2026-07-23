@@ -19,11 +19,6 @@ bear_subdomain: arnold-gamboa-dev
 url: https://arnold.gamboa.ph/youpastor-sermon-notes-before-ai-prompts/
 date_published: 2026-06-22
 next_action: Replace the live email capture placeholder and add relevant internal links
-brain_schema: 1
-type: content
-updated: 2026-06-22
-area: ArwenDigital
-aliases: []
 ---
 
 ## SEO brief

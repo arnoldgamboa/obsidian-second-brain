@@ -1,0 +1,4 @@
+Writing is one of the <a href="https://www.developing.dev/p/why-engineers-need-to-write" rel="noopener" class="external-link" target="_blank"><u>most important skills for software engineers</u></a>. A lot of it is repetitive in structure (e.g. design docs, post mortems, etc). This post captures my favorite templates that I use to structure my thoughts and save time.
+
+https://www.developing.dev/p/6-software-engineering-templates
+## <a href="https://www.developing.dev/p/6-software-engineering-templates" rel="noopener" class="external-link" target="_blank"><b><u>6 Software Engineering Templates I Wish I Had Sooner (developing.dev)</u></b></a>

@@ -9,13 +9,6 @@ status: reviewed
 source:
   - DOC-20260618-WA0002..pdf
   - statement.pdf
-brain_schema: 1
-title: "Credit Card Spending Summary — May 16 to June 15, 2026"
-type: note
-created: 2026-06-18
-updated: 2026-06-18
-area: Personal
-aliases: []
 ---
 
 # Credit Card Spending Summary — May 16 to June 15, 2026

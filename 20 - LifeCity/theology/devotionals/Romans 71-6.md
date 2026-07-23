@@ -1,0 +1,1 @@
+Since we died with Christ, we're not under the law that leads us to sinful flesh. Instead we now live in the new way of the Spirit.

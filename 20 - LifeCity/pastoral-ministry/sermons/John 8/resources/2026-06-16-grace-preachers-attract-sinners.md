@@ -4,13 +4,6 @@ date: 2026-06-16
 status: saved-for-sermon-prep
 passage: John 8
 source: user-provided excerpt
-brain_schema: 1
-title: "Grace-preachers attract sinners"
-type: sermon
-created: 2026-06-16
-updated: 2026-06-16
-area: LifeCity
-aliases: []
 ---
 
 # Grace-preachers attract sinners

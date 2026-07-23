@@ -6,12 +6,6 @@ type: seo-implementation-summary
 status: active
 related:
   - 2026-06-12-claude-code-seo-approach
-brain_schema: 1
-created: 2026-06-18
-updated: 2026-06-18
-area: ArwenDigital
-tags: []
-aliases: []
 ---
 
 # YouPastor Current SEO Implementation and Growth Recommendations

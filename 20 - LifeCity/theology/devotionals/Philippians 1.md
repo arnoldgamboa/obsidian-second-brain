@@ -1,0 +1,1 @@
+Christ is better than anything this world can offer.

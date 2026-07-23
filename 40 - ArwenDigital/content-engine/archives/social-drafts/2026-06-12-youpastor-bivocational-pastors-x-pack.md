@@ -11,13 +11,6 @@ approval_note: "Drafted by Friday research job; Arnold can edit/approve before M
 scheduling_note: "Friday job does not queue, schedule, publish, or create Buffer posts. Monday Buffer job handles queueing after approval."
 buffer_queued_at: 2026-06-15T01:01:06Z
 buffer_channel_id: 6796e4ffa31978b79c7a0a9c
-brain_schema: 1
-title: "YouPastor Bivocational Pastors X Pack — 2026-06-12"
-type: note
-created: 2026-06-12
-updated: 2026-06-12
-area: ArwenDigital
-aliases: []
 ---
 
 # YouPastor Bivocational Pastors X Pack — 2026-06-12

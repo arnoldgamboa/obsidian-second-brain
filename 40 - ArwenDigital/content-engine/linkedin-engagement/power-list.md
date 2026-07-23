@@ -3,12 +3,6 @@ tags: [linkedin, engagement, power-list, ai-employee]
 created: 2026-07-02
 status: active
 source_of_truth_for: "LinkedIn engagement suggestions cron b46111d82f97"
-brain_schema: 1
-title: "LinkedIn Engagement Power List"
-type: note
-updated: 2026-07-22
-area: ArwenDigital
-aliases: []
 ---
 
 # LinkedIn Engagement Power List
@@ -57,7 +51,7 @@ These targets came from public LinkedIn/web search results on 2026-07-02. Treat 
 |---|---|---|---|---|---|---|
 | A | candidate | Stacy Tuschl | https://www.linkedin.com/in/stacytuschl | Operations consulting for business owners; strong overlap with scaling, delegation, and owner bottlenecks. | owner bottlenecks; delegation systems; operations before automation | 2026-07-14 |
 | A | candidate | Marquis Murray | https://ca.linkedin.com/in/marquisamurray | Workflow optimization and process streamlining for marketing/eCommerce teams; practical systems audience. | process mapping; Asana/workflow clarity; AI needs documented workflows | 2026-07-13 |
-| A | candidate | David Cristello | https://www.linkedin.com/in/davidcristello | Founder of Jetpack Workflow; accounting-firm workflow/project-management audience. | recurring client work; workflow visibility; fewer dropped balls | 2026-07-22 |
+| A | candidate | David Cristello | https://www.linkedin.com/in/davidcristello | Founder of Jetpack Workflow; accounting-firm workflow/project-management audience. | recurring client work; workflow visibility; fewer dropped balls | 2026-07-06 |
 | B | candidate | Alik Mock | https://www.linkedin.com/in/alikmock | Systems and automation for accounting firms; niche small-business/professional-services operations. | accounting workflows; handoffs; automation as firm infrastructure | |
 | B | candidate | Audra Carpenter | https://www.linkedin.com/in/audracarpenter | Business architecture/capacity-ceiling content for operators. | capacity ceilings; business architecture; owner-independent systems | |
 | B | candidate | Ian Titus | https://www.linkedin.com/posts/iantitus_ive-spent-the-last-10-months-building-ai-activity-7470190866582847488-yyTM | Public post evidence around AI for small-business operations and CRM pipelines. | CRM pipelines; operational follow-through; practical AI for small teams | 2026-07-03 |
@@ -68,19 +62,19 @@ These targets came from public LinkedIn/web search results on 2026-07-02. Treat 
 
 | Priority | Status | Name | Profile URL | Fit reason | Preferred comment angles | Last engaged |
 |---|---|---|---|---|---|---|
-| A | candidate | Jason Swenk | https://www.linkedin.com/in/jasonswenk | Agency-growth audience; useful for delivery systems, founder bottlenecks, and scalable client operations. | agency delivery; founder bottleneck; systems before scale | 2026-07-20 |
-| A | candidate | Erik J. Olson | https://www.linkedin.com/in/iamerikjolson | Agency operator/founder audience; relevant to delivery and growth systems. | delivery infrastructure; client ops; operations matching growth | 2026-07-20 |
+| A | candidate | Jason Swenk | https://www.linkedin.com/in/jasonswenk | Agency-growth audience; useful for delivery systems, founder bottlenecks, and scalable client operations. | agency delivery; founder bottleneck; systems before scale | |
+| A | candidate | Erik J. Olson | https://www.linkedin.com/in/iamerikjolson | Agency operator/founder audience; relevant to delivery and growth systems. | delivery infrastructure; client ops; operations matching growth | |
 | A | candidate | Peter Czapp | https://uk.linkedin.com/in/peterczapp | Agency/business owner audience; likely useful for scale and operational maturity conversations. | agency operations; scaling without chaos; systems maturity | 2026-07-03 |
 | B | candidate | Mike Koziol | https://ca.linkedin.com/in/michalkoziol | Agency/systems content from public search; candidate for practical delivery conversations. | growth vs capacity; operational gaps; client delivery systems | 2026-07-10 |
 | B | candidate | Kristopher Ryan Watson | https://ph.linkedin.com/in/kristopherryanwatson | Philippines-based agency/operator candidate; useful local network potential. | agency ops; local operator context; workflow leverage | |
-| B | candidate | Cora Sanfilippo | https://www.linkedin.com/in/cora-sanfilippo-272680201 | Agency/operator candidate from public search. | SOPs; centralized operations; founder time | 2026-07-23 |
+| B | candidate | Cora Sanfilippo | https://www.linkedin.com/in/cora-sanfilippo-272680201 | Agency/operator candidate from public search. | SOPs; centralized operations; founder time | |
 
 ### Ops / systems / fractional COO targets
 
 | Priority | Status | Name | Profile URL | Fit reason | Preferred comment angles | Last engaged |
 |---|---|---|---|---|---|---|
 | A | candidate | Christine Wade | https://www.linkedin.com/in/christinewade | Fractional COO / operations systems search result; strong fit for process and accountability conversations. | fractional ops; operating systems; accountability rhythms | |
-| A | candidate | Jen Hamilton | https://www.linkedin.com/in/jenniferdawnhamilton | Fractional COO / business systems candidate. | process documentation; leadership leverage; operational clarity | 2026-07-22 |
+| A | candidate | Jen Hamilton | https://www.linkedin.com/in/jenniferdawnhamilton | Fractional COO / business systems candidate. | process documentation; leadership leverage; operational clarity | |
 | A | candidate | John Gauch | https://www.linkedin.com/in/johngauch | Fractional operations candidate; likely founder-led business audience. | operating cadence; team performance; process ownership | |
 | B | candidate | Laura Granato | https://www.linkedin.com/in/lauragranato | Fractional COO / operations consultant candidate. | operational friction; scale readiness; process cleanup | |
 | B | candidate | Corey Peck | https://www.linkedin.com/in/coreypeck | Operations/systems candidate for founder-led business conversations. | EOS/ops systems; team accountability; workflow clarity | |
@@ -92,7 +86,7 @@ Use this bucket sparingly. Include only when the post has a clear operator/busin
 
 | Priority | Status | Name | Profile URL | Fit reason | Preferred comment angles | Last engaged |
 |---|---|---|---|---|---|---|
-| B | candidate | Tim Cakir | https://www.linkedin.com/in/timcakir | AI adoption and workflow confidence for teams; practical if not too AI-hype. | AI adoption; team readiness; workflow-first automation | 2026-07-22 |
+| B | candidate | Tim Cakir | https://www.linkedin.com/in/timcakir | AI adoption and workflow confidence for teams; practical if not too AI-hype. | AI adoption; team readiness; workflow-first automation | |
 | B | candidate | Mike Futia | https://www.linkedin.com/in/mike-futia-108709126 | Practical low-code AI workflows for DTC/agencies. | low-code workflows; quality control; human review gates | |
 | B | candidate | Manan Mehta | https://in.linkedin.com/in/manannmehta | No-code systems for SMEs; practical small-business systems angle. | no-code systems; SME workflows; integration discipline | |
 | C | candidate | Henry T. | https://www.linkedin.com/in/gethenry | RevOps AI agents; useful when tied to revenue workflows, not tool hype. | revenue workflows; CRM hygiene; agent permissions | |

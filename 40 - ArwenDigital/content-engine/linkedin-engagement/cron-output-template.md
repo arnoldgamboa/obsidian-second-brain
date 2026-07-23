@@ -2,12 +2,6 @@
 tags: [linkedin, engagement, cron, template]
 created: 2026-07-02
 status: active
-brain_schema: 1
-title: "LinkedIn Engagement Cron Output Template"
-type: note
-updated: 2026-07-02
-area: ArwenDigital
-aliases: []
 ---
 
 # LinkedIn Engagement Cron Output Template

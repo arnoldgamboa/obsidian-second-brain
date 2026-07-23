@@ -3,13 +3,6 @@ tags: [ai-employee, ai-agents, content-reference, arwendigital]
 date: 2026-07-02
 status: reference
 source: Hermes conversation
-brain_schema: 1
-title: "AI Employee: Boring Repetitive Work by Industry"
-type: reference
-created: 2026-07-02
-updated: 2026-07-02
-area: ArwenDigital
-aliases: []
 ---
 
 # AI Employee: Boring Repetitive Work by Industry

@@ -1,0 +1,1 @@
+Christ has saved you, died for you, nailed your sins on the cross. Don’t let others dictate you of what religiosity is all about. Stick to Jesus.

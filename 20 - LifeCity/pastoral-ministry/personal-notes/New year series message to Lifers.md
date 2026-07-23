@@ -1,0 +1,3 @@
+<span style="font-size:11.142857551574707pt;">Hi Lifers! I'm super excited to see what God will do through LifeCity Church this year!</span>
+<span style="font-size:11.142857551574707pt;">I'm not a fan of planning a message series for the whole year -- 6 months is my tops. But this is what happens when you've got a couple of weeks vacation and the brain looks for something to think about. 😁</span>
+<span style="font-size:11.142857551574707pt;">For 2019, our general theme is the Grace of God. It's</span>

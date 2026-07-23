@@ -1,0 +1,1 @@
+[Arnold Gamboa Resume - Engineering Leader.pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Arnold%20Gamboa%20Resume%20-%20Engineering%20Leader.pdf)

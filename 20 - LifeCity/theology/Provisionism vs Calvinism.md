@@ -1,0 +1,1 @@
+[Soteriology 101 Presentation TULIP (Leighton Flowers).pdf](https://obsidian-assets.arnold.gamboa.ph/Assets/Soteriology%20101%20Presentation%20TULIP%20%28Leighton%20Flowers%29.pdf)

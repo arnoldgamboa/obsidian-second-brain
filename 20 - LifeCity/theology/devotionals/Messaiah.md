@@ -1,0 +1,7 @@
+“He was despised and rejected by men; a man of sorrows, and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not. Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted. But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.”
+‭‭Isaiah‬ ‭53:3-5‬ ‭ESV‬‬
+<a href="http://bible.com/59/isa.53.3-5.esv" rel="noopener" class="external-link" target="_blank" style="color:#00eeff;"><u>http://bible.com/59/isa.53.3-5.esv</u></a>
+
+<a href="http://bible.com/59/isa.53.3-5.esv" rel="noopener" class="external-link" target="_blank" style="color:#00eeff;"><u>T</u></a>he whole chapter 53 is a prophecy about the coming messaiah that is Jesus. It's just so warm to read this prophecy about Jesus, about who he is, what he has done and who we are to him. 
+
+My life is all about Jesus. I may not be in high spirits all the time, I will break his heart for the sins I will commit, but this is my anchor. That Jesus, a man of grief and sorrow, despised and rejected for my sake. His perfect love perfects me. I couldn't say anything more.

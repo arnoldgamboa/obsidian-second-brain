@@ -1,0 +1,1 @@
+<a href="https://docs.google.com/spreadsheets/d/1NPfK47ktVeNNKLv3qMivl7cjhgHuQdHhz6Zx76AaouI/edit?usp=drive_web" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;color:#00eeff;"><u>IDEALAB - statement of charge</u></a>

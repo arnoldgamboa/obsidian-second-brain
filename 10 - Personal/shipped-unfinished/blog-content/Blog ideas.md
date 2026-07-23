@@ -1,0 +1,3 @@
+- What if you self-esteem is low, you can’t even lead
+- Solution : write down 100 good things about you
+- Do not lie to yourself, no ‘daily affirmation’
